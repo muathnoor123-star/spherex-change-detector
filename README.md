@@ -1,6 +1,6 @@
 # SPHEREx change detector
 
-Train a CPU model to locate candidate changes in aligned SPHEREx images and rank them for review. The input is Planet X v1.2.0. See REPORT_AR.md for the Arabic evaluation and limitations. DATA_CITATIONS.md reproduces the dataset credits.
+Train a CPU model to locate candidate changes in aligned SPHEREx images and rank them for review. The input is Planet X v1.2.0. See the [evaluation report](REPORT.md) for test results and limitations. DATA_CITATIONS.md reproduces the dataset credits.
 
 ## Reproduce the run
 
