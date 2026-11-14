@@ -16,7 +16,7 @@ CLASSES = ["background", "motion", "variable", "transient"]
 KEY = ["realization_id", "frame_index", "obj_id"]
 
 
-def proposals(path, frames, injected):
+def proposals(path, frames, injected, morphology=False):
     """Return peaks in calibrated, aligned images without access to object labels."""
     with np.load(path) as stack:
         ids = frames.index.to_numpy()
@@ -65,6 +65,24 @@ def proposals(path, frames, injected):
                     (flux_a-flux_b)/(abs(flux_a)+abs(flux_b)+signal), good[region].mean((1, 2)),
                     np.full(len(x), np.max(abs(np.log(wave[refs]/wave[i]))))]
         table = pd.DataFrame(np.column_stack(features), columns=FEATURES)
+        if morphology:
+            # Characterize signed structure around the existing peak, without
+            # allowing masked pixels or off-image padding to create a lobe.
+            dy, dx = np.mgrid[-4:5, -4:5]
+            iy, ix = y[:, None, None] + dy, x[:, None, None] + dx
+            inside = (iy >= 0) & (iy < z.shape[0]) & (ix >= 0) & (ix < z.shape[1])
+            region9 = (iy.clip(0, z.shape[0]-1), ix.clip(0, z.shape[1]-1))
+            patch = np.where(inside & good[region9], z[region9], 0)
+            signed = patch * np.sign(z[y, x])[:, None, None]
+            same, opposite = np.maximum(signed, 0), np.maximum(-signed, 0)
+            mass = same.sum((1, 2))
+            anti = opposite.sum((1, 2))
+            table["opposite_fraction"] = anti / (mass + anti + 1e-8)
+            table["opposite_peak_ratio"] = opposite.max((1, 2)) / strength[y, x]
+            table["core_fraction"] = same[:, 3:6, 3:6].sum((1, 2)) / mass
+            table["lobe_offset"] = np.hypot(*[(opposite * v).sum((1, 2)) /
+                                                (anti + 1e-8) for v in (dx, dy)])
+            table["spatial_extent"] = (same * (dx*dx+dy*dy)).sum((1, 2)) / mass
         table["frame_index"], table["x"], table["y"] = frame_id, x, y
         result.append(table)
     return pd.concat(result, ignore_index=True) if result else pd.DataFrame(columns=FEATURES+["frame_index","x","y"])
@@ -82,11 +100,11 @@ def prepare(root):
     return ix, frames, eligible
 
 
-def collect(root, ix, frames, eligible, enrich=None):
+def collect(root, ix, frames, eligible, enrich=None, morphology=False):
     samples = []
     for row in ix.query("sample_type == 'injected'").itertuples():
         meta = frames[frames.stack_id == row.stack_id].set_index("frame_index").sort_index()
-        candidates = proposals(root/row.path, meta, True)
+        candidates = proposals(root/row.path, meta, True, morphology=morphology)
         if enrich is not None:
             candidates = enrich(root/row.path, meta, candidates, injected=True)
         candidates["obj_id"], candidates["label"] = -1, "background"

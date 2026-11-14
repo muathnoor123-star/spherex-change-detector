@@ -1,0 +1,119 @@
+{
+  "validation": {
+    "previous": {
+      "equal_budget": {
+        "alerts": 6064,
+        "precision": 0.7171833773087071,
+        "recall": 0.6129668780831572,
+        "f1": 0.6609924766319629,
+        "average_precision": 0.7113628036453568,
+        "object_hits": {
+          "motion": 138,
+          "variable": 59
+        },
+        "transient_alerts": 2,
+        "transient_correct": 0
+      },
+      "operating_point": {
+        "alerts": 5582,
+        "precision": 0.7543891078466499,
+        "recall": 0.5935165609584214,
+        "f1": 0.6643527648497278,
+        "average_precision": 0.7113628036453568,
+        "object_hits": {
+          "motion": 137,
+          "variable": 57
+        },
+        "transient_alerts": 2,
+        "transient_correct": 0
+      }
+    },
+    "morphology": {
+      "equal_budget": {
+        "alerts": 6064,
+        "precision": 0.787598944591029,
+        "recall": 0.6731501057082453,
+        "f1": 0.725891025153887,
+        "average_precision": 0.7823076010307025,
+        "object_hits": {
+          "motion": 146,
+          "variable": 63
+        },
+        "transient_alerts": 0,
+        "transient_correct": 0
+      },
+      "operating_point": {
+        "alerts": 6157,
+        "precision": 0.7833360402793569,
+        "recall": 0.6797744890768147,
+        "f1": 0.7278901297917295,
+        "average_precision": 0.7823076010307025,
+        "object_hits": {
+          "motion": 147,
+          "variable": 63
+        },
+        "transient_alerts": 0,
+        "transient_correct": 0
+      }
+    }
+  },
+  "test": {
+    "previous": {
+      "equal_budget": {
+        "alerts": 4453,
+        "precision": 0.6337300696159892,
+        "recall": 0.5701010101010101,
+        "f1": 0.6002339678825906,
+        "average_precision": 0.6226455708135812,
+        "object_hits": {
+          "motion": 116,
+          "variable": 44
+        },
+        "transient_alerts": 2,
+        "transient_correct": 0
+      },
+      "operating_point": {
+        "alerts": 4101,
+        "precision": 0.6649597659107535,
+        "recall": 0.5509090909090909,
+        "f1": 0.6025853496851177,
+        "average_precision": 0.6226455708135812,
+        "object_hits": {
+          "motion": 114,
+          "variable": 43
+        },
+        "transient_alerts": 2,
+        "transient_correct": 0
+      }
+    },
+    "morphology": {
+      "equal_budget": {
+        "alerts": 4453,
+        "precision": 0.682685829777678,
+        "recall": 0.6141414141414141,
+        "f1": 0.6466021482505583,
+        "average_precision": 0.699734487031953,
+        "object_hits": {
+          "motion": 117,
+          "variable": 46
+        },
+        "transient_alerts": 0,
+        "transient_correct": 0
+      },
+      "operating_point": {
+        "alerts": 4282,
+        "precision": 0.7008407286314806,
+        "recall": 0.6062626262626263,
+        "f1": 0.6501299826689775,
+        "average_precision": 0.699734487031953,
+        "object_hits": {
+          "motion": 117,
+          "variable": 46
+        },
+        "transient_alerts": 0,
+        "transient_correct": 0
+      }
+    }
+  },
+  "morphology_threshold": 0.412442197909887
+}
