@@ -4,7 +4,7 @@ Train a CPU model to locate candidate changes in aligned SPHEREx images and rank
 
 ## Reproduce the run
 
-1. Use the original dataset ZIP, or download both parts from the dataset-v1.2.0 GitHub Release and run `python restore_dataset.py path/to/downloads`. It reconstructs the archive and checks SHA-256.
+1. Use the original dataset ZIP, or download all twenty data-*.zip assets from the dataset-v1.2.0 GitHub Release and run `python restore_dataset.py path/to/downloads`. It reconstructs the archive and checks SHA-256.
 2. For Jupyter or Kaggle, open **SPHEREx_AI.ipynb**, attach the ZIP or extracted directory and run all cells. Optionally set DATASET_PATH in the first cell. Kaggle execution has not been verified. Locally, install the pinned requirements in a Python 3.11 Jupyter kernel.
 3. For a terminal run, extract the archive, install dependencies with `python -m pip install -r requirements.txt`, then run `python train.py path/to/planetx-dataset-v1.2.0`. The default output directory is results.
 4. To use the saved model, load the trusted project artifact and call the same scanner used for evaluation.

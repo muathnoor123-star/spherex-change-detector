@@ -1,20 +1,22 @@
-"""Restore the original dataset ZIP from the two GitHub Release assets."""
+"""Restore the original dataset ZIP from the GitHub Release assets."""
 import hashlib
 import shutil
 from pathlib import Path
 import argparse
+import zipfile
 
 def restore(folder):
     output = folder/"planetx-dataset-v1.2.0.zip"
     expected = "ffa6013c79e561d767cdfa6750551c0434944563aaac67ef7230de21fefd3aa7"
-    parts = [folder/(output.name + suffix) for suffix in (".part1", ".part2")]
-    for part in parts:
-        if not part.is_file():
-            raise FileNotFoundError(part)
+    parts = sorted(folder.glob("data-[12]-[0-9][0-9].zip"))
+    names = [f"data-{i}-{j:02}.zip" for i in (1,2) for j in range(10)]
+    if [part.name for part in parts] != names:
+        raise FileNotFoundError("Download all twenty ZIP assets into one directory.")
     with output.open("xb") as dst:
         for part in parts:
-            with part.open("rb") as src:
-                shutil.copyfileobj(src,dst,8*1024*1024)
+            with zipfile.ZipFile(part) as container:
+                with container.open("chunk-" + part.stem.removeprefix("data-")) as src:
+                    shutil.copyfileobj(src,dst,8*1024*1024)
     with output.open("rb") as src:
         if hashlib.file_digest(src,"sha256").hexdigest() != expected:
             raise ValueError(f"Checksum mismatch. Inspect {output} and the downloaded parts.")
