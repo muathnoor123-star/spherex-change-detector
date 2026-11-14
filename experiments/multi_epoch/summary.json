@@ -1,0 +1,12 @@
+{
+  "threshold": 2.609434671983053,
+  "validation_static_scored": 63,
+  "wise0855": {
+    "score": 0.15705713134054666,
+    "dx_px": 0.03018171833478795,
+    "dy_px": -0.02080815288742621,
+    "dates": 16,
+    "frames": 42
+  },
+  "wise_alert": false
+}
