@@ -82,11 +82,13 @@ def prepare(root):
     return ix, frames, eligible
 
 
-def collect(root, ix, frames, eligible):
+def collect(root, ix, frames, eligible, enrich=None):
     samples = []
     for row in ix.query("sample_type == 'injected'").itertuples():
         meta = frames[frames.stack_id == row.stack_id].set_index("frame_index").sort_index()
         candidates = proposals(root/row.path, meta, True)
+        if enrich is not None:
+            candidates = enrich(root/row.path, meta, candidates, injected=True)
         candidates["obj_id"], candidates["label"] = -1, "background"
         labels = eligible[eligible.realization_id == row.realization_id]
         for fid, group in candidates.groupby("frame_index"):
