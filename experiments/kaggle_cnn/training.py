@@ -17,7 +17,10 @@ from sklearn.metrics import average_precision_score, precision_recall_curve, pre
 def patches(path, meta, peaks, injected):
     with np.load(path) as archive:
         image = np.where(archive["valid"], archive["image"], np.nan)
-        assert np.array_equal(archive["frame_index"], meta.index)
+        if injected:
+            assert np.array_equal(archive["frame_index"], meta.index)
+        else:
+            image = image[meta.index.to_numpy()]
     cuts = np.empty((len(peaks), 4, 11, 11), dtype=np.float16)
     dy, dx = np.mgrid[-5:6, -5:6]
     for fid, group in peaks.groupby("frame_index"):

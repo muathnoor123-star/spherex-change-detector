@@ -1,0 +1,6 @@
+target,split,expected,targets,qc_frames,saturated_frames,usable_frames,matched_frames
+barnards-star,train,motion,1,58,58,0,0
+epsilon-indi-b,val,motion,1,59,12,42,2
+wise0855,test,motion,1,60,8,29,0
+rw-aurigae,val,variable,2,59,57,2,0
+r-draconis,test,variable,1,56,56,0,0
