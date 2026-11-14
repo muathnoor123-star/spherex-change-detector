@@ -34,9 +34,19 @@ def patches(path, meta, peaks, injected):
         region = y.clip(0,ref.shape[0]-1), x.clip(0,ref.shape[1]-1)
         a, b = image[i][region], ref[region]
         valid = inside & np.isfinite(a) & np.isfinite(b)
-        noise = max(float(row.pixel_noise),1e-8)
+        noise = float(row.pixel_noise)
+        if not np.isfinite(noise) or noise <= 0:
+            pixels = image[i][np.isfinite(image[i])].astype(np.float64)
+            noise = 1.4826 * np.median(np.abs(pixels - np.median(pixels)))
+            if noise <= 0:
+                noise = pixels.std()
+        if not np.isfinite(noise):
+            raise ValueError(f"Cannot estimate pixel noise in {path}, frame {fid}")
+        noise = max(noise, 1e-8)
         channels = [np.arcsinh(np.where(valid,v,0)/noise).clip(-16,16) for v in (a,b,a-b)]
         cuts[group.index] = np.stack([*channels,valid],axis=1)
+    if not np.isfinite(cuts).all():
+        raise ValueError(f"Non-finite image cutouts in {path}")
     return cuts
 
 
@@ -80,7 +90,10 @@ def train_cutouts(root, out, reference, smoke=False):
     def predict(mask):
         model.eval()
         with torch.no_grad():
-            return np.concatenate([model(X[idx].to(device,dtype=torch.float32)).softmax(1).cpu().numpy() for idx in loader(mask)])
+            prob = np.concatenate([model(X[idx].to(device,dtype=torch.float32)).softmax(1).cpu().numpy() for idx in loader(mask)])
+            if not np.isfinite(prob).all():
+                raise FloatingPointError("Non-finite model predictions before evaluation")
+            return prob
     validation = table.fold==1
     best = -1.
     history = []
@@ -89,6 +102,8 @@ def train_cutouts(root, out, reference, smoke=False):
         for idx in loader(train,True):
             opt.zero_grad()
             loss = loss_fn(model(X[idx].to(device,dtype=torch.float32)),y[idx].to(device))
+            if not torch.isfinite(loss):
+                raise FloatingPointError(f"Non-finite training loss in epoch {epoch}")
             loss.backward()
             opt.step()
         scores = 1-predict(validation)[:,0]
