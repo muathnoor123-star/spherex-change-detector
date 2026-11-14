@@ -1,0 +1,82 @@
+{
+  "fields": 8,
+  "realizations": 48,
+  "candidates": 117825,
+  "threshold": 0.5919007184718609,
+  "alerts": 4453,
+  "matched_change_alerts": 2410,
+  "binary": {
+    "precision": 0.5412081742645407,
+    "recall": 0.4868686868686869,
+    "f1-score": 0.5126023609486334,
+    "support": 4950.0
+  },
+  "average_precision": 0.5007703900710903,
+  "class_metrics": {
+    "background": {
+      "precision": 0.9775958790530289,
+      "recall": 0.9819003322259137,
+      "f1-score": 0.9797433778127445,
+      "support": 112875.0
+    },
+    "motion": {
+      "precision": 0.4685746352413019,
+      "recall": 0.5475409836065573,
+      "f1-score": 0.5049894163894769,
+      "support": 3050.0
+    },
+    "variable": {
+      "precision": 0.7120359955005624,
+      "recall": 0.3503043718871057,
+      "f1-score": 0.46958456973293766,
+      "support": 1807.0
+    },
+    "transient": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 93.0
+    },
+    "accuracy": 0.9601952047528114,
+    "macro avg": {
+      "precision": 0.5395516274487233,
+      "recall": 0.4699364219298942,
+      "f1-score": 0.4885793409837898,
+      "support": 117825.0
+    },
+    "weighted avg": {
+      "precision": 0.9595751031569372,
+      "recall": 0.9601952047528114,
+      "f1-score": 0.9588567011084986,
+      "support": 117825.0
+    }
+  },
+  "frame_recovery": {
+    "motion": {
+      "sum": 1668,
+      "count": 3830
+    },
+    "transient": {
+      "sum": 0,
+      "count": 108
+    },
+    "variable": {
+      "sum": 631,
+      "count": 2625
+    }
+  },
+  "object_recovery": {
+    "motion": {
+      "sum": 115,
+      "count": 127
+    },
+    "transient": {
+      "sum": 0,
+      "count": 76
+    },
+    "variable": {
+      "sum": 43,
+      "count": 60
+    }
+  }
+}
