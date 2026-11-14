@@ -1,0 +1,24 @@
+{
+  "frames": 29,
+  "proposed_controls": 192,
+  "complete_controls": 37,
+  "target": {
+    "dx": 0.0,
+    "dy": 0.0,
+    "aligned": 0.24232631921768188,
+    "fixed": 0.296029657125473,
+    "gain": -0.05370333790779114
+  },
+  "controls_at_least_target": {
+    "aligned": 7,
+    "gain": 30
+  },
+  "control_95th_percentile": {
+    "aligned": 1.2021898508071764,
+    "gain": 0.094683617353439
+  },
+  "chronological_half_gains": [
+    -0.12111042439937592,
+    0.018518546596169472
+  ]
+}
