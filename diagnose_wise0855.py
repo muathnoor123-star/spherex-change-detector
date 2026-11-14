@@ -9,7 +9,7 @@ from scipy.ndimage import gaussian_filter, maximum_filter
 from detector import proposals, score
 
 
-def diagnose(root, model_path):
+def diagnose(root, model_path, morphology=False):
     folder = root / "spherex"
     sid = "spherex:wise0855"
     frames = pd.read_parquet(folder / "frames.parquet").query("stack_id == @sid and qc_pass")
@@ -19,7 +19,14 @@ def diagnose(root, model_path):
     track = track.set_index("frame_index").loc[frames.index]
     path = folder / "stacks/wise0855.npz"
     model, threshold = joblib.load(model_path)
-    blind = score(model, proposals(path, frames, False))
+    peaks = proposals(path, frames, False, morphology=morphology)
+    if morphology:
+        from temporal_classifier import photometry, probabilities
+        prob = probabilities(model, photometry(path, frames, peaks, False))
+        blind = peaks.assign(priority=1-prob.background, score_motion=prob.motion,
+                            change_type=prob.drop(columns="background").idxmax(axis=1))
+    else:
+        blind = score(model, peaks)
     with np.load(path) as stack:
         image = np.where(stack["valid"], stack["image"], np.nan)
     gy, gx = np.indices(image.shape[1:])
@@ -54,7 +61,8 @@ def diagnose(root, model_path):
             reason = "no_valid_pixels" if not region.any() else "residual_below_threshold" if row["max_abs_diff_z"] < 3.5 else "no_local_extremum"
         else:
             best = peaks.loc[peaks.priority.idxmax()]
-            row.update(priority=best.priority, change_type=best.change_type, motion_score=best.score_motion)
+            row.update(priority=best.priority, change_type=best.change_type, motion_score=best.score_motion,
+                       distance_px=np.hypot(best.x-t.x,best.y-t.y))
             accepted = peaks[peaks.priority >= threshold]
             reason = "below_review_threshold" if accepted.empty else "motion_alert" if accepted.change_type.eq("motion").any() else "other_class_alert"
         rows.append(dict(row,outcome=reason))
@@ -65,10 +73,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("dataset", type=Path)
     parser.add_argument("--model", type=Path, default=Path("results/detector.joblib"))
+    parser.add_argument("--morphology", action="store_true")
+    parser.add_argument("--out", type=Path, default=Path("diagnostics"))
     args = parser.parse_args()
-    data, threshold, motion = diagnose(args.dataset, args.model)
-    out = Path("diagnostics")
-    out.mkdir(exist_ok=True)
+    data, threshold, motion = diagnose(args.dataset, args.model, args.morphology)
+    out = args.out
+    out.mkdir(exist_ok=True, parents=True)
     data.to_csv(out/"wise0855_frames.csv",index=False)
     print(data.outcome.value_counts(), threshold, motion)
     print(data.groupby(["detector","outcome"]).size())
