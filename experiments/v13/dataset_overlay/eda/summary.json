@@ -1,0 +1,15 @@
+{
+  "version": "1.3.0",
+  "upstream": "1.2.0",
+  "real_frames": 3420,
+  "qc_frames": 2840,
+  "source_rows": 113214,
+  "track_rows": 5574833,
+  "checks": 9082,
+  "failed_checks": 0,
+  "nonempty_sequences": 84,
+  "empty_sequences": 42,
+  "two_time_sequences": 58,
+  "original_files_verified": 483,
+  "original_pixels_labels_splits_preserved": true
+}

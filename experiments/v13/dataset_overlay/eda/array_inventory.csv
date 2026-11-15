@@ -1,0 +1,2193 @@
+path,array,shape,dtype,nonfinite
+comet/stacks/3iatlas-t00.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t00.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t00.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t00.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t00.npz,wave,"(2, 128, 128)",float32,825
+comet/stacks/3iatlas-t00.npz,bandwidth,"(2, 128, 128)",float32,825
+comet/stacks/3iatlas-t00.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t00.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t01.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t01.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t01.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t01.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t01.npz,wave,"(2, 128, 128)",float32,753
+comet/stacks/3iatlas-t01.npz,bandwidth,"(2, 128, 128)",float32,753
+comet/stacks/3iatlas-t01.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t01.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t02.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t02.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t02.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t02.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t02.npz,wave,"(2, 128, 128)",float32,706
+comet/stacks/3iatlas-t02.npz,bandwidth,"(2, 128, 128)",float32,706
+comet/stacks/3iatlas-t02.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t02.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t03.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t03.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t03.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t03.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t03.npz,wave,"(2, 128, 128)",float32,746
+comet/stacks/3iatlas-t03.npz,bandwidth,"(2, 128, 128)",float32,746
+comet/stacks/3iatlas-t03.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t03.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t04.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t04.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t04.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t04.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t04.npz,wave,"(2, 128, 128)",float32,573
+comet/stacks/3iatlas-t04.npz,bandwidth,"(2, 128, 128)",float32,573
+comet/stacks/3iatlas-t04.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t04.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t05.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t05.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t05.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t05.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t05.npz,wave,"(2, 128, 128)",float32,603
+comet/stacks/3iatlas-t05.npz,bandwidth,"(2, 128, 128)",float32,603
+comet/stacks/3iatlas-t05.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t05.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t06.npz,image,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t06.npz,sigma,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t06.npz,flags,"(1, 128, 128)",uint32,0
+comet/stacks/3iatlas-t06.npz,valid,"(1, 128, 128)",uint8,0
+comet/stacks/3iatlas-t06.npz,wave,"(1, 128, 128)",float32,882
+comet/stacks/3iatlas-t06.npz,bandwidth,"(1, 128, 128)",float32,882
+comet/stacks/3iatlas-t06.npz,frame_uid,"(1,)",<U70,0
+comet/stacks/3iatlas-t06.npz,mjd,"(1,)",float64,0
+comet/stacks/3iatlas-t07.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t07.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t07.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t07.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t07.npz,wave,"(2, 128, 128)",float32,453
+comet/stacks/3iatlas-t07.npz,bandwidth,"(2, 128, 128)",float32,453
+comet/stacks/3iatlas-t07.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t07.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t08.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t08.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t08.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t08.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t08.npz,wave,"(2, 128, 128)",float32,934
+comet/stacks/3iatlas-t08.npz,bandwidth,"(2, 128, 128)",float32,934
+comet/stacks/3iatlas-t08.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t08.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t09.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t09.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t09.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t09.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t09.npz,wave,"(2, 128, 128)",float32,600
+comet/stacks/3iatlas-t09.npz,bandwidth,"(2, 128, 128)",float32,600
+comet/stacks/3iatlas-t09.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t09.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t10.npz,image,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t10.npz,sigma,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t10.npz,flags,"(1, 128, 128)",uint32,0
+comet/stacks/3iatlas-t10.npz,valid,"(1, 128, 128)",uint8,0
+comet/stacks/3iatlas-t10.npz,wave,"(1, 128, 128)",float32,491
+comet/stacks/3iatlas-t10.npz,bandwidth,"(1, 128, 128)",float32,491
+comet/stacks/3iatlas-t10.npz,frame_uid,"(1,)",<U70,0
+comet/stacks/3iatlas-t10.npz,mjd,"(1,)",float64,0
+comet/stacks/3iatlas-t11.npz,image,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t11.npz,sigma,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t11.npz,flags,"(1, 128, 128)",uint32,0
+comet/stacks/3iatlas-t11.npz,valid,"(1, 128, 128)",uint8,0
+comet/stacks/3iatlas-t11.npz,wave,"(1, 128, 128)",float32,301
+comet/stacks/3iatlas-t11.npz,bandwidth,"(1, 128, 128)",float32,301
+comet/stacks/3iatlas-t11.npz,frame_uid,"(1,)",<U70,0
+comet/stacks/3iatlas-t11.npz,mjd,"(1,)",float64,0
+comet/stacks/3iatlas-t12.npz,image,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t12.npz,sigma,"(2, 128, 128)",float32,0
+comet/stacks/3iatlas-t12.npz,flags,"(2, 128, 128)",uint32,0
+comet/stacks/3iatlas-t12.npz,valid,"(2, 128, 128)",uint8,0
+comet/stacks/3iatlas-t12.npz,wave,"(2, 128, 128)",float32,568
+comet/stacks/3iatlas-t12.npz,bandwidth,"(2, 128, 128)",float32,568
+comet/stacks/3iatlas-t12.npz,frame_uid,"(2,)",<U70,0
+comet/stacks/3iatlas-t12.npz,mjd,"(2,)",float64,0
+comet/stacks/3iatlas-t13.npz,image,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t13.npz,sigma,"(1, 128, 128)",float32,0
+comet/stacks/3iatlas-t13.npz,flags,"(1, 128, 128)",uint32,0
+comet/stacks/3iatlas-t13.npz,valid,"(1, 128, 128)",uint8,0
+comet/stacks/3iatlas-t13.npz,wave,"(1, 128, 128)",float32,2252
+comet/stacks/3iatlas-t13.npz,bandwidth,"(1, 128, 128)",float32,2252
+comet/stacks/3iatlas-t13.npz,frame_uid,"(1,)",<U70,0
+comet/stacks/3iatlas-t13.npz,mjd,"(1,)",float64,0
+neossat/stacks/comet_12P-c00.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c00.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c00.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_12P-c00.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_12P-c00.npz,wave,"(8, 256, 256)",float32,499
+neossat/stacks/comet_12P-c00.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_12P-c00.npz,frame_uid,"(8,)",<U54,0
+neossat/stacks/comet_12P-c00.npz,mjd,"(8,)",float64,0
+neossat/stacks/comet_12P-c01.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c01.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c01.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_12P-c01.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_12P-c01.npz,wave,"(8, 256, 256)",float32,1442
+neossat/stacks/comet_12P-c01.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_12P-c01.npz,frame_uid,"(8,)",<U53,0
+neossat/stacks/comet_12P-c01.npz,mjd,"(8,)",float64,0
+neossat/stacks/comet_12P-c02.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c02.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c02.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_12P-c02.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_12P-c02.npz,wave,"(8, 256, 256)",float32,1879
+neossat/stacks/comet_12P-c02.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_12P-c02.npz,frame_uid,"(8,)",<U53,0
+neossat/stacks/comet_12P-c02.npz,mjd,"(8,)",float64,0
+neossat/stacks/comet_12P-c03.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c03.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_12P-c03.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_12P-c03.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_12P-c03.npz,wave,"(8, 256, 256)",float32,1976
+neossat/stacks/comet_12P-c03.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_12P-c03.npz,frame_uid,"(8,)",<U53,0
+neossat/stacks/comet_12P-c03.npz,mjd,"(8,)",float64,0
+neossat/stacks/comet_12P-c04.npz,image,"(13, 256, 256)",float32,0
+neossat/stacks/comet_12P-c04.npz,sigma,"(13, 256, 256)",float32,0
+neossat/stacks/comet_12P-c04.npz,flags,"(13, 256, 256)",uint32,0
+neossat/stacks/comet_12P-c04.npz,valid,"(13, 256, 256)",uint8,0
+neossat/stacks/comet_12P-c04.npz,wave,"(13, 256, 256)",float32,1079
+neossat/stacks/comet_12P-c04.npz,bandwidth,"(13, 256, 256)",float32,851968
+neossat/stacks/comet_12P-c04.npz,frame_uid,"(13,)",<U53,0
+neossat/stacks/comet_12P-c04.npz,mjd,"(13,)",float64,0
+neossat/stacks/comet_2021S3-c00.npz,image,"(15, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c00.npz,sigma,"(15, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c00.npz,flags,"(15, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c00.npz,valid,"(15, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c00.npz,wave,"(15, 256, 256)",float32,5142
+neossat/stacks/comet_2021S3-c00.npz,bandwidth,"(15, 256, 256)",float32,983040
+neossat/stacks/comet_2021S3-c00.npz,frame_uid,"(15,)",<U56,0
+neossat/stacks/comet_2021S3-c00.npz,mjd,"(15,)",float64,0
+neossat/stacks/comet_2021S3-c01.npz,image,"(15, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c01.npz,sigma,"(15, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c01.npz,flags,"(15, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c01.npz,valid,"(15, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c01.npz,wave,"(15, 256, 256)",float32,4195
+neossat/stacks/comet_2021S3-c01.npz,bandwidth,"(15, 256, 256)",float32,983040
+neossat/stacks/comet_2021S3-c01.npz,frame_uid,"(15,)",<U56,0
+neossat/stacks/comet_2021S3-c01.npz,mjd,"(15,)",float64,0
+neossat/stacks/comet_2021S3-c02.npz,image,"(15, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c02.npz,sigma,"(15, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c02.npz,flags,"(15, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c02.npz,valid,"(15, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c02.npz,wave,"(15, 256, 256)",float32,2388
+neossat/stacks/comet_2021S3-c02.npz,bandwidth,"(15, 256, 256)",float32,983040
+neossat/stacks/comet_2021S3-c02.npz,frame_uid,"(15,)",<U56,0
+neossat/stacks/comet_2021S3-c02.npz,mjd,"(15,)",float64,0
+neossat/stacks/comet_2021S3-c03.npz,image,"(18, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c03.npz,sigma,"(18, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c03.npz,flags,"(18, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c03.npz,valid,"(18, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c03.npz,wave,"(18, 256, 256)",float32,8224
+neossat/stacks/comet_2021S3-c03.npz,bandwidth,"(18, 256, 256)",float32,1179648
+neossat/stacks/comet_2021S3-c03.npz,frame_uid,"(18,)",<U56,0
+neossat/stacks/comet_2021S3-c03.npz,mjd,"(18,)",float64,0
+neossat/stacks/comet_2021S3-c04.npz,image,"(5, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c04.npz,sigma,"(5, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c04.npz,flags,"(5, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c04.npz,valid,"(5, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c04.npz,wave,"(5, 256, 256)",float32,1105
+neossat/stacks/comet_2021S3-c04.npz,bandwidth,"(5, 256, 256)",float32,327680
+neossat/stacks/comet_2021S3-c04.npz,frame_uid,"(5,)",<U57,0
+neossat/stacks/comet_2021S3-c04.npz,mjd,"(5,)",float64,0
+neossat/stacks/comet_2021S3-c05.npz,image,"(5, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c05.npz,sigma,"(5, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c05.npz,flags,"(5, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c05.npz,valid,"(5, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c05.npz,wave,"(5, 256, 256)",float32,948
+neossat/stacks/comet_2021S3-c05.npz,bandwidth,"(5, 256, 256)",float32,327680
+neossat/stacks/comet_2021S3-c05.npz,frame_uid,"(5,)",<U57,0
+neossat/stacks/comet_2021S3-c05.npz,mjd,"(5,)",float64,0
+neossat/stacks/comet_2021S3-c06.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c06.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c06.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c06.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c06.npz,wave,"(8, 256, 256)",float32,2152
+neossat/stacks/comet_2021S3-c06.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_2021S3-c06.npz,frame_uid,"(8,)",<U57,0
+neossat/stacks/comet_2021S3-c06.npz,mjd,"(8,)",float64,0
+neossat/stacks/comet_2021S3-c07.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c07.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c07.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c07.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c07.npz,wave,"(8, 256, 256)",float32,2179
+neossat/stacks/comet_2021S3-c07.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_2021S3-c07.npz,frame_uid,"(8,)",<U57,0
+neossat/stacks/comet_2021S3-c07.npz,mjd,"(8,)",float64,0
+neossat/stacks/comet_2021S3-c08.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c08.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/comet_2021S3-c08.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/comet_2021S3-c08.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/comet_2021S3-c08.npz,wave,"(8, 256, 256)",float32,2266
+neossat/stacks/comet_2021S3-c08.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/comet_2021S3-c08.npz,frame_uid,"(8,)",<U57,0
+neossat/stacks/comet_2021S3-c08.npz,mjd,"(8,)",float64,0
+neossat/stacks/control_TCrB-c00.npz,image,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c00.npz,sigma,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c00.npz,flags,"(12, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c00.npz,valid,"(12, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c00.npz,wave,"(12, 256, 256)",float32,63
+neossat/stacks/control_TCrB-c00.npz,bandwidth,"(12, 256, 256)",float32,786432
+neossat/stacks/control_TCrB-c00.npz,frame_uid,"(12,)",<U56,0
+neossat/stacks/control_TCrB-c00.npz,mjd,"(12,)",float64,0
+neossat/stacks/control_TCrB-c01.npz,image,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c01.npz,sigma,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c01.npz,flags,"(12, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c01.npz,valid,"(12, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c01.npz,wave,"(12, 256, 256)",float32,61
+neossat/stacks/control_TCrB-c01.npz,bandwidth,"(12, 256, 256)",float32,786432
+neossat/stacks/control_TCrB-c01.npz,frame_uid,"(12,)",<U56,0
+neossat/stacks/control_TCrB-c01.npz,mjd,"(12,)",float64,0
+neossat/stacks/control_TCrB-c02.npz,image,"(24, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c02.npz,sigma,"(24, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c02.npz,flags,"(24, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c02.npz,valid,"(24, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c02.npz,wave,"(24, 256, 256)",float32,113
+neossat/stacks/control_TCrB-c02.npz,bandwidth,"(24, 256, 256)",float32,1572864
+neossat/stacks/control_TCrB-c02.npz,frame_uid,"(24,)",<U57,0
+neossat/stacks/control_TCrB-c02.npz,mjd,"(24,)",float64,0
+neossat/stacks/control_TCrB-c03.npz,image,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c03.npz,sigma,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c03.npz,flags,"(12, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c03.npz,valid,"(12, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c03.npz,wave,"(12, 256, 256)",float32,69
+neossat/stacks/control_TCrB-c03.npz,bandwidth,"(12, 256, 256)",float32,786432
+neossat/stacks/control_TCrB-c03.npz,frame_uid,"(12,)",<U57,0
+neossat/stacks/control_TCrB-c03.npz,mjd,"(12,)",float64,0
+neossat/stacks/control_TCrB-c04.npz,image,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c04.npz,sigma,"(12, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c04.npz,flags,"(12, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c04.npz,valid,"(12, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c04.npz,wave,"(12, 256, 256)",float32,59
+neossat/stacks/control_TCrB-c04.npz,bandwidth,"(12, 256, 256)",float32,786432
+neossat/stacks/control_TCrB-c04.npz,frame_uid,"(12,)",<U57,0
+neossat/stacks/control_TCrB-c04.npz,mjd,"(12,)",float64,0
+neossat/stacks/control_TCrB-c05.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c05.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c05.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c05.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c05.npz,wave,"(1, 256, 256)",float32,6
+neossat/stacks/control_TCrB-c05.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/control_TCrB-c05.npz,frame_uid,"(1,)",<U57,0
+neossat/stacks/control_TCrB-c05.npz,mjd,"(1,)",float64,0
+neossat/stacks/control_TCrB-c06.npz,image,"(14, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c06.npz,sigma,"(14, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c06.npz,flags,"(14, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c06.npz,valid,"(14, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c06.npz,wave,"(14, 256, 256)",float32,78
+neossat/stacks/control_TCrB-c06.npz,bandwidth,"(14, 256, 256)",float32,917504
+neossat/stacks/control_TCrB-c06.npz,frame_uid,"(14,)",<U57,0
+neossat/stacks/control_TCrB-c06.npz,mjd,"(14,)",float64,0
+neossat/stacks/control_TCrB-c07.npz,image,"(8, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c07.npz,sigma,"(8, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c07.npz,flags,"(8, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c07.npz,valid,"(8, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c07.npz,wave,"(8, 256, 256)",float32,48
+neossat/stacks/control_TCrB-c07.npz,bandwidth,"(8, 256, 256)",float32,524288
+neossat/stacks/control_TCrB-c07.npz,frame_uid,"(8,)",<U57,0
+neossat/stacks/control_TCrB-c07.npz,mjd,"(8,)",float64,0
+neossat/stacks/control_TCrB-c08.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c08.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c08.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c08.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c08.npz,wave,"(2, 256, 256)",float32,12
+neossat/stacks/control_TCrB-c08.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/control_TCrB-c08.npz,frame_uid,"(2,)",<U57,0
+neossat/stacks/control_TCrB-c08.npz,mjd,"(2,)",float64,0
+neossat/stacks/control_TCrB-c09.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c09.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c09.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c09.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c09.npz,wave,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c09.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/control_TCrB-c09.npz,frame_uid,"(1,)",<U57,0
+neossat/stacks/control_TCrB-c09.npz,mjd,"(1,)",float64,0
+neossat/stacks/control_TCrB-c10.npz,image,"(17, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c10.npz,sigma,"(17, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c10.npz,flags,"(17, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c10.npz,valid,"(17, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c10.npz,wave,"(17, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c10.npz,bandwidth,"(17, 256, 256)",float32,1114112
+neossat/stacks/control_TCrB-c10.npz,frame_uid,"(17,)",<U57,0
+neossat/stacks/control_TCrB-c10.npz,mjd,"(17,)",float64,0
+neossat/stacks/control_TCrB-c11.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c11.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c11.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c11.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c11.npz,wave,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c11.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/control_TCrB-c11.npz,frame_uid,"(1,)",<U57,0
+neossat/stacks/control_TCrB-c11.npz,mjd,"(1,)",float64,0
+neossat/stacks/control_TCrB-c12.npz,image,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c12.npz,sigma,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c12.npz,flags,"(3, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c12.npz,valid,"(3, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c12.npz,wave,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c12.npz,bandwidth,"(3, 256, 256)",float32,196608
+neossat/stacks/control_TCrB-c12.npz,frame_uid,"(3,)",<U57,0
+neossat/stacks/control_TCrB-c12.npz,mjd,"(3,)",float64,0
+neossat/stacks/control_TCrB-c13.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c13.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c13.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c13.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c13.npz,wave,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c13.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/control_TCrB-c13.npz,frame_uid,"(2,)",<U57,0
+neossat/stacks/control_TCrB-c13.npz,mjd,"(2,)",float64,0
+neossat/stacks/control_TCrB-c14.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c14.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c14.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c14.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c14.npz,wave,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c14.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/control_TCrB-c14.npz,frame_uid,"(1,)",<U57,0
+neossat/stacks/control_TCrB-c14.npz,mjd,"(1,)",float64,0
+neossat/stacks/control_TCrB-c15.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c15.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c15.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c15.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c15.npz,wave,"(1, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c15.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/control_TCrB-c15.npz,frame_uid,"(1,)",<U57,0
+neossat/stacks/control_TCrB-c15.npz,mjd,"(1,)",float64,0
+neossat/stacks/control_TCrB-c16.npz,image,"(4, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c16.npz,sigma,"(4, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c16.npz,flags,"(4, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c16.npz,valid,"(4, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c16.npz,wave,"(4, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c16.npz,bandwidth,"(4, 256, 256)",float32,262144
+neossat/stacks/control_TCrB-c16.npz,frame_uid,"(4,)",<U57,0
+neossat/stacks/control_TCrB-c16.npz,mjd,"(4,)",float64,0
+neossat/stacks/control_TCrB-c17.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c17.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c17.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c17.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c17.npz,wave,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c17.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/control_TCrB-c17.npz,frame_uid,"(2,)",<U57,0
+neossat/stacks/control_TCrB-c17.npz,mjd,"(2,)",float64,0
+neossat/stacks/control_TCrB-c18.npz,image,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c18.npz,sigma,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c18.npz,flags,"(3, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c18.npz,valid,"(3, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c18.npz,wave,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c18.npz,bandwidth,"(3, 256, 256)",float32,196608
+neossat/stacks/control_TCrB-c18.npz,frame_uid,"(3,)",<U57,0
+neossat/stacks/control_TCrB-c18.npz,mjd,"(3,)",float64,0
+neossat/stacks/control_TCrB-c19.npz,image,"(7, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c19.npz,sigma,"(7, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c19.npz,flags,"(7, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c19.npz,valid,"(7, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c19.npz,wave,"(7, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c19.npz,bandwidth,"(7, 256, 256)",float32,458752
+neossat/stacks/control_TCrB-c19.npz,frame_uid,"(7,)",<U57,0
+neossat/stacks/control_TCrB-c19.npz,mjd,"(7,)",float64,0
+neossat/stacks/control_TCrB-c20.npz,image,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c20.npz,sigma,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c20.npz,flags,"(3, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c20.npz,valid,"(3, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c20.npz,wave,"(3, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c20.npz,bandwidth,"(3, 256, 256)",float32,196608
+neossat/stacks/control_TCrB-c20.npz,frame_uid,"(3,)",<U57,0
+neossat/stacks/control_TCrB-c20.npz,mjd,"(3,)",float64,0
+neossat/stacks/control_TCrB-c21.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c21.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c21.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c21.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c21.npz,wave,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c21.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/control_TCrB-c21.npz,frame_uid,"(2,)",<U57,0
+neossat/stacks/control_TCrB-c21.npz,mjd,"(2,)",float64,0
+neossat/stacks/control_TCrB-c22.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c22.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c22.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c22.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c22.npz,wave,"(2, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c22.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/control_TCrB-c22.npz,frame_uid,"(2,)",<U57,0
+neossat/stacks/control_TCrB-c22.npz,mjd,"(2,)",float64,0
+neossat/stacks/control_TCrB-c23.npz,image,"(10, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c23.npz,sigma,"(10, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c23.npz,flags,"(10, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c23.npz,valid,"(10, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c23.npz,wave,"(10, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c23.npz,bandwidth,"(10, 256, 256)",float32,655360
+neossat/stacks/control_TCrB-c23.npz,frame_uid,"(10,)",<U57,0
+neossat/stacks/control_TCrB-c23.npz,mjd,"(10,)",float64,0
+neossat/stacks/control_TCrB-c24.npz,image,"(7, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c24.npz,sigma,"(7, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c24.npz,flags,"(7, 256, 256)",uint32,0
+neossat/stacks/control_TCrB-c24.npz,valid,"(7, 256, 256)",uint8,0
+neossat/stacks/control_TCrB-c24.npz,wave,"(7, 256, 256)",float32,0
+neossat/stacks/control_TCrB-c24.npz,bandwidth,"(7, 256, 256)",float32,458752
+neossat/stacks/control_TCrB-c24.npz,frame_uid,"(7,)",<U57,0
+neossat/stacks/control_TCrB-c24.npz,mjd,"(7,)",float64,0
+neossat/stacks/neowise-c00.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c00.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c00.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/neowise-c00.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/neowise-c00.npz,wave,"(1, 256, 256)",float32,71
+neossat/stacks/neowise-c00.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/neowise-c00.npz,frame_uid,"(1,)",<U53,0
+neossat/stacks/neowise-c00.npz,mjd,"(1,)",float64,0
+neossat/stacks/neowise-c01.npz,image,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c01.npz,sigma,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c01.npz,flags,"(4, 256, 256)",uint32,0
+neossat/stacks/neowise-c01.npz,valid,"(4, 256, 256)",uint8,0
+neossat/stacks/neowise-c01.npz,wave,"(4, 256, 256)",float32,245
+neossat/stacks/neowise-c01.npz,bandwidth,"(4, 256, 256)",float32,262144
+neossat/stacks/neowise-c01.npz,frame_uid,"(4,)",<U53,0
+neossat/stacks/neowise-c01.npz,mjd,"(4,)",float64,0
+neossat/stacks/neowise-c02.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c02.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c02.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/neowise-c02.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/neowise-c02.npz,wave,"(1, 256, 256)",float32,77
+neossat/stacks/neowise-c02.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/neowise-c02.npz,frame_uid,"(1,)",<U53,0
+neossat/stacks/neowise-c02.npz,mjd,"(1,)",float64,0
+neossat/stacks/neowise-c03.npz,image,"(3, 256, 256)",float32,0
+neossat/stacks/neowise-c03.npz,sigma,"(3, 256, 256)",float32,0
+neossat/stacks/neowise-c03.npz,flags,"(3, 256, 256)",uint32,0
+neossat/stacks/neowise-c03.npz,valid,"(3, 256, 256)",uint8,0
+neossat/stacks/neowise-c03.npz,wave,"(3, 256, 256)",float32,211
+neossat/stacks/neowise-c03.npz,bandwidth,"(3, 256, 256)",float32,196608
+neossat/stacks/neowise-c03.npz,frame_uid,"(3,)",<U53,0
+neossat/stacks/neowise-c03.npz,mjd,"(3,)",float64,0
+neossat/stacks/neowise-c04.npz,image,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c04.npz,sigma,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c04.npz,flags,"(4, 256, 256)",uint32,0
+neossat/stacks/neowise-c04.npz,valid,"(4, 256, 256)",uint8,0
+neossat/stacks/neowise-c04.npz,wave,"(4, 256, 256)",float32,254
+neossat/stacks/neowise-c04.npz,bandwidth,"(4, 256, 256)",float32,262144
+neossat/stacks/neowise-c04.npz,frame_uid,"(4,)",<U53,0
+neossat/stacks/neowise-c04.npz,mjd,"(4,)",float64,0
+neossat/stacks/neowise-c05.npz,image,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c05.npz,sigma,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c05.npz,flags,"(4, 256, 256)",uint32,0
+neossat/stacks/neowise-c05.npz,valid,"(4, 256, 256)",uint8,0
+neossat/stacks/neowise-c05.npz,wave,"(4, 256, 256)",float32,274
+neossat/stacks/neowise-c05.npz,bandwidth,"(4, 256, 256)",float32,262144
+neossat/stacks/neowise-c05.npz,frame_uid,"(4,)",<U53,0
+neossat/stacks/neowise-c05.npz,mjd,"(4,)",float64,0
+neossat/stacks/neowise-c06.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c06.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c06.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/neowise-c06.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/neowise-c06.npz,wave,"(1, 256, 256)",float32,65536
+neossat/stacks/neowise-c06.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/neowise-c06.npz,frame_uid,"(1,)",<U53,0
+neossat/stacks/neowise-c06.npz,mjd,"(1,)",float64,0
+neossat/stacks/neowise-c07.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/neowise-c07.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/neowise-c07.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/neowise-c07.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/neowise-c07.npz,wave,"(2, 256, 256)",float32,146
+neossat/stacks/neowise-c07.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/neowise-c07.npz,frame_uid,"(2,)",<U53,0
+neossat/stacks/neowise-c07.npz,mjd,"(2,)",float64,0
+neossat/stacks/neowise-c08.npz,image,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c08.npz,sigma,"(4, 256, 256)",float32,0
+neossat/stacks/neowise-c08.npz,flags,"(4, 256, 256)",uint32,0
+neossat/stacks/neowise-c08.npz,valid,"(4, 256, 256)",uint8,0
+neossat/stacks/neowise-c08.npz,wave,"(4, 256, 256)",float32,279
+neossat/stacks/neowise-c08.npz,bandwidth,"(4, 256, 256)",float32,262144
+neossat/stacks/neowise-c08.npz,frame_uid,"(4,)",<U53,0
+neossat/stacks/neowise-c08.npz,mjd,"(4,)",float64,0
+neossat/stacks/neowise-c09.npz,image,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c09.npz,sigma,"(1, 256, 256)",float32,0
+neossat/stacks/neowise-c09.npz,flags,"(1, 256, 256)",uint32,0
+neossat/stacks/neowise-c09.npz,valid,"(1, 256, 256)",uint8,0
+neossat/stacks/neowise-c09.npz,wave,"(1, 256, 256)",float32,71
+neossat/stacks/neowise-c09.npz,bandwidth,"(1, 256, 256)",float32,65536
+neossat/stacks/neowise-c09.npz,frame_uid,"(1,)",<U53,0
+neossat/stacks/neowise-c09.npz,mjd,"(1,)",float64,0
+neossat/stacks/neowise-c10.npz,image,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c10.npz,sigma,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c10.npz,flags,"(6, 256, 256)",uint32,0
+neossat/stacks/neowise-c10.npz,valid,"(6, 256, 256)",uint8,0
+neossat/stacks/neowise-c10.npz,wave,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c10.npz,bandwidth,"(6, 256, 256)",float32,393216
+neossat/stacks/neowise-c10.npz,frame_uid,"(6,)",<U53,0
+neossat/stacks/neowise-c10.npz,mjd,"(6,)",float64,0
+neossat/stacks/neowise-c11.npz,image,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c11.npz,sigma,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c11.npz,flags,"(6, 256, 256)",uint32,0
+neossat/stacks/neowise-c11.npz,valid,"(6, 256, 256)",uint8,0
+neossat/stacks/neowise-c11.npz,wave,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c11.npz,bandwidth,"(6, 256, 256)",float32,393216
+neossat/stacks/neowise-c11.npz,frame_uid,"(6,)",<U53,0
+neossat/stacks/neowise-c11.npz,mjd,"(6,)",float64,0
+neossat/stacks/neowise-c12.npz,image,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c12.npz,sigma,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c12.npz,flags,"(6, 256, 256)",uint32,0
+neossat/stacks/neowise-c12.npz,valid,"(6, 256, 256)",uint8,0
+neossat/stacks/neowise-c12.npz,wave,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c12.npz,bandwidth,"(6, 256, 256)",float32,393216
+neossat/stacks/neowise-c12.npz,frame_uid,"(6,)",<U53,0
+neossat/stacks/neowise-c12.npz,mjd,"(6,)",float64,0
+neossat/stacks/neowise-c13.npz,image,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c13.npz,sigma,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c13.npz,flags,"(6, 256, 256)",uint32,0
+neossat/stacks/neowise-c13.npz,valid,"(6, 256, 256)",uint8,0
+neossat/stacks/neowise-c13.npz,wave,"(6, 256, 256)",float32,0
+neossat/stacks/neowise-c13.npz,bandwidth,"(6, 256, 256)",float32,393216
+neossat/stacks/neowise-c13.npz,frame_uid,"(6,)",<U53,0
+neossat/stacks/neowise-c13.npz,mjd,"(6,)",float64,0
+neossat/stacks/neowise-c14.npz,image,"(24, 256, 256)",float32,0
+neossat/stacks/neowise-c14.npz,sigma,"(24, 256, 256)",float32,0
+neossat/stacks/neowise-c14.npz,flags,"(24, 256, 256)",uint32,0
+neossat/stacks/neowise-c14.npz,valid,"(24, 256, 256)",uint8,0
+neossat/stacks/neowise-c14.npz,wave,"(24, 256, 256)",float32,435
+neossat/stacks/neowise-c14.npz,bandwidth,"(24, 256, 256)",float32,1572864
+neossat/stacks/neowise-c14.npz,frame_uid,"(24,)",<U53,0
+neossat/stacks/neowise-c14.npz,mjd,"(24,)",float64,0
+neossat/stacks/neowise-c15.npz,image,"(18, 256, 256)",float32,0
+neossat/stacks/neowise-c15.npz,sigma,"(18, 256, 256)",float32,0
+neossat/stacks/neowise-c15.npz,flags,"(18, 256, 256)",uint32,0
+neossat/stacks/neowise-c15.npz,valid,"(18, 256, 256)",uint8,0
+neossat/stacks/neowise-c15.npz,wave,"(18, 256, 256)",float32,538
+neossat/stacks/neowise-c15.npz,bandwidth,"(18, 256, 256)",float32,1179648
+neossat/stacks/neowise-c15.npz,frame_uid,"(18,)",<U53,0
+neossat/stacks/neowise-c15.npz,mjd,"(18,)",float64,0
+neossat/stacks/neowise-c16.npz,image,"(10, 256, 256)",float32,0
+neossat/stacks/neowise-c16.npz,sigma,"(10, 256, 256)",float32,0
+neossat/stacks/neowise-c16.npz,flags,"(10, 256, 256)",uint32,0
+neossat/stacks/neowise-c16.npz,valid,"(10, 256, 256)",uint8,0
+neossat/stacks/neowise-c16.npz,wave,"(10, 256, 256)",float32,635
+neossat/stacks/neowise-c16.npz,bandwidth,"(10, 256, 256)",float32,655360
+neossat/stacks/neowise-c16.npz,frame_uid,"(10,)",<U53,0
+neossat/stacks/neowise-c16.npz,mjd,"(10,)",float64,0
+neossat/stacks/neowise-c17.npz,image,"(10, 256, 256)",float32,0
+neossat/stacks/neowise-c17.npz,sigma,"(10, 256, 256)",float32,0
+neossat/stacks/neowise-c17.npz,flags,"(10, 256, 256)",uint32,0
+neossat/stacks/neowise-c17.npz,valid,"(10, 256, 256)",uint8,0
+neossat/stacks/neowise-c17.npz,wave,"(10, 256, 256)",float32,503
+neossat/stacks/neowise-c17.npz,bandwidth,"(10, 256, 256)",float32,655360
+neossat/stacks/neowise-c17.npz,frame_uid,"(10,)",<U53,0
+neossat/stacks/neowise-c17.npz,mjd,"(10,)",float64,0
+neossat/stacks/neowise-c18.npz,image,"(5, 256, 256)",float32,0
+neossat/stacks/neowise-c18.npz,sigma,"(5, 256, 256)",float32,0
+neossat/stacks/neowise-c18.npz,flags,"(5, 256, 256)",uint32,0
+neossat/stacks/neowise-c18.npz,valid,"(5, 256, 256)",uint8,0
+neossat/stacks/neowise-c18.npz,wave,"(5, 256, 256)",float32,490
+neossat/stacks/neowise-c18.npz,bandwidth,"(5, 256, 256)",float32,327680
+neossat/stacks/neowise-c18.npz,frame_uid,"(5,)",<U53,0
+neossat/stacks/neowise-c18.npz,mjd,"(5,)",float64,0
+neossat/stacks/neowise-c19.npz,image,"(23, 256, 256)",float32,0
+neossat/stacks/neowise-c19.npz,sigma,"(23, 256, 256)",float32,0
+neossat/stacks/neowise-c19.npz,flags,"(23, 256, 256)",uint32,0
+neossat/stacks/neowise-c19.npz,valid,"(23, 256, 256)",uint8,0
+neossat/stacks/neowise-c19.npz,wave,"(23, 256, 256)",float32,641352
+neossat/stacks/neowise-c19.npz,bandwidth,"(23, 256, 256)",float32,1507328
+neossat/stacks/neowise-c19.npz,frame_uid,"(23,)",<U53,0
+neossat/stacks/neowise-c19.npz,mjd,"(23,)",float64,0
+neossat/stacks/phaethon-c00.npz,image,"(20, 256, 256)",float32,0
+neossat/stacks/phaethon-c00.npz,sigma,"(20, 256, 256)",float32,0
+neossat/stacks/phaethon-c00.npz,flags,"(20, 256, 256)",uint32,0
+neossat/stacks/phaethon-c00.npz,valid,"(20, 256, 256)",uint8,0
+neossat/stacks/phaethon-c00.npz,wave,"(20, 256, 256)",float32,133087
+neossat/stacks/phaethon-c00.npz,bandwidth,"(20, 256, 256)",float32,1310720
+neossat/stacks/phaethon-c00.npz,frame_uid,"(20,)",<U54,0
+neossat/stacks/phaethon-c00.npz,mjd,"(20,)",float64,0
+neossat/stacks/phaethon-c01.npz,image,"(3, 256, 256)",float32,0
+neossat/stacks/phaethon-c01.npz,sigma,"(3, 256, 256)",float32,0
+neossat/stacks/phaethon-c01.npz,flags,"(3, 256, 256)",uint32,0
+neossat/stacks/phaethon-c01.npz,valid,"(3, 256, 256)",uint8,0
+neossat/stacks/phaethon-c01.npz,wave,"(3, 256, 256)",float32,301
+neossat/stacks/phaethon-c01.npz,bandwidth,"(3, 256, 256)",float32,196608
+neossat/stacks/phaethon-c01.npz,frame_uid,"(3,)",<U54,0
+neossat/stacks/phaethon-c01.npz,mjd,"(3,)",float64,0
+neossat/stacks/phaethon-c02.npz,image,"(25, 256, 256)",float32,0
+neossat/stacks/phaethon-c02.npz,sigma,"(25, 256, 256)",float32,0
+neossat/stacks/phaethon-c02.npz,flags,"(25, 256, 256)",uint32,0
+neossat/stacks/phaethon-c02.npz,valid,"(25, 256, 256)",uint8,0
+neossat/stacks/phaethon-c02.npz,wave,"(25, 256, 256)",float32,3553
+neossat/stacks/phaethon-c02.npz,bandwidth,"(25, 256, 256)",float32,1638400
+neossat/stacks/phaethon-c02.npz,frame_uid,"(25,)",<U54,0
+neossat/stacks/phaethon-c02.npz,mjd,"(25,)",float64,0
+neossat/stacks/phaethon-c03.npz,image,"(2, 256, 256)",float32,0
+neossat/stacks/phaethon-c03.npz,sigma,"(2, 256, 256)",float32,0
+neossat/stacks/phaethon-c03.npz,flags,"(2, 256, 256)",uint32,0
+neossat/stacks/phaethon-c03.npz,valid,"(2, 256, 256)",uint8,0
+neossat/stacks/phaethon-c03.npz,wave,"(2, 256, 256)",float32,209
+neossat/stacks/phaethon-c03.npz,bandwidth,"(2, 256, 256)",float32,131072
+neossat/stacks/phaethon-c03.npz,frame_uid,"(2,)",<U54,0
+neossat/stacks/phaethon-c03.npz,mjd,"(2,)",float64,0
+neossat/stacks/phaethon-c04.npz,image,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c04.npz,sigma,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c04.npz,flags,"(24, 256, 256)",uint32,0
+neossat/stacks/phaethon-c04.npz,valid,"(24, 256, 256)",uint8,0
+neossat/stacks/phaethon-c04.npz,wave,"(24, 256, 256)",float32,727
+neossat/stacks/phaethon-c04.npz,bandwidth,"(24, 256, 256)",float32,1572864
+neossat/stacks/phaethon-c04.npz,frame_uid,"(24,)",<U54,0
+neossat/stacks/phaethon-c04.npz,mjd,"(24,)",float64,0
+neossat/stacks/phaethon-c05.npz,image,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c05.npz,sigma,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c05.npz,flags,"(24, 256, 256)",uint32,0
+neossat/stacks/phaethon-c05.npz,valid,"(24, 256, 256)",uint8,0
+neossat/stacks/phaethon-c05.npz,wave,"(24, 256, 256)",float32,737
+neossat/stacks/phaethon-c05.npz,bandwidth,"(24, 256, 256)",float32,1572864
+neossat/stacks/phaethon-c05.npz,frame_uid,"(24,)",<U54,0
+neossat/stacks/phaethon-c05.npz,mjd,"(24,)",float64,0
+neossat/stacks/phaethon-c06.npz,image,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c06.npz,sigma,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c06.npz,flags,"(24, 256, 256)",uint32,0
+neossat/stacks/phaethon-c06.npz,valid,"(24, 256, 256)",uint8,0
+neossat/stacks/phaethon-c06.npz,wave,"(24, 256, 256)",float32,202
+neossat/stacks/phaethon-c06.npz,bandwidth,"(24, 256, 256)",float32,1572864
+neossat/stacks/phaethon-c06.npz,frame_uid,"(24,)",<U54,0
+neossat/stacks/phaethon-c06.npz,mjd,"(24,)",float64,0
+neossat/stacks/phaethon-c07.npz,image,"(12, 256, 256)",float32,0
+neossat/stacks/phaethon-c07.npz,sigma,"(12, 256, 256)",float32,0
+neossat/stacks/phaethon-c07.npz,flags,"(12, 256, 256)",uint32,0
+neossat/stacks/phaethon-c07.npz,valid,"(12, 256, 256)",uint8,0
+neossat/stacks/phaethon-c07.npz,wave,"(12, 256, 256)",float32,48
+neossat/stacks/phaethon-c07.npz,bandwidth,"(12, 256, 256)",float32,786432
+neossat/stacks/phaethon-c07.npz,frame_uid,"(12,)",<U54,0
+neossat/stacks/phaethon-c07.npz,mjd,"(12,)",float64,0
+neossat/stacks/phaethon-c08.npz,image,"(12, 256, 256)",float32,0
+neossat/stacks/phaethon-c08.npz,sigma,"(12, 256, 256)",float32,0
+neossat/stacks/phaethon-c08.npz,flags,"(12, 256, 256)",uint32,0
+neossat/stacks/phaethon-c08.npz,valid,"(12, 256, 256)",uint8,0
+neossat/stacks/phaethon-c08.npz,wave,"(12, 256, 256)",float32,1598
+neossat/stacks/phaethon-c08.npz,bandwidth,"(12, 256, 256)",float32,786432
+neossat/stacks/phaethon-c08.npz,frame_uid,"(12,)",<U54,0
+neossat/stacks/phaethon-c08.npz,mjd,"(12,)",float64,0
+neossat/stacks/phaethon-c09.npz,image,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c09.npz,sigma,"(24, 256, 256)",float32,0
+neossat/stacks/phaethon-c09.npz,flags,"(24, 256, 256)",uint32,0
+neossat/stacks/phaethon-c09.npz,valid,"(24, 256, 256)",uint8,0
+neossat/stacks/phaethon-c09.npz,wave,"(24, 256, 256)",float32,101
+neossat/stacks/phaethon-c09.npz,bandwidth,"(24, 256, 256)",float32,1572864
+neossat/stacks/phaethon-c09.npz,frame_uid,"(24,)",<U54,0
+neossat/stacks/phaethon-c09.npz,mjd,"(24,)",float64,0
+spherex/injected/barnards-star-r0.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r0.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r0.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/barnards-star-r0.npz,frame_index,"(58,)",int64,0
+spherex/injected/barnards-star-r1.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r1.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r1.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/barnards-star-r1.npz,frame_index,"(58,)",int64,0
+spherex/injected/barnards-star-r2.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r2.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r2.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/barnards-star-r2.npz,frame_index,"(58,)",int64,0
+spherex/injected/barnards-star-r3.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r3.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r3.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/barnards-star-r3.npz,frame_index,"(58,)",int64,0
+spherex/injected/barnards-star-r4.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r4.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r4.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/barnards-star-r4.npz,frame_index,"(58,)",int64,0
+spherex/injected/barnards-star-r5.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r5.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/barnards-star-r5.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/barnards-star-r5.npz,frame_index,"(58,)",int64,0
+spherex/injected/epsilon-indi-b-r0.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r0.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r0.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/epsilon-indi-b-r0.npz,frame_index,"(59,)",int64,0
+spherex/injected/epsilon-indi-b-r1.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r1.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r1.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/epsilon-indi-b-r1.npz,frame_index,"(59,)",int64,0
+spherex/injected/epsilon-indi-b-r2.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r2.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r2.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/epsilon-indi-b-r2.npz,frame_index,"(59,)",int64,0
+spherex/injected/epsilon-indi-b-r3.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r3.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r3.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/epsilon-indi-b-r3.npz,frame_index,"(59,)",int64,0
+spherex/injected/epsilon-indi-b-r4.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r4.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r4.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/epsilon-indi-b-r4.npz,frame_index,"(59,)",int64,0
+spherex/injected/epsilon-indi-b-r5.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r5.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/epsilon-indi-b-r5.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/epsilon-indi-b-r5.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1057879895596316416-r0.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r0.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r0.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-1057879895596316416-r0.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1057879895596316416-r1.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r1.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r1.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-1057879895596316416-r1.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1057879895596316416-r2.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r2.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r2.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-1057879895596316416-r2.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1057879895596316416-r3.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r3.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r3.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-1057879895596316416-r3.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1057879895596316416-r4.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r4.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r4.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-1057879895596316416-r4.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1057879895596316416-r5.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r5.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-1057879895596316416-r5.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-1057879895596316416-r5.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-1711005951573009792-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1711005951573009792-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1711005951573009792-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1711005951573009792-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1711005951573009792-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1711005951573009792-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1711005951573009792-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1711005951573009792-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1711005951573009792-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1711005951573009792-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1711005951573009792-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1711005951573009792-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1711005951573009792-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1872046609345556480-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1872046609345556480-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1872046609345556480-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1872046609345556480-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1872046609345556480-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1872046609345556480-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1872046609345556480-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1872046609345556480-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1872046609345556480-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1872046609345556480-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-1872046609345556480-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-1872046609345556480-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-1872046609345556480-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-2306965202564744064-r0.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r0.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r0.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-2306965202564744064-r0.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-2306965202564744064-r1.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r1.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r1.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-2306965202564744064-r1.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-2306965202564744064-r2.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r2.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r2.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-2306965202564744064-r2.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-2306965202564744064-r3.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r3.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r3.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-2306965202564744064-r3.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-2306965202564744064-r4.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r4.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r4.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-2306965202564744064-r4.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-2306965202564744064-r5.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r5.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-2306965202564744064-r5.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-2306965202564744064-r5.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3098328182579892096-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-3098328182579892096-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-3098328182579892096-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-3098328182579892096-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-3098328182579892096-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-3098328182579892096-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-3098328182579892096-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-3098328182579892096-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-3098328182579892096-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-3098328182579892096-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-3098328182579892096-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-3098328182579892096-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-3098328182579892096-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-3139847906307949696-r0.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r0.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r0.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3139847906307949696-r0.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3139847906307949696-r1.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r1.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r1.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3139847906307949696-r1.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3139847906307949696-r2.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r2.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r2.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3139847906307949696-r2.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3139847906307949696-r3.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r3.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r3.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3139847906307949696-r3.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3139847906307949696-r4.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r4.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r4.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3139847906307949696-r4.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3139847906307949696-r5.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r5.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3139847906307949696-r5.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3139847906307949696-r5.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3195919528989223040-r0.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r0.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r0.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3195919528989223040-r0.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3195919528989223040-r1.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r1.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r1.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3195919528989223040-r1.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3195919528989223040-r2.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r2.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r2.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3195919528989223040-r2.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3195919528989223040-r3.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r3.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r3.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3195919528989223040-r3.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3195919528989223040-r4.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r4.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r4.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3195919528989223040-r4.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3195919528989223040-r5.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r5.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3195919528989223040-r5.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3195919528989223040-r5.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3713594960831605760-r0.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r0.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r0.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3713594960831605760-r0.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3713594960831605760-r1.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r1.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r1.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3713594960831605760-r1.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3713594960831605760-r2.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r2.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r2.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3713594960831605760-r2.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3713594960831605760-r3.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r3.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r3.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3713594960831605760-r3.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3713594960831605760-r4.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r4.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r4.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3713594960831605760-r4.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3713594960831605760-r5.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r5.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/gaia-3713594960831605760-r5.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/gaia-3713594960831605760-r5.npz,frame_index,"(58,)",int64,0
+spherex/injected/gaia-3864972938605115520-r0.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r0.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r0.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/gaia-3864972938605115520-r0.npz,frame_index,"(46,)",int64,0
+spherex/injected/gaia-3864972938605115520-r1.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r1.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r1.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/gaia-3864972938605115520-r1.npz,frame_index,"(46,)",int64,0
+spherex/injected/gaia-3864972938605115520-r2.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r2.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r2.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/gaia-3864972938605115520-r2.npz,frame_index,"(46,)",int64,0
+spherex/injected/gaia-3864972938605115520-r3.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r3.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r3.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/gaia-3864972938605115520-r3.npz,frame_index,"(46,)",int64,0
+spherex/injected/gaia-3864972938605115520-r4.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r4.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r4.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/gaia-3864972938605115520-r4.npz,frame_index,"(46,)",int64,0
+spherex/injected/gaia-3864972938605115520-r5.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r5.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/gaia-3864972938605115520-r5.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/gaia-3864972938605115520-r5.npz,frame_index,"(46,)",int64,0
+spherex/injected/gaia-4034171629042489088-r0.npz,image,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r0.npz,sigma,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r0.npz,valid,"(45, 128, 128)",uint8,0
+spherex/injected/gaia-4034171629042489088-r0.npz,frame_index,"(45,)",int64,0
+spherex/injected/gaia-4034171629042489088-r1.npz,image,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r1.npz,sigma,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r1.npz,valid,"(45, 128, 128)",uint8,0
+spherex/injected/gaia-4034171629042489088-r1.npz,frame_index,"(45,)",int64,0
+spherex/injected/gaia-4034171629042489088-r2.npz,image,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r2.npz,sigma,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r2.npz,valid,"(45, 128, 128)",uint8,0
+spherex/injected/gaia-4034171629042489088-r2.npz,frame_index,"(45,)",int64,0
+spherex/injected/gaia-4034171629042489088-r3.npz,image,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r3.npz,sigma,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r3.npz,valid,"(45, 128, 128)",uint8,0
+spherex/injected/gaia-4034171629042489088-r3.npz,frame_index,"(45,)",int64,0
+spherex/injected/gaia-4034171629042489088-r4.npz,image,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r4.npz,sigma,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r4.npz,valid,"(45, 128, 128)",uint8,0
+spherex/injected/gaia-4034171629042489088-r4.npz,frame_index,"(45,)",int64,0
+spherex/injected/gaia-4034171629042489088-r5.npz,image,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r5.npz,sigma,"(45, 128, 128)",float32,0
+spherex/injected/gaia-4034171629042489088-r5.npz,valid,"(45, 128, 128)",uint8,0
+spherex/injected/gaia-4034171629042489088-r5.npz,frame_index,"(45,)",int64,0
+spherex/injected/gaia-411413822074322432-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-411413822074322432-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-411413822074322432-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-411413822074322432-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-411413822074322432-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-411413822074322432-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-411413822074322432-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-411413822074322432-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-411413822074322432-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-411413822074322432-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-411413822074322432-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-411413822074322432-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-411413822074322432-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-4810594479418041856-r0.npz,image,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r0.npz,sigma,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r0.npz,valid,"(54, 128, 128)",uint8,0
+spherex/injected/gaia-4810594479418041856-r0.npz,frame_index,"(54,)",int64,0
+spherex/injected/gaia-4810594479418041856-r1.npz,image,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r1.npz,sigma,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r1.npz,valid,"(54, 128, 128)",uint8,0
+spherex/injected/gaia-4810594479418041856-r1.npz,frame_index,"(54,)",int64,0
+spherex/injected/gaia-4810594479418041856-r2.npz,image,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r2.npz,sigma,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r2.npz,valid,"(54, 128, 128)",uint8,0
+spherex/injected/gaia-4810594479418041856-r2.npz,frame_index,"(54,)",int64,0
+spherex/injected/gaia-4810594479418041856-r3.npz,image,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r3.npz,sigma,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r3.npz,valid,"(54, 128, 128)",uint8,0
+spherex/injected/gaia-4810594479418041856-r3.npz,frame_index,"(54,)",int64,0
+spherex/injected/gaia-4810594479418041856-r4.npz,image,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r4.npz,sigma,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r4.npz,valid,"(54, 128, 128)",uint8,0
+spherex/injected/gaia-4810594479418041856-r4.npz,frame_index,"(54,)",int64,0
+spherex/injected/gaia-4810594479418041856-r5.npz,image,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r5.npz,sigma,"(54, 128, 128)",float32,0
+spherex/injected/gaia-4810594479418041856-r5.npz,valid,"(54, 128, 128)",uint8,0
+spherex/injected/gaia-4810594479418041856-r5.npz,frame_index,"(54,)",int64,0
+spherex/injected/gaia-4847957293278177024-r0.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r0.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r0.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-4847957293278177024-r0.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-4847957293278177024-r1.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r1.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r1.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-4847957293278177024-r1.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-4847957293278177024-r2.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r2.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r2.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-4847957293278177024-r2.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-4847957293278177024-r3.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r3.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r3.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-4847957293278177024-r3.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-4847957293278177024-r4.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r4.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r4.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-4847957293278177024-r4.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-4847957293278177024-r5.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r5.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-4847957293278177024-r5.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-4847957293278177024-r5.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-5115463180914712448-r0.npz,image,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r0.npz,sigma,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r0.npz,valid,"(49, 128, 128)",uint8,0
+spherex/injected/gaia-5115463180914712448-r0.npz,frame_index,"(49,)",int64,0
+spherex/injected/gaia-5115463180914712448-r1.npz,image,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r1.npz,sigma,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r1.npz,valid,"(49, 128, 128)",uint8,0
+spherex/injected/gaia-5115463180914712448-r1.npz,frame_index,"(49,)",int64,0
+spherex/injected/gaia-5115463180914712448-r2.npz,image,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r2.npz,sigma,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r2.npz,valid,"(49, 128, 128)",uint8,0
+spherex/injected/gaia-5115463180914712448-r2.npz,frame_index,"(49,)",int64,0
+spherex/injected/gaia-5115463180914712448-r3.npz,image,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r3.npz,sigma,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r3.npz,valid,"(49, 128, 128)",uint8,0
+spherex/injected/gaia-5115463180914712448-r3.npz,frame_index,"(49,)",int64,0
+spherex/injected/gaia-5115463180914712448-r4.npz,image,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r4.npz,sigma,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r4.npz,valid,"(49, 128, 128)",uint8,0
+spherex/injected/gaia-5115463180914712448-r4.npz,frame_index,"(49,)",int64,0
+spherex/injected/gaia-5115463180914712448-r5.npz,image,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r5.npz,sigma,"(49, 128, 128)",float32,0
+spherex/injected/gaia-5115463180914712448-r5.npz,valid,"(49, 128, 128)",uint8,0
+spherex/injected/gaia-5115463180914712448-r5.npz,frame_index,"(49,)",int64,0
+spherex/injected/gaia-5140693571158739840-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-5140693571158739840-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-5140693571158739840-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-5140693571158739840-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-5140693571158739840-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-5140693571158739840-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-5140693571158739840-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-5140693571158739840-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-5140693571158739840-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-5140693571158739840-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-5140693571158739840-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-5140693571158739840-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-5140693571158739840-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6281432246412503424-r0.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r0.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r0.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-6281432246412503424-r0.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-6281432246412503424-r1.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r1.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r1.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-6281432246412503424-r1.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-6281432246412503424-r2.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r2.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r2.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-6281432246412503424-r2.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-6281432246412503424-r3.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r3.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r3.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-6281432246412503424-r3.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-6281432246412503424-r4.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r4.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r4.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-6281432246412503424-r4.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-6281432246412503424-r5.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r5.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-6281432246412503424-r5.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-6281432246412503424-r5.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-6307374845312759552-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-6307374845312759552-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6307374845312759552-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-6307374845312759552-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6307374845312759552-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-6307374845312759552-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6307374845312759552-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-6307374845312759552-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6307374845312759552-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-6307374845312759552-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6307374845312759552-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/gaia-6307374845312759552-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/gaia-6307374845312759552-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/gaia-6553614253923452800-r0.npz,image,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r0.npz,sigma,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r0.npz,valid,"(51, 128, 128)",uint8,0
+spherex/injected/gaia-6553614253923452800-r0.npz,frame_index,"(51,)",int64,0
+spherex/injected/gaia-6553614253923452800-r1.npz,image,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r1.npz,sigma,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r1.npz,valid,"(51, 128, 128)",uint8,0
+spherex/injected/gaia-6553614253923452800-r1.npz,frame_index,"(51,)",int64,0
+spherex/injected/gaia-6553614253923452800-r2.npz,image,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r2.npz,sigma,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r2.npz,valid,"(51, 128, 128)",uint8,0
+spherex/injected/gaia-6553614253923452800-r2.npz,frame_index,"(51,)",int64,0
+spherex/injected/gaia-6553614253923452800-r3.npz,image,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r3.npz,sigma,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r3.npz,valid,"(51, 128, 128)",uint8,0
+spherex/injected/gaia-6553614253923452800-r3.npz,frame_index,"(51,)",int64,0
+spherex/injected/gaia-6553614253923452800-r4.npz,image,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r4.npz,sigma,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r4.npz,valid,"(51, 128, 128)",uint8,0
+spherex/injected/gaia-6553614253923452800-r4.npz,frame_index,"(51,)",int64,0
+spherex/injected/gaia-6553614253923452800-r5.npz,image,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r5.npz,sigma,"(51, 128, 128)",float32,0
+spherex/injected/gaia-6553614253923452800-r5.npz,valid,"(51, 128, 128)",uint8,0
+spherex/injected/gaia-6553614253923452800-r5.npz,frame_index,"(51,)",int64,0
+spherex/injected/gaia-6583272171336048640-r0.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r0.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r0.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-6583272171336048640-r0.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-6583272171336048640-r1.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r1.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r1.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-6583272171336048640-r1.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-6583272171336048640-r2.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r2.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r2.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-6583272171336048640-r2.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-6583272171336048640-r3.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r3.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r3.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-6583272171336048640-r3.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-6583272171336048640-r4.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r4.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r4.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-6583272171336048640-r4.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-6583272171336048640-r5.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r5.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/gaia-6583272171336048640-r5.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/gaia-6583272171336048640-r5.npz,frame_index,"(53,)",int64,0
+spherex/injected/gaia-762815470562110464-r0.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r0.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r0.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-762815470562110464-r0.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-762815470562110464-r1.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r1.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r1.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-762815470562110464-r1.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-762815470562110464-r2.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r2.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r2.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-762815470562110464-r2.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-762815470562110464-r3.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r3.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r3.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-762815470562110464-r3.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-762815470562110464-r4.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r4.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r4.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-762815470562110464-r4.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-762815470562110464-r5.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r5.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/gaia-762815470562110464-r5.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/gaia-762815470562110464-r5.npz,frame_index,"(59,)",int64,0
+spherex/injected/gaia-778947814402602752-r0.npz,image,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r0.npz,sigma,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r0.npz,valid,"(55, 128, 128)",uint8,0
+spherex/injected/gaia-778947814402602752-r0.npz,frame_index,"(55,)",int64,0
+spherex/injected/gaia-778947814402602752-r1.npz,image,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r1.npz,sigma,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r1.npz,valid,"(55, 128, 128)",uint8,0
+spherex/injected/gaia-778947814402602752-r1.npz,frame_index,"(55,)",int64,0
+spherex/injected/gaia-778947814402602752-r2.npz,image,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r2.npz,sigma,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r2.npz,valid,"(55, 128, 128)",uint8,0
+spherex/injected/gaia-778947814402602752-r2.npz,frame_index,"(55,)",int64,0
+spherex/injected/gaia-778947814402602752-r3.npz,image,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r3.npz,sigma,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r3.npz,valid,"(55, 128, 128)",uint8,0
+spherex/injected/gaia-778947814402602752-r3.npz,frame_index,"(55,)",int64,0
+spherex/injected/gaia-778947814402602752-r4.npz,image,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r4.npz,sigma,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r4.npz,valid,"(55, 128, 128)",uint8,0
+spherex/injected/gaia-778947814402602752-r4.npz,frame_index,"(55,)",int64,0
+spherex/injected/gaia-778947814402602752-r5.npz,image,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r5.npz,sigma,"(55, 128, 128)",float32,0
+spherex/injected/gaia-778947814402602752-r5.npz,valid,"(55, 128, 128)",uint8,0
+spherex/injected/gaia-778947814402602752-r5.npz,frame_index,"(55,)",int64,0
+spherex/injected/luhman16-r0.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r0.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r0.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/luhman16-r0.npz,frame_index,"(58,)",int64,0
+spherex/injected/luhman16-r1.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r1.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r1.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/luhman16-r1.npz,frame_index,"(58,)",int64,0
+spherex/injected/luhman16-r2.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r2.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r2.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/luhman16-r2.npz,frame_index,"(58,)",int64,0
+spherex/injected/luhman16-r3.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r3.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r3.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/luhman16-r3.npz,frame_index,"(58,)",int64,0
+spherex/injected/luhman16-r4.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r4.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r4.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/luhman16-r4.npz,frame_index,"(58,)",int64,0
+spherex/injected/luhman16-r5.npz,image,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r5.npz,sigma,"(58, 128, 128)",float32,0
+spherex/injected/luhman16-r5.npz,valid,"(58, 128, 128)",uint8,0
+spherex/injected/luhman16-r5.npz,frame_index,"(58,)",int64,0
+spherex/injected/m101-r0.npz,image,"(57, 128, 128)",float32,0
+spherex/injected/m101-r0.npz,sigma,"(57, 128, 128)",float32,0
+spherex/injected/m101-r0.npz,valid,"(57, 128, 128)",uint8,0
+spherex/injected/m101-r0.npz,frame_index,"(57,)",int64,0
+spherex/injected/m101-r1.npz,image,"(57, 128, 128)",float32,0
+spherex/injected/m101-r1.npz,sigma,"(57, 128, 128)",float32,0
+spherex/injected/m101-r1.npz,valid,"(57, 128, 128)",uint8,0
+spherex/injected/m101-r1.npz,frame_index,"(57,)",int64,0
+spherex/injected/m101-r2.npz,image,"(57, 128, 128)",float32,0
+spherex/injected/m101-r2.npz,sigma,"(57, 128, 128)",float32,0
+spherex/injected/m101-r2.npz,valid,"(57, 128, 128)",uint8,0
+spherex/injected/m101-r2.npz,frame_index,"(57,)",int64,0
+spherex/injected/m101-r3.npz,image,"(57, 128, 128)",float32,0
+spherex/injected/m101-r3.npz,sigma,"(57, 128, 128)",float32,0
+spherex/injected/m101-r3.npz,valid,"(57, 128, 128)",uint8,0
+spherex/injected/m101-r3.npz,frame_index,"(57,)",int64,0
+spherex/injected/m101-r4.npz,image,"(57, 128, 128)",float32,0
+spherex/injected/m101-r4.npz,sigma,"(57, 128, 128)",float32,0
+spherex/injected/m101-r4.npz,valid,"(57, 128, 128)",uint8,0
+spherex/injected/m101-r4.npz,frame_index,"(57,)",int64,0
+spherex/injected/m101-r5.npz,image,"(57, 128, 128)",float32,0
+spherex/injected/m101-r5.npz,sigma,"(57, 128, 128)",float32,0
+spherex/injected/m101-r5.npz,valid,"(57, 128, 128)",uint8,0
+spherex/injected/m101-r5.npz,frame_index,"(57,)",int64,0
+spherex/injected/m31-r0.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/m31-r0.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/m31-r0.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/m31-r0.npz,frame_index,"(46,)",int64,0
+spherex/injected/m31-r1.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/m31-r1.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/m31-r1.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/m31-r1.npz,frame_index,"(46,)",int64,0
+spherex/injected/m31-r2.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/m31-r2.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/m31-r2.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/m31-r2.npz,frame_index,"(46,)",int64,0
+spherex/injected/m31-r3.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/m31-r3.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/m31-r3.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/m31-r3.npz,frame_index,"(46,)",int64,0
+spherex/injected/m31-r4.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/m31-r4.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/m31-r4.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/m31-r4.npz,frame_index,"(46,)",int64,0
+spherex/injected/m31-r5.npz,image,"(46, 128, 128)",float32,0
+spherex/injected/m31-r5.npz,sigma,"(46, 128, 128)",float32,0
+spherex/injected/m31-r5.npz,valid,"(46, 128, 128)",uint8,0
+spherex/injected/m31-r5.npz,frame_index,"(46,)",int64,0
+spherex/injected/m51-r0.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/m51-r0.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/m51-r0.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/m51-r0.npz,frame_index,"(56,)",int64,0
+spherex/injected/m51-r1.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/m51-r1.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/m51-r1.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/m51-r1.npz,frame_index,"(56,)",int64,0
+spherex/injected/m51-r2.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/m51-r2.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/m51-r2.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/m51-r2.npz,frame_index,"(56,)",int64,0
+spherex/injected/m51-r3.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/m51-r3.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/m51-r3.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/m51-r3.npz,frame_index,"(56,)",int64,0
+spherex/injected/m51-r4.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/m51-r4.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/m51-r4.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/m51-r4.npz,frame_index,"(56,)",int64,0
+spherex/injected/m51-r5.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/m51-r5.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/m51-r5.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/m51-r5.npz,frame_index,"(56,)",int64,0
+spherex/injected/proxima-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/proxima-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/proxima-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/proxima-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/proxima-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/proxima-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/proxima-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/proxima-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/proxima-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/proxima-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/proxima-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/proxima-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/proxima-r5.npz,frame_index,"(60,)",int64,0
+spherex/injected/r-draconis-r0.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r0.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r0.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/r-draconis-r0.npz,frame_index,"(56,)",int64,0
+spherex/injected/r-draconis-r1.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r1.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r1.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/r-draconis-r1.npz,frame_index,"(56,)",int64,0
+spherex/injected/r-draconis-r2.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r2.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r2.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/r-draconis-r2.npz,frame_index,"(56,)",int64,0
+spherex/injected/r-draconis-r3.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r3.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r3.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/r-draconis-r3.npz,frame_index,"(56,)",int64,0
+spherex/injected/r-draconis-r4.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r4.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r4.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/r-draconis-r4.npz,frame_index,"(56,)",int64,0
+spherex/injected/r-draconis-r5.npz,image,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r5.npz,sigma,"(56, 128, 128)",float32,0
+spherex/injected/r-draconis-r5.npz,valid,"(56, 128, 128)",uint8,0
+spherex/injected/r-draconis-r5.npz,frame_index,"(56,)",int64,0
+spherex/injected/ross128-r0.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r0.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r0.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/ross128-r0.npz,frame_index,"(53,)",int64,0
+spherex/injected/ross128-r1.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r1.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r1.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/ross128-r1.npz,frame_index,"(53,)",int64,0
+spherex/injected/ross128-r2.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r2.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r2.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/ross128-r2.npz,frame_index,"(53,)",int64,0
+spherex/injected/ross128-r3.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r3.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r3.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/ross128-r3.npz,frame_index,"(53,)",int64,0
+spherex/injected/ross128-r4.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r4.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r4.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/ross128-r4.npz,frame_index,"(53,)",int64,0
+spherex/injected/ross128-r5.npz,image,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r5.npz,sigma,"(53, 128, 128)",float32,0
+spherex/injected/ross128-r5.npz,valid,"(53, 128, 128)",uint8,0
+spherex/injected/ross128-r5.npz,frame_index,"(53,)",int64,0
+spherex/injected/rw-aurigae-r0.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r0.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r0.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/rw-aurigae-r0.npz,frame_index,"(59,)",int64,0
+spherex/injected/rw-aurigae-r1.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r1.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r1.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/rw-aurigae-r1.npz,frame_index,"(59,)",int64,0
+spherex/injected/rw-aurigae-r2.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r2.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r2.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/rw-aurigae-r2.npz,frame_index,"(59,)",int64,0
+spherex/injected/rw-aurigae-r3.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r3.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r3.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/rw-aurigae-r3.npz,frame_index,"(59,)",int64,0
+spherex/injected/rw-aurigae-r4.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r4.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r4.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/rw-aurigae-r4.npz,frame_index,"(59,)",int64,0
+spherex/injected/rw-aurigae-r5.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r5.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/rw-aurigae-r5.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/rw-aurigae-r5.npz,frame_index,"(59,)",int64,0
+spherex/injected/teegarden-r0.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r0.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r0.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/teegarden-r0.npz,frame_index,"(59,)",int64,0
+spherex/injected/teegarden-r1.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r1.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r1.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/teegarden-r1.npz,frame_index,"(59,)",int64,0
+spherex/injected/teegarden-r2.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r2.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r2.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/teegarden-r2.npz,frame_index,"(59,)",int64,0
+spherex/injected/teegarden-r3.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r3.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r3.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/teegarden-r3.npz,frame_index,"(59,)",int64,0
+spherex/injected/teegarden-r4.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r4.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r4.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/teegarden-r4.npz,frame_index,"(59,)",int64,0
+spherex/injected/teegarden-r5.npz,image,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r5.npz,sigma,"(59, 128, 128)",float32,0
+spherex/injected/teegarden-r5.npz,valid,"(59, 128, 128)",uint8,0
+spherex/injected/teegarden-r5.npz,frame_index,"(59,)",int64,0
+spherex/injected/wise0855-r0.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r0.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r0.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/wise0855-r0.npz,frame_index,"(60,)",int64,0
+spherex/injected/wise0855-r1.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r1.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r1.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/wise0855-r1.npz,frame_index,"(60,)",int64,0
+spherex/injected/wise0855-r2.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r2.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r2.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/wise0855-r2.npz,frame_index,"(60,)",int64,0
+spherex/injected/wise0855-r3.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r3.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r3.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/wise0855-r3.npz,frame_index,"(60,)",int64,0
+spherex/injected/wise0855-r4.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r4.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r4.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/wise0855-r4.npz,frame_index,"(60,)",int64,0
+spherex/injected/wise0855-r5.npz,image,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r5.npz,sigma,"(60, 128, 128)",float32,0
+spherex/injected/wise0855-r5.npz,valid,"(60, 128, 128)",uint8,0
+spherex/injected/wise0855-r5.npz,frame_index,"(60,)",int64,0
+spherex/psf/barnards-star.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/barnards-star.npz,n_stars,"(60,)",int64,0
+spherex/psf/barnards-star.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/barnards-star.npz,source,"(60,)",<U12,0
+spherex/psf/epsilon-indi-b.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/epsilon-indi-b.npz,n_stars,"(60,)",int64,0
+spherex/psf/epsilon-indi-b.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/epsilon-indi-b.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-1057879895596316416.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-1057879895596316416.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-1057879895596316416.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-1057879895596316416.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-1711005951573009792.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-1711005951573009792.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-1711005951573009792.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-1711005951573009792.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-1872046609345556480.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-1872046609345556480.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-1872046609345556480.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-1872046609345556480.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-2306965202564744064.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-2306965202564744064.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-2306965202564744064.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-2306965202564744064.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-3098328182579892096.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-3098328182579892096.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-3098328182579892096.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-3098328182579892096.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-3139847906307949696.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-3139847906307949696.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-3139847906307949696.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-3139847906307949696.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-3195919528989223040.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-3195919528989223040.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-3195919528989223040.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-3195919528989223040.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-3713594960831605760.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-3713594960831605760.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-3713594960831605760.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-3713594960831605760.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-3864972938605115520.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-3864972938605115520.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-3864972938605115520.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-3864972938605115520.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-4034171629042489088.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-4034171629042489088.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-4034171629042489088.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-4034171629042489088.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-411413822074322432.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-411413822074322432.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-411413822074322432.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-411413822074322432.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-4810594479418041856.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-4810594479418041856.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-4810594479418041856.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-4810594479418041856.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-4847957293278177024.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-4847957293278177024.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-4847957293278177024.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-4847957293278177024.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-5115463180914712448.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-5115463180914712448.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-5115463180914712448.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-5115463180914712448.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-5140693571158739840.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-5140693571158739840.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-5140693571158739840.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-5140693571158739840.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-6281432246412503424.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-6281432246412503424.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-6281432246412503424.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-6281432246412503424.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-6307374845312759552.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-6307374845312759552.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-6307374845312759552.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-6307374845312759552.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-6553614253923452800.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-6553614253923452800.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-6553614253923452800.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-6553614253923452800.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-6583272171336048640.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-6583272171336048640.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-6583272171336048640.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-6583272171336048640.npz,source,"(60,)",<U10,0
+spherex/psf/gaia-762815470562110464.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-762815470562110464.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-762815470562110464.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-762815470562110464.npz,source,"(60,)",<U12,0
+spherex/psf/gaia-778947814402602752.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/gaia-778947814402602752.npz,n_stars,"(60,)",int64,0
+spherex/psf/gaia-778947814402602752.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/gaia-778947814402602752.npz,source,"(60,)",<U12,0
+spherex/psf/luhman16.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/luhman16.npz,n_stars,"(60,)",int64,0
+spherex/psf/luhman16.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/luhman16.npz,source,"(60,)",<U12,0
+spherex/psf/m101.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/m101.npz,n_stars,"(60,)",int64,0
+spherex/psf/m101.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/m101.npz,source,"(60,)",<U12,0
+spherex/psf/m31.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/m31.npz,n_stars,"(60,)",int64,0
+spherex/psf/m31.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/m31.npz,source,"(60,)",<U12,0
+spherex/psf/m51.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/m51.npz,n_stars,"(60,)",int64,0
+spherex/psf/m51.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/m51.npz,source,"(60,)",<U12,0
+spherex/psf/proxima.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/proxima.npz,n_stars,"(60,)",int64,0
+spherex/psf/proxima.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/proxima.npz,source,"(60,)",<U12,0
+spherex/psf/r-draconis.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/r-draconis.npz,n_stars,"(60,)",int64,0
+spherex/psf/r-draconis.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/r-draconis.npz,source,"(60,)",<U10,0
+spherex/psf/ross128.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/ross128.npz,n_stars,"(60,)",int64,0
+spherex/psf/ross128.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/ross128.npz,source,"(60,)",<U10,0
+spherex/psf/rw-aurigae.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/rw-aurigae.npz,n_stars,"(60,)",int64,0
+spherex/psf/rw-aurigae.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/rw-aurigae.npz,source,"(60,)",<U12,0
+spherex/psf/teegarden.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/teegarden.npz,n_stars,"(60,)",int64,0
+spherex/psf/teegarden.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/teegarden.npz,source,"(60,)",<U10,0
+spherex/psf/wise0855.npz,psf,"(60, 15, 15)",float32,0
+spherex/psf/wise0855.npz,n_stars,"(60,)",int64,0
+spherex/psf/wise0855.npz,fwhm_px,"(60,)",float64,0
+spherex/psf/wise0855.npz,source,"(60,)",<U12,0
+spherex/stacks/barnards-star.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/barnards-star.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/barnards-star.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/barnards-star.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/barnards-star.npz,wave,"(60, 128, 128)",float32,297293
+spherex/stacks/barnards-star.npz,bandwidth,"(60, 128, 128)",float32,297293
+spherex/stacks/barnards-star.npz,frame_uid,"(60,)",<U74,0
+spherex/stacks/barnards-star.npz,mjd,"(60,)",float64,0
+spherex/stacks/epsilon-indi-b.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/epsilon-indi-b.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/epsilon-indi-b.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/epsilon-indi-b.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/epsilon-indi-b.npz,wave,"(60, 128, 128)",float32,165430
+spherex/stacks/epsilon-indi-b.npz,bandwidth,"(60, 128, 128)",float32,165430
+spherex/stacks/epsilon-indi-b.npz,frame_uid,"(60,)",<U75,0
+spherex/stacks/epsilon-indi-b.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-1057879895596316416.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-1057879895596316416.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-1057879895596316416.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-1057879895596316416.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-1057879895596316416.npz,wave,"(60, 128, 128)",float32,112509
+spherex/stacks/gaia-1057879895596316416.npz,bandwidth,"(60, 128, 128)",float32,112509
+spherex/stacks/gaia-1057879895596316416.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-1057879895596316416.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-1711005951573009792.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-1711005951573009792.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-1711005951573009792.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-1711005951573009792.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-1711005951573009792.npz,wave,"(60, 128, 128)",float32,47501
+spherex/stacks/gaia-1711005951573009792.npz,bandwidth,"(60, 128, 128)",float32,47501
+spherex/stacks/gaia-1711005951573009792.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-1711005951573009792.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-1872046609345556480.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-1872046609345556480.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-1872046609345556480.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-1872046609345556480.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-1872046609345556480.npz,wave,"(60, 128, 128)",float32,96037
+spherex/stacks/gaia-1872046609345556480.npz,bandwidth,"(60, 128, 128)",float32,96037
+spherex/stacks/gaia-1872046609345556480.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-1872046609345556480.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-2306965202564744064.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-2306965202564744064.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-2306965202564744064.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-2306965202564744064.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-2306965202564744064.npz,wave,"(60, 128, 128)",float32,131557
+spherex/stacks/gaia-2306965202564744064.npz,bandwidth,"(60, 128, 128)",float32,131557
+spherex/stacks/gaia-2306965202564744064.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-2306965202564744064.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-3098328182579892096.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3098328182579892096.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3098328182579892096.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-3098328182579892096.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-3098328182579892096.npz,wave,"(60, 128, 128)",float32,31827
+spherex/stacks/gaia-3098328182579892096.npz,bandwidth,"(60, 128, 128)",float32,31827
+spherex/stacks/gaia-3098328182579892096.npz,frame_uid,"(60,)",<U91,0
+spherex/stacks/gaia-3098328182579892096.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-3139847906307949696.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3139847906307949696.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3139847906307949696.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-3139847906307949696.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-3139847906307949696.npz,wave,"(60, 128, 128)",float32,73307
+spherex/stacks/gaia-3139847906307949696.npz,bandwidth,"(60, 128, 128)",float32,73307
+spherex/stacks/gaia-3139847906307949696.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-3139847906307949696.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-3195919528989223040.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3195919528989223040.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3195919528989223040.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-3195919528989223040.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-3195919528989223040.npz,wave,"(60, 128, 128)",float32,89292
+spherex/stacks/gaia-3195919528989223040.npz,bandwidth,"(60, 128, 128)",float32,89292
+spherex/stacks/gaia-3195919528989223040.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-3195919528989223040.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-3713594960831605760.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3713594960831605760.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3713594960831605760.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-3713594960831605760.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-3713594960831605760.npz,wave,"(60, 128, 128)",float32,82218
+spherex/stacks/gaia-3713594960831605760.npz,bandwidth,"(60, 128, 128)",float32,82218
+spherex/stacks/gaia-3713594960831605760.npz,frame_uid,"(60,)",<U91,0
+spherex/stacks/gaia-3713594960831605760.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-3864972938605115520.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3864972938605115520.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-3864972938605115520.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-3864972938605115520.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-3864972938605115520.npz,wave,"(60, 128, 128)",float32,71995
+spherex/stacks/gaia-3864972938605115520.npz,bandwidth,"(60, 128, 128)",float32,71995
+spherex/stacks/gaia-3864972938605115520.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-3864972938605115520.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-4034171629042489088.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-4034171629042489088.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-4034171629042489088.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-4034171629042489088.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-4034171629042489088.npz,wave,"(60, 128, 128)",float32,114344
+spherex/stacks/gaia-4034171629042489088.npz,bandwidth,"(60, 128, 128)",float32,114344
+spherex/stacks/gaia-4034171629042489088.npz,frame_uid,"(60,)",<U91,0
+spherex/stacks/gaia-4034171629042489088.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-411413822074322432.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-411413822074322432.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-411413822074322432.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-411413822074322432.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-411413822074322432.npz,wave,"(60, 128, 128)",float32,87882
+spherex/stacks/gaia-411413822074322432.npz,bandwidth,"(60, 128, 128)",float32,87882
+spherex/stacks/gaia-411413822074322432.npz,frame_uid,"(60,)",<U84,0
+spherex/stacks/gaia-411413822074322432.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-4810594479418041856.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-4810594479418041856.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-4810594479418041856.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-4810594479418041856.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-4810594479418041856.npz,wave,"(60, 128, 128)",float32,94076
+spherex/stacks/gaia-4810594479418041856.npz,bandwidth,"(60, 128, 128)",float32,94076
+spherex/stacks/gaia-4810594479418041856.npz,frame_uid,"(60,)",<U91,0
+spherex/stacks/gaia-4810594479418041856.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-4847957293278177024.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-4847957293278177024.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-4847957293278177024.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-4847957293278177024.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-4847957293278177024.npz,wave,"(60, 128, 128)",float32,142186
+spherex/stacks/gaia-4847957293278177024.npz,bandwidth,"(60, 128, 128)",float32,142186
+spherex/stacks/gaia-4847957293278177024.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-4847957293278177024.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-5115463180914712448.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-5115463180914712448.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-5115463180914712448.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-5115463180914712448.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-5115463180914712448.npz,wave,"(60, 128, 128)",float32,59695
+spherex/stacks/gaia-5115463180914712448.npz,bandwidth,"(60, 128, 128)",float32,59695
+spherex/stacks/gaia-5115463180914712448.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-5115463180914712448.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-5140693571158739840.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-5140693571158739840.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-5140693571158739840.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-5140693571158739840.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-5140693571158739840.npz,wave,"(60, 128, 128)",float32,80095
+spherex/stacks/gaia-5140693571158739840.npz,bandwidth,"(60, 128, 128)",float32,80095
+spherex/stacks/gaia-5140693571158739840.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-5140693571158739840.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-6281432246412503424.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6281432246412503424.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6281432246412503424.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-6281432246412503424.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-6281432246412503424.npz,wave,"(60, 128, 128)",float32,61323
+spherex/stacks/gaia-6281432246412503424.npz,bandwidth,"(60, 128, 128)",float32,61323
+spherex/stacks/gaia-6281432246412503424.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-6281432246412503424.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-6307374845312759552.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6307374845312759552.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6307374845312759552.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-6307374845312759552.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-6307374845312759552.npz,wave,"(60, 128, 128)",float32,54343
+spherex/stacks/gaia-6307374845312759552.npz,bandwidth,"(60, 128, 128)",float32,54343
+spherex/stacks/gaia-6307374845312759552.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-6307374845312759552.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-6553614253923452800.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6553614253923452800.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6553614253923452800.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-6553614253923452800.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-6553614253923452800.npz,wave,"(60, 128, 128)",float32,100306
+spherex/stacks/gaia-6553614253923452800.npz,bandwidth,"(60, 128, 128)",float32,100306
+spherex/stacks/gaia-6553614253923452800.npz,frame_uid,"(60,)",<U85,0
+spherex/stacks/gaia-6553614253923452800.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-6583272171336048640.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6583272171336048640.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-6583272171336048640.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-6583272171336048640.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-6583272171336048640.npz,wave,"(60, 128, 128)",float32,67958
+spherex/stacks/gaia-6583272171336048640.npz,bandwidth,"(60, 128, 128)",float32,67958
+spherex/stacks/gaia-6583272171336048640.npz,frame_uid,"(60,)",<U91,0
+spherex/stacks/gaia-6583272171336048640.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-762815470562110464.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-762815470562110464.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-762815470562110464.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-762815470562110464.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-762815470562110464.npz,wave,"(60, 128, 128)",float32,111627
+spherex/stacks/gaia-762815470562110464.npz,bandwidth,"(60, 128, 128)",float32,111627
+spherex/stacks/gaia-762815470562110464.npz,frame_uid,"(60,)",<U84,0
+spherex/stacks/gaia-762815470562110464.npz,mjd,"(60,)",float64,0
+spherex/stacks/gaia-778947814402602752.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-778947814402602752.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/gaia-778947814402602752.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/gaia-778947814402602752.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/gaia-778947814402602752.npz,wave,"(60, 128, 128)",float32,111385
+spherex/stacks/gaia-778947814402602752.npz,bandwidth,"(60, 128, 128)",float32,111385
+spherex/stacks/gaia-778947814402602752.npz,frame_uid,"(60,)",<U84,0
+spherex/stacks/gaia-778947814402602752.npz,mjd,"(60,)",float64,0
+spherex/stacks/luhman16.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/luhman16.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/luhman16.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/luhman16.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/luhman16.npz,wave,"(60, 128, 128)",float32,161364
+spherex/stacks/luhman16.npz,bandwidth,"(60, 128, 128)",float32,161364
+spherex/stacks/luhman16.npz,frame_uid,"(60,)",<U69,0
+spherex/stacks/luhman16.npz,mjd,"(60,)",float64,0
+spherex/stacks/m101.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/m101.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/m101.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/m101.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/m101.npz,wave,"(60, 128, 128)",float32,130092
+spherex/stacks/m101.npz,bandwidth,"(60, 128, 128)",float32,130092
+spherex/stacks/m101.npz,frame_uid,"(60,)",<U71,0
+spherex/stacks/m101.npz,mjd,"(60,)",float64,0
+spherex/stacks/m31.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/m31.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/m31.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/m31.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/m31.npz,wave,"(60, 128, 128)",float32,93946
+spherex/stacks/m31.npz,bandwidth,"(60, 128, 128)",float32,93946
+spherex/stacks/m31.npz,frame_uid,"(60,)",<U64,0
+spherex/stacks/m31.npz,mjd,"(60,)",float64,0
+spherex/stacks/m51.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/m51.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/m51.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/m51.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/m51.npz,wave,"(60, 128, 128)",float32,112765
+spherex/stacks/m51.npz,bandwidth,"(60, 128, 128)",float32,112765
+spherex/stacks/m51.npz,frame_uid,"(60,)",<U64,0
+spherex/stacks/m51.npz,mjd,"(60,)",float64,0
+spherex/stacks/proxima.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/proxima.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/proxima.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/proxima.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/proxima.npz,wave,"(60, 128, 128)",float32,149961
+spherex/stacks/proxima.npz,bandwidth,"(60, 128, 128)",float32,149961
+spherex/stacks/proxima.npz,frame_uid,"(60,)",<U68,0
+spherex/stacks/proxima.npz,mjd,"(60,)",float64,0
+spherex/stacks/r-draconis.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/r-draconis.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/r-draconis.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/r-draconis.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/r-draconis.npz,wave,"(60, 128, 128)",float32,117519
+spherex/stacks/r-draconis.npz,bandwidth,"(60, 128, 128)",float32,117519
+spherex/stacks/r-draconis.npz,frame_uid,"(60,)",<U71,0
+spherex/stacks/r-draconis.npz,mjd,"(60,)",float64,0
+spherex/stacks/ross128.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/ross128.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/ross128.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/ross128.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/ross128.npz,wave,"(60, 128, 128)",float32,95009
+spherex/stacks/ross128.npz,bandwidth,"(60, 128, 128)",float32,95009
+spherex/stacks/ross128.npz,frame_uid,"(60,)",<U68,0
+spherex/stacks/ross128.npz,mjd,"(60,)",float64,0
+spherex/stacks/rw-aurigae.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/rw-aurigae.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/rw-aurigae.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/rw-aurigae.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/rw-aurigae.npz,wave,"(60, 128, 128)",float32,30046
+spherex/stacks/rw-aurigae.npz,bandwidth,"(60, 128, 128)",float32,30046
+spherex/stacks/rw-aurigae.npz,frame_uid,"(60,)",<U71,0
+spherex/stacks/rw-aurigae.npz,mjd,"(60,)",float64,0
+spherex/stacks/teegarden.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/teegarden.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/teegarden.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/teegarden.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/teegarden.npz,wave,"(60, 128, 128)",float32,152540
+spherex/stacks/teegarden.npz,bandwidth,"(60, 128, 128)",float32,152540
+spherex/stacks/teegarden.npz,frame_uid,"(60,)",<U70,0
+spherex/stacks/teegarden.npz,mjd,"(60,)",float64,0
+spherex/stacks/wise0855.npz,image,"(60, 128, 128)",float32,0
+spherex/stacks/wise0855.npz,sigma,"(60, 128, 128)",float32,0
+spherex/stacks/wise0855.npz,flags,"(60, 128, 128)",uint32,0
+spherex/stacks/wise0855.npz,valid,"(60, 128, 128)",uint8,0
+spherex/stacks/wise0855.npz,wave,"(60, 128, 128)",float32,218708
+spherex/stacks/wise0855.npz,bandwidth,"(60, 128, 128)",float32,218708
+spherex/stacks/wise0855.npz,frame_uid,"(60,)",<U69,0
+spherex/stacks/wise0855.npz,mjd,"(60,)",float64,0
+wise/injected/61cyg_a-r0.npz,image,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r0.npz,sigma,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r0.npz,valid,"(75, 128, 128)",uint8,0
+wise/injected/61cyg_a-r0.npz,frame_index,"(75,)",int64,0
+wise/injected/61cyg_a-r1.npz,image,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r1.npz,sigma,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r1.npz,valid,"(75, 128, 128)",uint8,0
+wise/injected/61cyg_a-r1.npz,frame_index,"(75,)",int64,0
+wise/injected/61cyg_a-r2.npz,image,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r2.npz,sigma,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r2.npz,valid,"(75, 128, 128)",uint8,0
+wise/injected/61cyg_a-r2.npz,frame_index,"(75,)",int64,0
+wise/injected/61cyg_a-r3.npz,image,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r3.npz,sigma,"(75, 128, 128)",float32,0
+wise/injected/61cyg_a-r3.npz,valid,"(75, 128, 128)",uint8,0
+wise/injected/61cyg_a-r3.npz,frame_index,"(75,)",int64,0
+wise/injected/barnard-r0.npz,image,"(73, 128, 128)",float32,0
+wise/injected/barnard-r0.npz,sigma,"(73, 128, 128)",float32,0
+wise/injected/barnard-r0.npz,valid,"(73, 128, 128)",uint8,0
+wise/injected/barnard-r0.npz,frame_index,"(73,)",int64,0
+wise/injected/barnard-r1.npz,image,"(73, 128, 128)",float32,0
+wise/injected/barnard-r1.npz,sigma,"(73, 128, 128)",float32,0
+wise/injected/barnard-r1.npz,valid,"(73, 128, 128)",uint8,0
+wise/injected/barnard-r1.npz,frame_index,"(73,)",int64,0
+wise/injected/barnard-r2.npz,image,"(73, 128, 128)",float32,0
+wise/injected/barnard-r2.npz,sigma,"(73, 128, 128)",float32,0
+wise/injected/barnard-r2.npz,valid,"(73, 128, 128)",uint8,0
+wise/injected/barnard-r2.npz,frame_index,"(73,)",int64,0
+wise/injected/barnard-r3.npz,image,"(73, 128, 128)",float32,0
+wise/injected/barnard-r3.npz,sigma,"(73, 128, 128)",float32,0
+wise/injected/barnard-r3.npz,valid,"(73, 128, 128)",uint8,0
+wise/injected/barnard-r3.npz,frame_index,"(73,)",int64,0
+wise/injected/barnard_control-r0.npz,image,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r0.npz,sigma,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r0.npz,valid,"(82, 128, 128)",uint8,0
+wise/injected/barnard_control-r0.npz,frame_index,"(82,)",int64,0
+wise/injected/barnard_control-r1.npz,image,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r1.npz,sigma,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r1.npz,valid,"(82, 128, 128)",uint8,0
+wise/injected/barnard_control-r1.npz,frame_index,"(82,)",int64,0
+wise/injected/barnard_control-r2.npz,image,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r2.npz,sigma,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r2.npz,valid,"(82, 128, 128)",uint8,0
+wise/injected/barnard_control-r2.npz,frame_index,"(82,)",int64,0
+wise/injected/barnard_control-r3.npz,image,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r3.npz,sigma,"(82, 128, 128)",float32,0
+wise/injected/barnard_control-r3.npz,valid,"(82, 128, 128)",uint8,0
+wise/injected/barnard_control-r3.npz,frame_index,"(82,)",int64,0
+wise/injected/epsilon_indi_b-r0.npz,image,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r0.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r0.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/epsilon_indi_b-r0.npz,frame_index,"(76,)",int64,0
+wise/injected/epsilon_indi_b-r1.npz,image,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r1.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r1.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/epsilon_indi_b-r1.npz,frame_index,"(76,)",int64,0
+wise/injected/epsilon_indi_b-r2.npz,image,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r2.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r2.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/epsilon_indi_b-r2.npz,frame_index,"(76,)",int64,0
+wise/injected/epsilon_indi_b-r3.npz,image,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r3.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/epsilon_indi_b-r3.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/epsilon_indi_b-r3.npz,frame_index,"(76,)",int64,0
+wise/injected/lalande21185-r0.npz,image,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r0.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r0.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/lalande21185-r0.npz,frame_index,"(76,)",int64,0
+wise/injected/lalande21185-r1.npz,image,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r1.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r1.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/lalande21185-r1.npz,frame_index,"(76,)",int64,0
+wise/injected/lalande21185-r2.npz,image,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r2.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r2.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/lalande21185-r2.npz,frame_index,"(76,)",int64,0
+wise/injected/lalande21185-r3.npz,image,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r3.npz,sigma,"(76, 128, 128)",float32,0
+wise/injected/lalande21185-r3.npz,valid,"(76, 128, 128)",uint8,0
+wise/injected/lalande21185-r3.npz,frame_index,"(76,)",int64,0
+wise/injected/luhman16-r0.npz,image,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r0.npz,sigma,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r0.npz,valid,"(45, 128, 128)",uint8,0
+wise/injected/luhman16-r0.npz,frame_index,"(45,)",int64,0
+wise/injected/luhman16-r1.npz,image,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r1.npz,sigma,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r1.npz,valid,"(45, 128, 128)",uint8,0
+wise/injected/luhman16-r1.npz,frame_index,"(45,)",int64,0
+wise/injected/luhman16-r2.npz,image,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r2.npz,sigma,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r2.npz,valid,"(45, 128, 128)",uint8,0
+wise/injected/luhman16-r2.npz,frame_index,"(45,)",int64,0
+wise/injected/luhman16-r3.npz,image,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r3.npz,sigma,"(45, 128, 128)",float32,0
+wise/injected/luhman16-r3.npz,valid,"(45, 128, 128)",uint8,0
+wise/injected/luhman16-r3.npz,frame_index,"(45,)",int64,0
+wise/injected/teegarden-r0.npz,image,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r0.npz,sigma,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r0.npz,valid,"(70, 128, 128)",uint8,0
+wise/injected/teegarden-r0.npz,frame_index,"(70,)",int64,0
+wise/injected/teegarden-r1.npz,image,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r1.npz,sigma,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r1.npz,valid,"(70, 128, 128)",uint8,0
+wise/injected/teegarden-r1.npz,frame_index,"(70,)",int64,0
+wise/injected/teegarden-r2.npz,image,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r2.npz,sigma,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r2.npz,valid,"(70, 128, 128)",uint8,0
+wise/injected/teegarden-r2.npz,frame_index,"(70,)",int64,0
+wise/injected/teegarden-r3.npz,image,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r3.npz,sigma,"(70, 128, 128)",float32,0
+wise/injected/teegarden-r3.npz,valid,"(70, 128, 128)",uint8,0
+wise/injected/teegarden-r3.npz,frame_index,"(70,)",int64,0
+wise/injected/wise0855-r0.npz,image,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r0.npz,sigma,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r0.npz,valid,"(80, 128, 128)",uint8,0
+wise/injected/wise0855-r0.npz,frame_index,"(80,)",int64,0
+wise/injected/wise0855-r1.npz,image,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r1.npz,sigma,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r1.npz,valid,"(80, 128, 128)",uint8,0
+wise/injected/wise0855-r1.npz,frame_index,"(80,)",int64,0
+wise/injected/wise0855-r2.npz,image,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r2.npz,sigma,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r2.npz,valid,"(80, 128, 128)",uint8,0
+wise/injected/wise0855-r2.npz,frame_index,"(80,)",int64,0
+wise/injected/wise0855-r3.npz,image,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r3.npz,sigma,"(80, 128, 128)",float32,0
+wise/injected/wise0855-r3.npz,valid,"(80, 128, 128)",uint8,0
+wise/injected/wise0855-r3.npz,frame_index,"(80,)",int64,0
+wise/injected/wise0855_control-r0.npz,image,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r0.npz,sigma,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r0.npz,valid,"(84, 128, 128)",uint8,0
+wise/injected/wise0855_control-r0.npz,frame_index,"(84,)",int64,0
+wise/injected/wise0855_control-r1.npz,image,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r1.npz,sigma,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r1.npz,valid,"(84, 128, 128)",uint8,0
+wise/injected/wise0855_control-r1.npz,frame_index,"(84,)",int64,0
+wise/injected/wise0855_control-r2.npz,image,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r2.npz,sigma,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r2.npz,valid,"(84, 128, 128)",uint8,0
+wise/injected/wise0855_control-r2.npz,frame_index,"(84,)",int64,0
+wise/injected/wise0855_control-r3.npz,image,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r3.npz,sigma,"(84, 128, 128)",float32,0
+wise/injected/wise0855_control-r3.npz,valid,"(84, 128, 128)",uint8,0
+wise/injected/wise0855_control-r3.npz,frame_index,"(84,)",int64,0
+wise/injected/wolf359-r0.npz,image,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r0.npz,sigma,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r0.npz,valid,"(72, 128, 128)",uint8,0
+wise/injected/wolf359-r0.npz,frame_index,"(72,)",int64,0
+wise/injected/wolf359-r1.npz,image,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r1.npz,sigma,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r1.npz,valid,"(72, 128, 128)",uint8,0
+wise/injected/wolf359-r1.npz,frame_index,"(72,)",int64,0
+wise/injected/wolf359-r2.npz,image,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r2.npz,sigma,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r2.npz,valid,"(72, 128, 128)",uint8,0
+wise/injected/wolf359-r2.npz,frame_index,"(72,)",int64,0
+wise/injected/wolf359-r3.npz,image,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r3.npz,sigma,"(72, 128, 128)",float32,0
+wise/injected/wolf359-r3.npz,valid,"(72, 128, 128)",uint8,0
+wise/injected/wolf359-r3.npz,frame_index,"(72,)",int64,0
+wise/psf/61cyg_a.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/61cyg_a.npz,n_stars,"(84,)",int64,0
+wise/psf/61cyg_a.npz,fwhm_px,"(84,)",float64,0
+wise/psf/61cyg_a.npz,source,"(84,)",<U12,0
+wise/psf/barnard.npz,psf,"(82, 21, 21)",float32,0
+wise/psf/barnard.npz,n_stars,"(82,)",int64,0
+wise/psf/barnard.npz,fwhm_px,"(82,)",float64,0
+wise/psf/barnard.npz,source,"(82,)",<U12,0
+wise/psf/barnard_control.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/barnard_control.npz,n_stars,"(84,)",int64,0
+wise/psf/barnard_control.npz,fwhm_px,"(84,)",float64,0
+wise/psf/barnard_control.npz,source,"(84,)",<U12,0
+wise/psf/epsilon_indi_b.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/epsilon_indi_b.npz,n_stars,"(84,)",int64,0
+wise/psf/epsilon_indi_b.npz,fwhm_px,"(84,)",float64,0
+wise/psf/epsilon_indi_b.npz,source,"(84,)",<U12,0
+wise/psf/lalande21185.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/lalande21185.npz,n_stars,"(84,)",int64,0
+wise/psf/lalande21185.npz,fwhm_px,"(84,)",float64,0
+wise/psf/lalande21185.npz,source,"(84,)",<U12,0
+wise/psf/luhman16.npz,psf,"(48, 21, 21)",float32,0
+wise/psf/luhman16.npz,n_stars,"(48,)",int64,0
+wise/psf/luhman16.npz,fwhm_px,"(48,)",float64,0
+wise/psf/luhman16.npz,source,"(48,)",<U10,0
+wise/psf/teegarden.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/teegarden.npz,n_stars,"(84,)",int64,0
+wise/psf/teegarden.npz,fwhm_px,"(84,)",float64,0
+wise/psf/teegarden.npz,source,"(84,)",<U10,0
+wise/psf/wise0855.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/wise0855.npz,n_stars,"(84,)",int64,0
+wise/psf/wise0855.npz,fwhm_px,"(84,)",float64,0
+wise/psf/wise0855.npz,source,"(84,)",<U12,0
+wise/psf/wise0855_control.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/wise0855_control.npz,n_stars,"(84,)",int64,0
+wise/psf/wise0855_control.npz,fwhm_px,"(84,)",float64,0
+wise/psf/wise0855_control.npz,source,"(84,)",<U12,0
+wise/psf/wolf359.npz,psf,"(84, 21, 21)",float32,0
+wise/psf/wolf359.npz,n_stars,"(84,)",int64,0
+wise/psf/wolf359.npz,fwhm_px,"(84,)",float64,0
+wise/psf/wolf359.npz,source,"(84,)",<U12,0
+wise/stacks/61cyg_a-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/61cyg_a-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/61cyg_a-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/61cyg_a-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/61cyg_a-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/61cyg_a-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/61cyg_a.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/61cyg_a.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/61cyg_a.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/61cyg_a.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/61cyg_a.npz,wave,"(84, 128, 128)",float32,375712
+wise/stacks/61cyg_a.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/61cyg_a.npz,frame_uid,"(84,)",<U37,0
+wise/stacks/61cyg_a.npz,mjd,"(84,)",float64,0
+wise/stacks/barnard-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/barnard-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/barnard-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/barnard-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/barnard-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/barnard-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/barnard.npz,image,"(82, 128, 128)",float32,0
+wise/stacks/barnard.npz,sigma,"(82, 128, 128)",float32,0
+wise/stacks/barnard.npz,flags,"(82, 128, 128)",uint32,0
+wise/stacks/barnard.npz,valid,"(82, 128, 128)",uint8,0
+wise/stacks/barnard.npz,wave,"(82, 128, 128)",float32,350664
+wise/stacks/barnard.npz,bandwidth,"(82, 128, 128)",float32,1343488
+wise/stacks/barnard.npz,frame_uid,"(82,)",<U37,0
+wise/stacks/barnard.npz,mjd,"(82,)",float64,0
+wise/stacks/barnard_control-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/barnard_control-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/barnard_control-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/barnard_control-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/barnard_control-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/barnard_control-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/barnard_control.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/barnard_control.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/barnard_control.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/barnard_control.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/barnard_control.npz,wave,"(84, 128, 128)",float32,261066
+wise/stacks/barnard_control.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/barnard_control.npz,frame_uid,"(84,)",<U45,0
+wise/stacks/barnard_control.npz,mjd,"(84,)",float64,0
+wise/stacks/epsilon_indi_b-coadd.npz,image,"(41, 128, 128)",float32,0
+wise/stacks/epsilon_indi_b-coadd.npz,sigma,"(41, 128, 128)",float32,0
+wise/stacks/epsilon_indi_b-coadd.npz,valid,"(41, 128, 128)",uint8,0
+wise/stacks/epsilon_indi_b-coadd.npz,key,"(41,)",<U10,0
+wise/stacks/epsilon_indi_b-coadd.npz,mjd,"(41,)",float64,0
+wise/stacks/epsilon_indi_b-coadd.npz,n_frames,"(41,)",int64,0
+wise/stacks/epsilon_indi_b.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/epsilon_indi_b.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/epsilon_indi_b.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/epsilon_indi_b.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/epsilon_indi_b.npz,wave,"(84, 128, 128)",float32,315461
+wise/stacks/epsilon_indi_b.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/epsilon_indi_b.npz,frame_uid,"(84,)",<U44,0
+wise/stacks/epsilon_indi_b.npz,mjd,"(84,)",float64,0
+wise/stacks/lalande21185-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/lalande21185-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/lalande21185-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/lalande21185-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/lalande21185-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/lalande21185-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/lalande21185.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/lalande21185.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/lalande21185.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/lalande21185.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/lalande21185.npz,wave,"(84, 128, 128)",float32,299889
+wise/stacks/lalande21185.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/lalande21185.npz,frame_uid,"(84,)",<U42,0
+wise/stacks/lalande21185.npz,mjd,"(84,)",float64,0
+wise/stacks/luhman16-coadd.npz,image,"(24, 128, 128)",float32,0
+wise/stacks/luhman16-coadd.npz,sigma,"(24, 128, 128)",float32,0
+wise/stacks/luhman16-coadd.npz,valid,"(24, 128, 128)",uint8,0
+wise/stacks/luhman16-coadd.npz,key,"(24,)",<U10,0
+wise/stacks/luhman16-coadd.npz,mjd,"(24,)",float64,0
+wise/stacks/luhman16-coadd.npz,n_frames,"(24,)",int64,0
+wise/stacks/luhman16.npz,image,"(48, 128, 128)",float32,0
+wise/stacks/luhman16.npz,sigma,"(48, 128, 128)",float32,0
+wise/stacks/luhman16.npz,flags,"(48, 128, 128)",uint32,0
+wise/stacks/luhman16.npz,valid,"(48, 128, 128)",uint8,0
+wise/stacks/luhman16.npz,wave,"(48, 128, 128)",float32,154680
+wise/stacks/luhman16.npz,bandwidth,"(48, 128, 128)",float32,786432
+wise/stacks/luhman16.npz,frame_uid,"(48,)",<U38,0
+wise/stacks/luhman16.npz,mjd,"(48,)",float64,0
+wise/stacks/teegarden-coadd.npz,image,"(40, 128, 128)",float32,0
+wise/stacks/teegarden-coadd.npz,sigma,"(40, 128, 128)",float32,0
+wise/stacks/teegarden-coadd.npz,valid,"(40, 128, 128)",uint8,0
+wise/stacks/teegarden-coadd.npz,key,"(40,)",<U10,0
+wise/stacks/teegarden-coadd.npz,mjd,"(40,)",float64,0
+wise/stacks/teegarden-coadd.npz,n_frames,"(40,)",int64,0
+wise/stacks/teegarden.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/teegarden.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/teegarden.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/teegarden.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/teegarden.npz,wave,"(84, 128, 128)",float32,345664
+wise/stacks/teegarden.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/teegarden.npz,frame_uid,"(84,)",<U39,0
+wise/stacks/teegarden.npz,mjd,"(84,)",float64,0
+wise/stacks/wise0855-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/wise0855-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/wise0855-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/wise0855-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/wise0855-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/wise0855-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/wise0855.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/wise0855.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/wise0855.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/wise0855.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/wise0855.npz,wave,"(84, 128, 128)",float32,245618
+wise/stacks/wise0855.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/wise0855.npz,frame_uid,"(84,)",<U38,0
+wise/stacks/wise0855.npz,mjd,"(84,)",float64,0
+wise/stacks/wise0855_control-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/wise0855_control-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/wise0855_control-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/wise0855_control-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/wise0855_control-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/wise0855_control-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/wise0855_control.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/wise0855_control.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/wise0855_control.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/wise0855_control.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/wise0855_control.npz,wave,"(84, 128, 128)",float32,228625
+wise/stacks/wise0855_control.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/wise0855_control.npz,frame_uid,"(84,)",<U46,0
+wise/stacks/wise0855_control.npz,mjd,"(84,)",float64,0
+wise/stacks/wolf359-coadd.npz,image,"(42, 128, 128)",float32,0
+wise/stacks/wolf359-coadd.npz,sigma,"(42, 128, 128)",float32,0
+wise/stacks/wolf359-coadd.npz,valid,"(42, 128, 128)",uint8,0
+wise/stacks/wolf359-coadd.npz,key,"(42,)",<U10,0
+wise/stacks/wolf359-coadd.npz,mjd,"(42,)",float64,0
+wise/stacks/wolf359-coadd.npz,n_frames,"(42,)",int64,0
+wise/stacks/wolf359.npz,image,"(84, 128, 128)",float32,0
+wise/stacks/wolf359.npz,sigma,"(84, 128, 128)",float32,0
+wise/stacks/wolf359.npz,flags,"(84, 128, 128)",uint32,0
+wise/stacks/wolf359.npz,valid,"(84, 128, 128)",uint8,0
+wise/stacks/wolf359.npz,wave,"(84, 128, 128)",float32,264503
+wise/stacks/wolf359.npz,bandwidth,"(84, 128, 128)",float32,1376256
+wise/stacks/wolf359.npz,frame_uid,"(84,)",<U37,0
+wise/stacks/wolf359.npz,mjd,"(84,)",float64,0

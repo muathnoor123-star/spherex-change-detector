@@ -1,0 +1,11 @@
+class,stack_id,src_id,frame_index,image
+extended_ir,wise:61cyg_a,allwise:J210708.88+384546.3,67,example_extended_ir.png
+galaxy,wise:61cyg_a,gaia:1872047193458802944,81,example_galaxy.png
+ir_only_point,wise:61cyg_a,allwise:J210650.16+384316.6,76,example_ir_only_point.png
+star,wise:61cyg_a,gaia:1872047159099054848,81,example_star.png
+unknown_point,wise:61cyg_a,gaia:1872046570680589568,81,example_unknown_point.png
+variable_star,wise:61cyg_a,gaia:1872047330899975168,5,example_variable_star.png
+brown_dwarf,wise:epsilon_indi_b,gaia:6412596012146801152,3,example_brown_dwarf.png
+quasar,spherex:gaia-1711005951573009792,gaia:1711002786181015936,59,example_quasar.png
+comet,comet:3iatlas-t02,sso:3I/ATLAS,1,example_comet.png
+asteroid,neossat:phaethon-c07,sso:3200,11,example_asteroid.png

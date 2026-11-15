@@ -1,0 +1,1057 @@
+check,passed
+wise:61cyg_a sorted times,True
+wise:61cyg_a image time count,True
+wise:61cyg_a target row indexing,True
+wise:61cyg_a only QC frames,True
+wise:barnard sorted times,True
+wise:barnard image time count,True
+wise:barnard target row indexing,True
+wise:barnard only QC frames,True
+wise:barnard_control sorted times,True
+wise:barnard_control image time count,True
+wise:barnard_control target row indexing,True
+wise:barnard_control only QC frames,True
+wise:epsilon_indi_b sorted times,True
+wise:epsilon_indi_b image time count,True
+wise:epsilon_indi_b target row indexing,True
+wise:epsilon_indi_b only QC frames,True
+wise:lalande21185 sorted times,True
+wise:lalande21185 image time count,True
+wise:lalande21185 target row indexing,True
+wise:lalande21185 only QC frames,True
+wise:luhman16 sorted times,True
+wise:luhman16 image time count,True
+wise:luhman16 target row indexing,True
+wise:luhman16 only QC frames,True
+wise:teegarden sorted times,True
+wise:teegarden image time count,True
+wise:teegarden target row indexing,True
+wise:teegarden only QC frames,True
+wise:wise0855 sorted times,True
+wise:wise0855 image time count,True
+wise:wise0855 target row indexing,True
+wise:wise0855 only QC frames,True
+wise:wise0855_control sorted times,True
+wise:wise0855_control image time count,True
+wise:wise0855_control target row indexing,True
+wise:wise0855_control only QC frames,True
+wise:wolf359 sorted times,True
+wise:wolf359 image time count,True
+wise:wolf359 target row indexing,True
+wise:wolf359 only QC frames,True
+spherex:barnards-star sorted times,True
+spherex:barnards-star image time count,True
+spherex:barnards-star target row indexing,True
+spherex:barnards-star only QC frames,True
+spherex:epsilon-indi-b sorted times,True
+spherex:epsilon-indi-b image time count,True
+spherex:epsilon-indi-b target row indexing,True
+spherex:epsilon-indi-b only QC frames,True
+spherex:gaia-1057879895596316416 sorted times,True
+spherex:gaia-1057879895596316416 image time count,True
+spherex:gaia-1057879895596316416 target row indexing,True
+spherex:gaia-1057879895596316416 only QC frames,True
+spherex:gaia-1711005951573009792 sorted times,True
+spherex:gaia-1711005951573009792 image time count,True
+spherex:gaia-1711005951573009792 target row indexing,True
+spherex:gaia-1711005951573009792 only QC frames,True
+spherex:gaia-1872046609345556480 sorted times,True
+spherex:gaia-1872046609345556480 image time count,True
+spherex:gaia-1872046609345556480 target row indexing,True
+spherex:gaia-1872046609345556480 only QC frames,True
+spherex:gaia-2306965202564744064 sorted times,True
+spherex:gaia-2306965202564744064 image time count,True
+spherex:gaia-2306965202564744064 target row indexing,True
+spherex:gaia-2306965202564744064 only QC frames,True
+spherex:gaia-3098328182579892096 sorted times,True
+spherex:gaia-3098328182579892096 image time count,True
+spherex:gaia-3098328182579892096 target row indexing,True
+spherex:gaia-3098328182579892096 only QC frames,True
+spherex:gaia-3139847906307949696 sorted times,True
+spherex:gaia-3139847906307949696 image time count,True
+spherex:gaia-3139847906307949696 target row indexing,True
+spherex:gaia-3139847906307949696 only QC frames,True
+spherex:gaia-3195919528989223040 sorted times,True
+spherex:gaia-3195919528989223040 image time count,True
+spherex:gaia-3195919528989223040 target row indexing,True
+spherex:gaia-3195919528989223040 only QC frames,True
+spherex:gaia-3713594960831605760 sorted times,True
+spherex:gaia-3713594960831605760 image time count,True
+spherex:gaia-3713594960831605760 target row indexing,True
+spherex:gaia-3713594960831605760 only QC frames,True
+spherex:gaia-3864972938605115520 sorted times,True
+spherex:gaia-3864972938605115520 image time count,True
+spherex:gaia-3864972938605115520 target row indexing,True
+spherex:gaia-3864972938605115520 only QC frames,True
+spherex:gaia-4034171629042489088 sorted times,True
+spherex:gaia-4034171629042489088 image time count,True
+spherex:gaia-4034171629042489088 target row indexing,True
+spherex:gaia-4034171629042489088 only QC frames,True
+spherex:gaia-411413822074322432 sorted times,True
+spherex:gaia-411413822074322432 image time count,True
+spherex:gaia-411413822074322432 target row indexing,True
+spherex:gaia-411413822074322432 only QC frames,True
+spherex:gaia-4810594479418041856 sorted times,True
+spherex:gaia-4810594479418041856 image time count,True
+spherex:gaia-4810594479418041856 target row indexing,True
+spherex:gaia-4810594479418041856 only QC frames,True
+spherex:gaia-4847957293278177024 sorted times,True
+spherex:gaia-4847957293278177024 image time count,True
+spherex:gaia-4847957293278177024 target row indexing,True
+spherex:gaia-4847957293278177024 only QC frames,True
+spherex:gaia-5115463180914712448 sorted times,True
+spherex:gaia-5115463180914712448 image time count,True
+spherex:gaia-5115463180914712448 target row indexing,True
+spherex:gaia-5115463180914712448 only QC frames,True
+spherex:gaia-5140693571158739840 sorted times,True
+spherex:gaia-5140693571158739840 image time count,True
+spherex:gaia-5140693571158739840 target row indexing,True
+spherex:gaia-5140693571158739840 only QC frames,True
+spherex:gaia-6281432246412503424 sorted times,True
+spherex:gaia-6281432246412503424 image time count,True
+spherex:gaia-6281432246412503424 target row indexing,True
+spherex:gaia-6281432246412503424 only QC frames,True
+spherex:gaia-6307374845312759552 sorted times,True
+spherex:gaia-6307374845312759552 image time count,True
+spherex:gaia-6307374845312759552 target row indexing,True
+spherex:gaia-6307374845312759552 only QC frames,True
+spherex:gaia-6553614253923452800 sorted times,True
+spherex:gaia-6553614253923452800 image time count,True
+spherex:gaia-6553614253923452800 target row indexing,True
+spherex:gaia-6553614253923452800 only QC frames,True
+spherex:gaia-6583272171336048640 sorted times,True
+spherex:gaia-6583272171336048640 image time count,True
+spherex:gaia-6583272171336048640 target row indexing,True
+spherex:gaia-6583272171336048640 only QC frames,True
+spherex:gaia-762815470562110464 sorted times,True
+spherex:gaia-762815470562110464 image time count,True
+spherex:gaia-762815470562110464 target row indexing,True
+spherex:gaia-762815470562110464 only QC frames,True
+spherex:gaia-778947814402602752 sorted times,True
+spherex:gaia-778947814402602752 image time count,True
+spherex:gaia-778947814402602752 target row indexing,True
+spherex:gaia-778947814402602752 only QC frames,True
+spherex:luhman16 sorted times,True
+spherex:luhman16 image time count,True
+spherex:luhman16 target row indexing,True
+spherex:luhman16 only QC frames,True
+spherex:m101 sorted times,True
+spherex:m101 image time count,True
+spherex:m101 target row indexing,True
+spherex:m101 only QC frames,True
+spherex:m31 sorted times,True
+spherex:m31 image time count,True
+spherex:m31 target row indexing,True
+spherex:m31 only QC frames,True
+spherex:m51 sorted times,True
+spherex:m51 image time count,True
+spherex:m51 target row indexing,True
+spherex:m51 only QC frames,True
+spherex:proxima sorted times,True
+spherex:proxima image time count,True
+spherex:proxima target row indexing,True
+spherex:proxima only QC frames,True
+spherex:r-draconis sorted times,True
+spherex:r-draconis image time count,True
+spherex:r-draconis target row indexing,True
+spherex:r-draconis only QC frames,True
+spherex:ross128 sorted times,True
+spherex:ross128 image time count,True
+spherex:ross128 target row indexing,True
+spherex:ross128 only QC frames,True
+spherex:rw-aurigae sorted times,True
+spherex:rw-aurigae image time count,True
+spherex:rw-aurigae target row indexing,True
+spherex:rw-aurigae only QC frames,True
+spherex:teegarden sorted times,True
+spherex:teegarden image time count,True
+spherex:teegarden target row indexing,True
+spherex:teegarden only QC frames,True
+spherex:wise0855 sorted times,True
+spherex:wise0855 image time count,True
+spherex:wise0855 target row indexing,True
+spherex:wise0855 only QC frames,True
+comet:3iatlas-t00 sorted times,True
+comet:3iatlas-t00 image time count,True
+comet:3iatlas-t00 target row indexing,True
+comet:3iatlas-t00 only QC frames,True
+comet:3iatlas-t01 sorted times,True
+comet:3iatlas-t01 image time count,True
+comet:3iatlas-t01 target row indexing,True
+comet:3iatlas-t01 only QC frames,True
+comet:3iatlas-t02 sorted times,True
+comet:3iatlas-t02 image time count,True
+comet:3iatlas-t02 target row indexing,True
+comet:3iatlas-t02 only QC frames,True
+comet:3iatlas-t03 sorted times,True
+comet:3iatlas-t03 image time count,True
+comet:3iatlas-t03 target row indexing,True
+comet:3iatlas-t03 only QC frames,True
+comet:3iatlas-t04 sorted times,True
+comet:3iatlas-t04 image time count,True
+comet:3iatlas-t04 target row indexing,True
+comet:3iatlas-t04 only QC frames,True
+comet:3iatlas-t05 sorted times,True
+comet:3iatlas-t05 image time count,True
+comet:3iatlas-t05 target row indexing,True
+comet:3iatlas-t05 only QC frames,True
+comet:3iatlas-t06 sorted times,True
+comet:3iatlas-t06 image time count,True
+comet:3iatlas-t06 target row indexing,True
+comet:3iatlas-t06 only QC frames,True
+comet:3iatlas-t07 sorted times,True
+comet:3iatlas-t07 image time count,True
+comet:3iatlas-t07 target row indexing,True
+comet:3iatlas-t07 only QC frames,True
+comet:3iatlas-t08 sorted times,True
+comet:3iatlas-t08 image time count,True
+comet:3iatlas-t08 target row indexing,True
+comet:3iatlas-t08 only QC frames,True
+comet:3iatlas-t09 sorted times,True
+comet:3iatlas-t09 image time count,True
+comet:3iatlas-t09 target row indexing,True
+comet:3iatlas-t09 only QC frames,True
+comet:3iatlas-t10 sorted times,True
+comet:3iatlas-t10 image time count,True
+comet:3iatlas-t10 target row indexing,True
+comet:3iatlas-t10 only QC frames,True
+comet:3iatlas-t12 sorted times,True
+comet:3iatlas-t12 image time count,True
+comet:3iatlas-t12 target row indexing,True
+comet:3iatlas-t12 only QC frames,True
+comet:3iatlas-t13 sorted times,True
+comet:3iatlas-t13 image time count,True
+comet:3iatlas-t13 target row indexing,True
+comet:3iatlas-t13 only QC frames,True
+neossat:neowise-c00 sorted times,True
+neossat:neowise-c00 image time count,True
+neossat:neowise-c00 target row indexing,True
+neossat:neowise-c00 only QC frames,True
+neossat:neowise-c01 sorted times,True
+neossat:neowise-c01 image time count,True
+neossat:neowise-c01 target row indexing,True
+neossat:neowise-c01 only QC frames,True
+neossat:neowise-c02 sorted times,True
+neossat:neowise-c02 image time count,True
+neossat:neowise-c02 target row indexing,True
+neossat:neowise-c02 only QC frames,True
+neossat:neowise-c03 sorted times,True
+neossat:neowise-c03 image time count,True
+neossat:neowise-c03 target row indexing,True
+neossat:neowise-c03 only QC frames,True
+neossat:neowise-c04 sorted times,True
+neossat:neowise-c04 image time count,True
+neossat:neowise-c04 target row indexing,True
+neossat:neowise-c04 only QC frames,True
+neossat:neowise-c05 sorted times,True
+neossat:neowise-c05 image time count,True
+neossat:neowise-c05 target row indexing,True
+neossat:neowise-c05 only QC frames,True
+neossat:neowise-c07 sorted times,True
+neossat:neowise-c07 image time count,True
+neossat:neowise-c07 target row indexing,True
+neossat:neowise-c07 only QC frames,True
+neossat:neowise-c08 sorted times,True
+neossat:neowise-c08 image time count,True
+neossat:neowise-c08 target row indexing,True
+neossat:neowise-c08 only QC frames,True
+neossat:neowise-c09 sorted times,True
+neossat:neowise-c09 image time count,True
+neossat:neowise-c09 target row indexing,True
+neossat:neowise-c09 only QC frames,True
+neossat:neowise-c10 sorted times,True
+neossat:neowise-c10 image time count,True
+neossat:neowise-c10 target row indexing,True
+neossat:neowise-c10 only QC frames,True
+neossat:neowise-c11 sorted times,True
+neossat:neowise-c11 image time count,True
+neossat:neowise-c11 target row indexing,True
+neossat:neowise-c11 only QC frames,True
+neossat:neowise-c12 sorted times,True
+neossat:neowise-c12 image time count,True
+neossat:neowise-c12 target row indexing,True
+neossat:neowise-c12 only QC frames,True
+neossat:neowise-c13 sorted times,True
+neossat:neowise-c13 image time count,True
+neossat:neowise-c13 target row indexing,True
+neossat:neowise-c13 only QC frames,True
+neossat:neowise-c14 sorted times,True
+neossat:neowise-c14 image time count,True
+neossat:neowise-c14 target row indexing,True
+neossat:neowise-c14 only QC frames,True
+neossat:neowise-c15 sorted times,True
+neossat:neowise-c15 image time count,True
+neossat:neowise-c15 target row indexing,True
+neossat:neowise-c15 only QC frames,True
+neossat:neowise-c16 sorted times,True
+neossat:neowise-c16 image time count,True
+neossat:neowise-c16 target row indexing,True
+neossat:neowise-c16 only QC frames,True
+neossat:neowise-c17 sorted times,True
+neossat:neowise-c17 image time count,True
+neossat:neowise-c17 target row indexing,True
+neossat:neowise-c17 only QC frames,True
+neossat:neowise-c18 sorted times,True
+neossat:neowise-c18 image time count,True
+neossat:neowise-c18 target row indexing,True
+neossat:neowise-c18 only QC frames,True
+neossat:neowise-c19 sorted times,True
+neossat:neowise-c19 image time count,True
+neossat:neowise-c19 target row indexing,True
+neossat:neowise-c19 only QC frames,True
+neossat:phaethon-c00 sorted times,True
+neossat:phaethon-c00 image time count,True
+neossat:phaethon-c00 target row indexing,True
+neossat:phaethon-c00 only QC frames,True
+neossat:phaethon-c01 sorted times,True
+neossat:phaethon-c01 image time count,True
+neossat:phaethon-c01 target row indexing,True
+neossat:phaethon-c01 only QC frames,True
+neossat:phaethon-c02 sorted times,True
+neossat:phaethon-c02 image time count,True
+neossat:phaethon-c02 target row indexing,True
+neossat:phaethon-c02 only QC frames,True
+neossat:phaethon-c04 sorted times,True
+neossat:phaethon-c04 image time count,True
+neossat:phaethon-c04 target row indexing,True
+neossat:phaethon-c04 only QC frames,True
+neossat:phaethon-c05 sorted times,True
+neossat:phaethon-c05 image time count,True
+neossat:phaethon-c05 target row indexing,True
+neossat:phaethon-c05 only QC frames,True
+neossat:phaethon-c06 sorted times,True
+neossat:phaethon-c06 image time count,True
+neossat:phaethon-c06 target row indexing,True
+neossat:phaethon-c06 only QC frames,True
+neossat:phaethon-c07 sorted times,True
+neossat:phaethon-c07 image time count,True
+neossat:phaethon-c07 target row indexing,True
+neossat:phaethon-c07 only QC frames,True
+neossat:phaethon-c08 sorted times,True
+neossat:phaethon-c08 image time count,True
+neossat:phaethon-c08 target row indexing,True
+neossat:phaethon-c08 only QC frames,True
+neossat:phaethon-c09 sorted times,True
+neossat:phaethon-c09 image time count,True
+neossat:phaethon-c09 target row indexing,True
+neossat:phaethon-c09 only QC frames,True
+spherex:barnards-star:r0 sorted times,True
+spherex:barnards-star:r0 truth indexed,True
+spherex:barnards-star:r0 eligibility unchanged,True
+spherex:barnards-star:r1 sorted times,True
+spherex:barnards-star:r1 truth indexed,True
+spherex:barnards-star:r1 eligibility unchanged,True
+spherex:barnards-star:r2 sorted times,True
+spherex:barnards-star:r2 truth indexed,True
+spherex:barnards-star:r2 eligibility unchanged,True
+spherex:barnards-star:r3 sorted times,True
+spherex:barnards-star:r3 truth indexed,True
+spherex:barnards-star:r3 eligibility unchanged,True
+spherex:barnards-star:r4 sorted times,True
+spherex:barnards-star:r4 truth indexed,True
+spherex:barnards-star:r4 eligibility unchanged,True
+spherex:barnards-star:r5 sorted times,True
+spherex:barnards-star:r5 truth indexed,True
+spherex:barnards-star:r5 eligibility unchanged,True
+spherex:epsilon-indi-b:r0 sorted times,True
+spherex:epsilon-indi-b:r0 truth indexed,True
+spherex:epsilon-indi-b:r0 eligibility unchanged,True
+spherex:epsilon-indi-b:r1 sorted times,True
+spherex:epsilon-indi-b:r1 truth indexed,True
+spherex:epsilon-indi-b:r1 eligibility unchanged,True
+spherex:epsilon-indi-b:r2 sorted times,True
+spherex:epsilon-indi-b:r2 truth indexed,True
+spherex:epsilon-indi-b:r2 eligibility unchanged,True
+spherex:epsilon-indi-b:r3 sorted times,True
+spherex:epsilon-indi-b:r3 truth indexed,True
+spherex:epsilon-indi-b:r3 eligibility unchanged,True
+spherex:epsilon-indi-b:r4 sorted times,True
+spherex:epsilon-indi-b:r4 truth indexed,True
+spherex:epsilon-indi-b:r4 eligibility unchanged,True
+spherex:epsilon-indi-b:r5 sorted times,True
+spherex:epsilon-indi-b:r5 truth indexed,True
+spherex:epsilon-indi-b:r5 eligibility unchanged,True
+spherex:gaia-1057879895596316416:r0 sorted times,True
+spherex:gaia-1057879895596316416:r0 truth indexed,True
+spherex:gaia-1057879895596316416:r0 eligibility unchanged,True
+spherex:gaia-1057879895596316416:r1 sorted times,True
+spherex:gaia-1057879895596316416:r1 truth indexed,True
+spherex:gaia-1057879895596316416:r1 eligibility unchanged,True
+spherex:gaia-1057879895596316416:r2 sorted times,True
+spherex:gaia-1057879895596316416:r2 truth indexed,True
+spherex:gaia-1057879895596316416:r2 eligibility unchanged,True
+spherex:gaia-1057879895596316416:r3 sorted times,True
+spherex:gaia-1057879895596316416:r3 truth indexed,True
+spherex:gaia-1057879895596316416:r3 eligibility unchanged,True
+spherex:gaia-1057879895596316416:r4 sorted times,True
+spherex:gaia-1057879895596316416:r4 truth indexed,True
+spherex:gaia-1057879895596316416:r4 eligibility unchanged,True
+spherex:gaia-1057879895596316416:r5 sorted times,True
+spherex:gaia-1057879895596316416:r5 truth indexed,True
+spherex:gaia-1057879895596316416:r5 eligibility unchanged,True
+spherex:gaia-1711005951573009792:r0 sorted times,True
+spherex:gaia-1711005951573009792:r0 truth indexed,True
+spherex:gaia-1711005951573009792:r0 eligibility unchanged,True
+spherex:gaia-1711005951573009792:r1 sorted times,True
+spherex:gaia-1711005951573009792:r1 truth indexed,True
+spherex:gaia-1711005951573009792:r1 eligibility unchanged,True
+spherex:gaia-1711005951573009792:r2 sorted times,True
+spherex:gaia-1711005951573009792:r2 truth indexed,True
+spherex:gaia-1711005951573009792:r2 eligibility unchanged,True
+spherex:gaia-1711005951573009792:r3 sorted times,True
+spherex:gaia-1711005951573009792:r3 truth indexed,True
+spherex:gaia-1711005951573009792:r3 eligibility unchanged,True
+spherex:gaia-1711005951573009792:r4 sorted times,True
+spherex:gaia-1711005951573009792:r4 truth indexed,True
+spherex:gaia-1711005951573009792:r4 eligibility unchanged,True
+spherex:gaia-1711005951573009792:r5 sorted times,True
+spherex:gaia-1711005951573009792:r5 truth indexed,True
+spherex:gaia-1711005951573009792:r5 eligibility unchanged,True
+spherex:gaia-1872046609345556480:r0 sorted times,True
+spherex:gaia-1872046609345556480:r0 truth indexed,True
+spherex:gaia-1872046609345556480:r0 eligibility unchanged,True
+spherex:gaia-1872046609345556480:r1 sorted times,True
+spherex:gaia-1872046609345556480:r1 truth indexed,True
+spherex:gaia-1872046609345556480:r1 eligibility unchanged,True
+spherex:gaia-1872046609345556480:r2 sorted times,True
+spherex:gaia-1872046609345556480:r2 truth indexed,True
+spherex:gaia-1872046609345556480:r2 eligibility unchanged,True
+spherex:gaia-1872046609345556480:r3 sorted times,True
+spherex:gaia-1872046609345556480:r3 truth indexed,True
+spherex:gaia-1872046609345556480:r3 eligibility unchanged,True
+spherex:gaia-1872046609345556480:r4 sorted times,True
+spherex:gaia-1872046609345556480:r4 truth indexed,True
+spherex:gaia-1872046609345556480:r4 eligibility unchanged,True
+spherex:gaia-1872046609345556480:r5 sorted times,True
+spherex:gaia-1872046609345556480:r5 truth indexed,True
+spherex:gaia-1872046609345556480:r5 eligibility unchanged,True
+spherex:gaia-2306965202564744064:r0 sorted times,True
+spherex:gaia-2306965202564744064:r0 truth indexed,True
+spherex:gaia-2306965202564744064:r0 eligibility unchanged,True
+spherex:gaia-2306965202564744064:r1 sorted times,True
+spherex:gaia-2306965202564744064:r1 truth indexed,True
+spherex:gaia-2306965202564744064:r1 eligibility unchanged,True
+spherex:gaia-2306965202564744064:r2 sorted times,True
+spherex:gaia-2306965202564744064:r2 truth indexed,True
+spherex:gaia-2306965202564744064:r2 eligibility unchanged,True
+spherex:gaia-2306965202564744064:r3 sorted times,True
+spherex:gaia-2306965202564744064:r3 truth indexed,True
+spherex:gaia-2306965202564744064:r3 eligibility unchanged,True
+spherex:gaia-2306965202564744064:r4 sorted times,True
+spherex:gaia-2306965202564744064:r4 truth indexed,True
+spherex:gaia-2306965202564744064:r4 eligibility unchanged,True
+spherex:gaia-2306965202564744064:r5 sorted times,True
+spherex:gaia-2306965202564744064:r5 truth indexed,True
+spherex:gaia-2306965202564744064:r5 eligibility unchanged,True
+spherex:gaia-3098328182579892096:r0 sorted times,True
+spherex:gaia-3098328182579892096:r0 truth indexed,True
+spherex:gaia-3098328182579892096:r0 eligibility unchanged,True
+spherex:gaia-3098328182579892096:r1 sorted times,True
+spherex:gaia-3098328182579892096:r1 truth indexed,True
+spherex:gaia-3098328182579892096:r1 eligibility unchanged,True
+spherex:gaia-3098328182579892096:r2 sorted times,True
+spherex:gaia-3098328182579892096:r2 truth indexed,True
+spherex:gaia-3098328182579892096:r2 eligibility unchanged,True
+spherex:gaia-3098328182579892096:r3 sorted times,True
+spherex:gaia-3098328182579892096:r3 truth indexed,True
+spherex:gaia-3098328182579892096:r3 eligibility unchanged,True
+spherex:gaia-3098328182579892096:r4 sorted times,True
+spherex:gaia-3098328182579892096:r4 truth indexed,True
+spherex:gaia-3098328182579892096:r4 eligibility unchanged,True
+spherex:gaia-3098328182579892096:r5 sorted times,True
+spherex:gaia-3098328182579892096:r5 truth indexed,True
+spherex:gaia-3098328182579892096:r5 eligibility unchanged,True
+spherex:gaia-3139847906307949696:r0 sorted times,True
+spherex:gaia-3139847906307949696:r0 truth indexed,True
+spherex:gaia-3139847906307949696:r0 eligibility unchanged,True
+spherex:gaia-3139847906307949696:r1 sorted times,True
+spherex:gaia-3139847906307949696:r1 truth indexed,True
+spherex:gaia-3139847906307949696:r1 eligibility unchanged,True
+spherex:gaia-3139847906307949696:r2 sorted times,True
+spherex:gaia-3139847906307949696:r2 truth indexed,True
+spherex:gaia-3139847906307949696:r2 eligibility unchanged,True
+spherex:gaia-3139847906307949696:r3 sorted times,True
+spherex:gaia-3139847906307949696:r3 truth indexed,True
+spherex:gaia-3139847906307949696:r3 eligibility unchanged,True
+spherex:gaia-3139847906307949696:r4 sorted times,True
+spherex:gaia-3139847906307949696:r4 truth indexed,True
+spherex:gaia-3139847906307949696:r4 eligibility unchanged,True
+spherex:gaia-3139847906307949696:r5 sorted times,True
+spherex:gaia-3139847906307949696:r5 truth indexed,True
+spherex:gaia-3139847906307949696:r5 eligibility unchanged,True
+spherex:gaia-3195919528989223040:r0 sorted times,True
+spherex:gaia-3195919528989223040:r0 truth indexed,True
+spherex:gaia-3195919528989223040:r0 eligibility unchanged,True
+spherex:gaia-3195919528989223040:r1 sorted times,True
+spherex:gaia-3195919528989223040:r1 truth indexed,True
+spherex:gaia-3195919528989223040:r1 eligibility unchanged,True
+spherex:gaia-3195919528989223040:r2 sorted times,True
+spherex:gaia-3195919528989223040:r2 truth indexed,True
+spherex:gaia-3195919528989223040:r2 eligibility unchanged,True
+spherex:gaia-3195919528989223040:r3 sorted times,True
+spherex:gaia-3195919528989223040:r3 truth indexed,True
+spherex:gaia-3195919528989223040:r3 eligibility unchanged,True
+spherex:gaia-3195919528989223040:r4 sorted times,True
+spherex:gaia-3195919528989223040:r4 truth indexed,True
+spherex:gaia-3195919528989223040:r4 eligibility unchanged,True
+spherex:gaia-3195919528989223040:r5 sorted times,True
+spherex:gaia-3195919528989223040:r5 truth indexed,True
+spherex:gaia-3195919528989223040:r5 eligibility unchanged,True
+spherex:gaia-3713594960831605760:r0 sorted times,True
+spherex:gaia-3713594960831605760:r0 truth indexed,True
+spherex:gaia-3713594960831605760:r0 eligibility unchanged,True
+spherex:gaia-3713594960831605760:r1 sorted times,True
+spherex:gaia-3713594960831605760:r1 truth indexed,True
+spherex:gaia-3713594960831605760:r1 eligibility unchanged,True
+spherex:gaia-3713594960831605760:r2 sorted times,True
+spherex:gaia-3713594960831605760:r2 truth indexed,True
+spherex:gaia-3713594960831605760:r2 eligibility unchanged,True
+spherex:gaia-3713594960831605760:r3 sorted times,True
+spherex:gaia-3713594960831605760:r3 truth indexed,True
+spherex:gaia-3713594960831605760:r3 eligibility unchanged,True
+spherex:gaia-3713594960831605760:r4 sorted times,True
+spherex:gaia-3713594960831605760:r4 truth indexed,True
+spherex:gaia-3713594960831605760:r4 eligibility unchanged,True
+spherex:gaia-3713594960831605760:r5 sorted times,True
+spherex:gaia-3713594960831605760:r5 truth indexed,True
+spherex:gaia-3713594960831605760:r5 eligibility unchanged,True
+spherex:gaia-3864972938605115520:r0 sorted times,True
+spherex:gaia-3864972938605115520:r0 truth indexed,True
+spherex:gaia-3864972938605115520:r0 eligibility unchanged,True
+spherex:gaia-3864972938605115520:r1 sorted times,True
+spherex:gaia-3864972938605115520:r1 truth indexed,True
+spherex:gaia-3864972938605115520:r1 eligibility unchanged,True
+spherex:gaia-3864972938605115520:r2 sorted times,True
+spherex:gaia-3864972938605115520:r2 truth indexed,True
+spherex:gaia-3864972938605115520:r2 eligibility unchanged,True
+spherex:gaia-3864972938605115520:r3 sorted times,True
+spherex:gaia-3864972938605115520:r3 truth indexed,True
+spherex:gaia-3864972938605115520:r3 eligibility unchanged,True
+spherex:gaia-3864972938605115520:r4 sorted times,True
+spherex:gaia-3864972938605115520:r4 truth indexed,True
+spherex:gaia-3864972938605115520:r4 eligibility unchanged,True
+spherex:gaia-3864972938605115520:r5 sorted times,True
+spherex:gaia-3864972938605115520:r5 truth indexed,True
+spherex:gaia-3864972938605115520:r5 eligibility unchanged,True
+spherex:gaia-4034171629042489088:r0 sorted times,True
+spherex:gaia-4034171629042489088:r0 truth indexed,True
+spherex:gaia-4034171629042489088:r0 eligibility unchanged,True
+spherex:gaia-4034171629042489088:r1 sorted times,True
+spherex:gaia-4034171629042489088:r1 truth indexed,True
+spherex:gaia-4034171629042489088:r1 eligibility unchanged,True
+spherex:gaia-4034171629042489088:r2 sorted times,True
+spherex:gaia-4034171629042489088:r2 truth indexed,True
+spherex:gaia-4034171629042489088:r2 eligibility unchanged,True
+spherex:gaia-4034171629042489088:r3 sorted times,True
+spherex:gaia-4034171629042489088:r3 truth indexed,True
+spherex:gaia-4034171629042489088:r3 eligibility unchanged,True
+spherex:gaia-4034171629042489088:r4 sorted times,True
+spherex:gaia-4034171629042489088:r4 truth indexed,True
+spherex:gaia-4034171629042489088:r4 eligibility unchanged,True
+spherex:gaia-4034171629042489088:r5 sorted times,True
+spherex:gaia-4034171629042489088:r5 truth indexed,True
+spherex:gaia-4034171629042489088:r5 eligibility unchanged,True
+spherex:gaia-411413822074322432:r0 sorted times,True
+spherex:gaia-411413822074322432:r0 truth indexed,True
+spherex:gaia-411413822074322432:r0 eligibility unchanged,True
+spherex:gaia-411413822074322432:r1 sorted times,True
+spherex:gaia-411413822074322432:r1 truth indexed,True
+spherex:gaia-411413822074322432:r1 eligibility unchanged,True
+spherex:gaia-411413822074322432:r2 sorted times,True
+spherex:gaia-411413822074322432:r2 truth indexed,True
+spherex:gaia-411413822074322432:r2 eligibility unchanged,True
+spherex:gaia-411413822074322432:r3 sorted times,True
+spherex:gaia-411413822074322432:r3 truth indexed,True
+spherex:gaia-411413822074322432:r3 eligibility unchanged,True
+spherex:gaia-411413822074322432:r4 sorted times,True
+spherex:gaia-411413822074322432:r4 truth indexed,True
+spherex:gaia-411413822074322432:r4 eligibility unchanged,True
+spherex:gaia-411413822074322432:r5 sorted times,True
+spherex:gaia-411413822074322432:r5 truth indexed,True
+spherex:gaia-411413822074322432:r5 eligibility unchanged,True
+spherex:gaia-4810594479418041856:r0 sorted times,True
+spherex:gaia-4810594479418041856:r0 truth indexed,True
+spherex:gaia-4810594479418041856:r0 eligibility unchanged,True
+spherex:gaia-4810594479418041856:r1 sorted times,True
+spherex:gaia-4810594479418041856:r1 truth indexed,True
+spherex:gaia-4810594479418041856:r1 eligibility unchanged,True
+spherex:gaia-4810594479418041856:r2 sorted times,True
+spherex:gaia-4810594479418041856:r2 truth indexed,True
+spherex:gaia-4810594479418041856:r2 eligibility unchanged,True
+spherex:gaia-4810594479418041856:r3 sorted times,True
+spherex:gaia-4810594479418041856:r3 truth indexed,True
+spherex:gaia-4810594479418041856:r3 eligibility unchanged,True
+spherex:gaia-4810594479418041856:r4 sorted times,True
+spherex:gaia-4810594479418041856:r4 truth indexed,True
+spherex:gaia-4810594479418041856:r4 eligibility unchanged,True
+spherex:gaia-4810594479418041856:r5 sorted times,True
+spherex:gaia-4810594479418041856:r5 truth indexed,True
+spherex:gaia-4810594479418041856:r5 eligibility unchanged,True
+spherex:gaia-4847957293278177024:r0 sorted times,True
+spherex:gaia-4847957293278177024:r0 truth indexed,True
+spherex:gaia-4847957293278177024:r0 eligibility unchanged,True
+spherex:gaia-4847957293278177024:r1 sorted times,True
+spherex:gaia-4847957293278177024:r1 truth indexed,True
+spherex:gaia-4847957293278177024:r1 eligibility unchanged,True
+spherex:gaia-4847957293278177024:r2 sorted times,True
+spherex:gaia-4847957293278177024:r2 truth indexed,True
+spherex:gaia-4847957293278177024:r2 eligibility unchanged,True
+spherex:gaia-4847957293278177024:r3 sorted times,True
+spherex:gaia-4847957293278177024:r3 truth indexed,True
+spherex:gaia-4847957293278177024:r3 eligibility unchanged,True
+spherex:gaia-4847957293278177024:r4 sorted times,True
+spherex:gaia-4847957293278177024:r4 truth indexed,True
+spherex:gaia-4847957293278177024:r4 eligibility unchanged,True
+spherex:gaia-4847957293278177024:r5 sorted times,True
+spherex:gaia-4847957293278177024:r5 truth indexed,True
+spherex:gaia-4847957293278177024:r5 eligibility unchanged,True
+spherex:gaia-5115463180914712448:r0 sorted times,True
+spherex:gaia-5115463180914712448:r0 truth indexed,True
+spherex:gaia-5115463180914712448:r0 eligibility unchanged,True
+spherex:gaia-5115463180914712448:r1 sorted times,True
+spherex:gaia-5115463180914712448:r1 truth indexed,True
+spherex:gaia-5115463180914712448:r1 eligibility unchanged,True
+spherex:gaia-5115463180914712448:r2 sorted times,True
+spherex:gaia-5115463180914712448:r2 truth indexed,True
+spherex:gaia-5115463180914712448:r2 eligibility unchanged,True
+spherex:gaia-5115463180914712448:r3 sorted times,True
+spherex:gaia-5115463180914712448:r3 truth indexed,True
+spherex:gaia-5115463180914712448:r3 eligibility unchanged,True
+spherex:gaia-5115463180914712448:r4 sorted times,True
+spherex:gaia-5115463180914712448:r4 truth indexed,True
+spherex:gaia-5115463180914712448:r4 eligibility unchanged,True
+spherex:gaia-5115463180914712448:r5 sorted times,True
+spherex:gaia-5115463180914712448:r5 truth indexed,True
+spherex:gaia-5115463180914712448:r5 eligibility unchanged,True
+spherex:gaia-5140693571158739840:r0 sorted times,True
+spherex:gaia-5140693571158739840:r0 truth indexed,True
+spherex:gaia-5140693571158739840:r0 eligibility unchanged,True
+spherex:gaia-5140693571158739840:r1 sorted times,True
+spherex:gaia-5140693571158739840:r1 truth indexed,True
+spherex:gaia-5140693571158739840:r1 eligibility unchanged,True
+spherex:gaia-5140693571158739840:r2 sorted times,True
+spherex:gaia-5140693571158739840:r2 truth indexed,True
+spherex:gaia-5140693571158739840:r2 eligibility unchanged,True
+spherex:gaia-5140693571158739840:r3 sorted times,True
+spherex:gaia-5140693571158739840:r3 truth indexed,True
+spherex:gaia-5140693571158739840:r3 eligibility unchanged,True
+spherex:gaia-5140693571158739840:r4 sorted times,True
+spherex:gaia-5140693571158739840:r4 truth indexed,True
+spherex:gaia-5140693571158739840:r4 eligibility unchanged,True
+spherex:gaia-5140693571158739840:r5 sorted times,True
+spherex:gaia-5140693571158739840:r5 truth indexed,True
+spherex:gaia-5140693571158739840:r5 eligibility unchanged,True
+spherex:gaia-6281432246412503424:r0 sorted times,True
+spherex:gaia-6281432246412503424:r0 truth indexed,True
+spherex:gaia-6281432246412503424:r0 eligibility unchanged,True
+spherex:gaia-6281432246412503424:r1 sorted times,True
+spherex:gaia-6281432246412503424:r1 truth indexed,True
+spherex:gaia-6281432246412503424:r1 eligibility unchanged,True
+spherex:gaia-6281432246412503424:r2 sorted times,True
+spherex:gaia-6281432246412503424:r2 truth indexed,True
+spherex:gaia-6281432246412503424:r2 eligibility unchanged,True
+spherex:gaia-6281432246412503424:r3 sorted times,True
+spherex:gaia-6281432246412503424:r3 truth indexed,True
+spherex:gaia-6281432246412503424:r3 eligibility unchanged,True
+spherex:gaia-6281432246412503424:r4 sorted times,True
+spherex:gaia-6281432246412503424:r4 truth indexed,True
+spherex:gaia-6281432246412503424:r4 eligibility unchanged,True
+spherex:gaia-6281432246412503424:r5 sorted times,True
+spherex:gaia-6281432246412503424:r5 truth indexed,True
+spherex:gaia-6281432246412503424:r5 eligibility unchanged,True
+spherex:gaia-6307374845312759552:r0 sorted times,True
+spherex:gaia-6307374845312759552:r0 truth indexed,True
+spherex:gaia-6307374845312759552:r0 eligibility unchanged,True
+spherex:gaia-6307374845312759552:r1 sorted times,True
+spherex:gaia-6307374845312759552:r1 truth indexed,True
+spherex:gaia-6307374845312759552:r1 eligibility unchanged,True
+spherex:gaia-6307374845312759552:r2 sorted times,True
+spherex:gaia-6307374845312759552:r2 truth indexed,True
+spherex:gaia-6307374845312759552:r2 eligibility unchanged,True
+spherex:gaia-6307374845312759552:r3 sorted times,True
+spherex:gaia-6307374845312759552:r3 truth indexed,True
+spherex:gaia-6307374845312759552:r3 eligibility unchanged,True
+spherex:gaia-6307374845312759552:r4 sorted times,True
+spherex:gaia-6307374845312759552:r4 truth indexed,True
+spherex:gaia-6307374845312759552:r4 eligibility unchanged,True
+spherex:gaia-6307374845312759552:r5 sorted times,True
+spherex:gaia-6307374845312759552:r5 truth indexed,True
+spherex:gaia-6307374845312759552:r5 eligibility unchanged,True
+spherex:gaia-6553614253923452800:r0 sorted times,True
+spherex:gaia-6553614253923452800:r0 truth indexed,True
+spherex:gaia-6553614253923452800:r0 eligibility unchanged,True
+spherex:gaia-6553614253923452800:r1 sorted times,True
+spherex:gaia-6553614253923452800:r1 truth indexed,True
+spherex:gaia-6553614253923452800:r1 eligibility unchanged,True
+spherex:gaia-6553614253923452800:r2 sorted times,True
+spherex:gaia-6553614253923452800:r2 truth indexed,True
+spherex:gaia-6553614253923452800:r2 eligibility unchanged,True
+spherex:gaia-6553614253923452800:r3 sorted times,True
+spherex:gaia-6553614253923452800:r3 truth indexed,True
+spherex:gaia-6553614253923452800:r3 eligibility unchanged,True
+spherex:gaia-6553614253923452800:r4 sorted times,True
+spherex:gaia-6553614253923452800:r4 truth indexed,True
+spherex:gaia-6553614253923452800:r4 eligibility unchanged,True
+spherex:gaia-6553614253923452800:r5 sorted times,True
+spherex:gaia-6553614253923452800:r5 truth indexed,True
+spherex:gaia-6553614253923452800:r5 eligibility unchanged,True
+spherex:gaia-6583272171336048640:r0 sorted times,True
+spherex:gaia-6583272171336048640:r0 truth indexed,True
+spherex:gaia-6583272171336048640:r0 eligibility unchanged,True
+spherex:gaia-6583272171336048640:r1 sorted times,True
+spherex:gaia-6583272171336048640:r1 truth indexed,True
+spherex:gaia-6583272171336048640:r1 eligibility unchanged,True
+spherex:gaia-6583272171336048640:r2 sorted times,True
+spherex:gaia-6583272171336048640:r2 truth indexed,True
+spherex:gaia-6583272171336048640:r2 eligibility unchanged,True
+spherex:gaia-6583272171336048640:r3 sorted times,True
+spherex:gaia-6583272171336048640:r3 truth indexed,True
+spherex:gaia-6583272171336048640:r3 eligibility unchanged,True
+spherex:gaia-6583272171336048640:r4 sorted times,True
+spherex:gaia-6583272171336048640:r4 truth indexed,True
+spherex:gaia-6583272171336048640:r4 eligibility unchanged,True
+spherex:gaia-6583272171336048640:r5 sorted times,True
+spherex:gaia-6583272171336048640:r5 truth indexed,True
+spherex:gaia-6583272171336048640:r5 eligibility unchanged,True
+spherex:gaia-762815470562110464:r0 sorted times,True
+spherex:gaia-762815470562110464:r0 truth indexed,True
+spherex:gaia-762815470562110464:r0 eligibility unchanged,True
+spherex:gaia-762815470562110464:r1 sorted times,True
+spherex:gaia-762815470562110464:r1 truth indexed,True
+spherex:gaia-762815470562110464:r1 eligibility unchanged,True
+spherex:gaia-762815470562110464:r2 sorted times,True
+spherex:gaia-762815470562110464:r2 truth indexed,True
+spherex:gaia-762815470562110464:r2 eligibility unchanged,True
+spherex:gaia-762815470562110464:r3 sorted times,True
+spherex:gaia-762815470562110464:r3 truth indexed,True
+spherex:gaia-762815470562110464:r3 eligibility unchanged,True
+spherex:gaia-762815470562110464:r4 sorted times,True
+spherex:gaia-762815470562110464:r4 truth indexed,True
+spherex:gaia-762815470562110464:r4 eligibility unchanged,True
+spherex:gaia-762815470562110464:r5 sorted times,True
+spherex:gaia-762815470562110464:r5 truth indexed,True
+spherex:gaia-762815470562110464:r5 eligibility unchanged,True
+spherex:gaia-778947814402602752:r0 sorted times,True
+spherex:gaia-778947814402602752:r0 truth indexed,True
+spherex:gaia-778947814402602752:r0 eligibility unchanged,True
+spherex:gaia-778947814402602752:r1 sorted times,True
+spherex:gaia-778947814402602752:r1 truth indexed,True
+spherex:gaia-778947814402602752:r1 eligibility unchanged,True
+spherex:gaia-778947814402602752:r2 sorted times,True
+spherex:gaia-778947814402602752:r2 truth indexed,True
+spherex:gaia-778947814402602752:r2 eligibility unchanged,True
+spherex:gaia-778947814402602752:r3 sorted times,True
+spherex:gaia-778947814402602752:r3 truth indexed,True
+spherex:gaia-778947814402602752:r3 eligibility unchanged,True
+spherex:gaia-778947814402602752:r4 sorted times,True
+spherex:gaia-778947814402602752:r4 truth indexed,True
+spherex:gaia-778947814402602752:r4 eligibility unchanged,True
+spherex:gaia-778947814402602752:r5 sorted times,True
+spherex:gaia-778947814402602752:r5 truth indexed,True
+spherex:gaia-778947814402602752:r5 eligibility unchanged,True
+spherex:luhman16:r0 sorted times,True
+spherex:luhman16:r0 truth indexed,True
+spherex:luhman16:r0 eligibility unchanged,True
+spherex:luhman16:r1 sorted times,True
+spherex:luhman16:r1 truth indexed,True
+spherex:luhman16:r1 eligibility unchanged,True
+spherex:luhman16:r2 sorted times,True
+spherex:luhman16:r2 truth indexed,True
+spherex:luhman16:r2 eligibility unchanged,True
+spherex:luhman16:r3 sorted times,True
+spherex:luhman16:r3 truth indexed,True
+spherex:luhman16:r3 eligibility unchanged,True
+spherex:luhman16:r4 sorted times,True
+spherex:luhman16:r4 truth indexed,True
+spherex:luhman16:r4 eligibility unchanged,True
+spherex:luhman16:r5 sorted times,True
+spherex:luhman16:r5 truth indexed,True
+spherex:luhman16:r5 eligibility unchanged,True
+spherex:m101:r0 sorted times,True
+spherex:m101:r0 truth indexed,True
+spherex:m101:r0 eligibility unchanged,True
+spherex:m101:r1 sorted times,True
+spherex:m101:r1 truth indexed,True
+spherex:m101:r1 eligibility unchanged,True
+spherex:m101:r2 sorted times,True
+spherex:m101:r2 truth indexed,True
+spherex:m101:r2 eligibility unchanged,True
+spherex:m101:r3 sorted times,True
+spherex:m101:r3 truth indexed,True
+spherex:m101:r3 eligibility unchanged,True
+spherex:m101:r4 sorted times,True
+spherex:m101:r4 truth indexed,True
+spherex:m101:r4 eligibility unchanged,True
+spherex:m101:r5 sorted times,True
+spherex:m101:r5 truth indexed,True
+spherex:m101:r5 eligibility unchanged,True
+spherex:m31:r0 sorted times,True
+spherex:m31:r0 truth indexed,True
+spherex:m31:r0 eligibility unchanged,True
+spherex:m31:r1 sorted times,True
+spherex:m31:r1 truth indexed,True
+spherex:m31:r1 eligibility unchanged,True
+spherex:m31:r2 sorted times,True
+spherex:m31:r2 truth indexed,True
+spherex:m31:r2 eligibility unchanged,True
+spherex:m31:r3 sorted times,True
+spherex:m31:r3 truth indexed,True
+spherex:m31:r3 eligibility unchanged,True
+spherex:m31:r4 sorted times,True
+spherex:m31:r4 truth indexed,True
+spherex:m31:r4 eligibility unchanged,True
+spherex:m31:r5 sorted times,True
+spherex:m31:r5 truth indexed,True
+spherex:m31:r5 eligibility unchanged,True
+spherex:m51:r0 sorted times,True
+spherex:m51:r0 truth indexed,True
+spherex:m51:r0 eligibility unchanged,True
+spherex:m51:r1 sorted times,True
+spherex:m51:r1 truth indexed,True
+spherex:m51:r1 eligibility unchanged,True
+spherex:m51:r2 sorted times,True
+spherex:m51:r2 truth indexed,True
+spherex:m51:r2 eligibility unchanged,True
+spherex:m51:r3 sorted times,True
+spherex:m51:r3 truth indexed,True
+spherex:m51:r3 eligibility unchanged,True
+spherex:m51:r4 sorted times,True
+spherex:m51:r4 truth indexed,True
+spherex:m51:r4 eligibility unchanged,True
+spherex:m51:r5 sorted times,True
+spherex:m51:r5 truth indexed,True
+spherex:m51:r5 eligibility unchanged,True
+spherex:proxima:r0 sorted times,True
+spherex:proxima:r0 truth indexed,True
+spherex:proxima:r0 eligibility unchanged,True
+spherex:proxima:r1 sorted times,True
+spherex:proxima:r1 truth indexed,True
+spherex:proxima:r1 eligibility unchanged,True
+spherex:proxima:r2 sorted times,True
+spherex:proxima:r2 truth indexed,True
+spherex:proxima:r2 eligibility unchanged,True
+spherex:proxima:r3 sorted times,True
+spherex:proxima:r3 truth indexed,True
+spherex:proxima:r3 eligibility unchanged,True
+spherex:proxima:r4 sorted times,True
+spherex:proxima:r4 truth indexed,True
+spherex:proxima:r4 eligibility unchanged,True
+spherex:proxima:r5 sorted times,True
+spherex:proxima:r5 truth indexed,True
+spherex:proxima:r5 eligibility unchanged,True
+spherex:r-draconis:r0 sorted times,True
+spherex:r-draconis:r0 truth indexed,True
+spherex:r-draconis:r0 eligibility unchanged,True
+spherex:r-draconis:r1 sorted times,True
+spherex:r-draconis:r1 truth indexed,True
+spherex:r-draconis:r1 eligibility unchanged,True
+spherex:r-draconis:r2 sorted times,True
+spherex:r-draconis:r2 truth indexed,True
+spherex:r-draconis:r2 eligibility unchanged,True
+spherex:r-draconis:r3 sorted times,True
+spherex:r-draconis:r3 truth indexed,True
+spherex:r-draconis:r3 eligibility unchanged,True
+spherex:r-draconis:r4 sorted times,True
+spherex:r-draconis:r4 truth indexed,True
+spherex:r-draconis:r4 eligibility unchanged,True
+spherex:r-draconis:r5 sorted times,True
+spherex:r-draconis:r5 truth indexed,True
+spherex:r-draconis:r5 eligibility unchanged,True
+spherex:ross128:r0 sorted times,True
+spherex:ross128:r0 truth indexed,True
+spherex:ross128:r0 eligibility unchanged,True
+spherex:ross128:r1 sorted times,True
+spherex:ross128:r1 truth indexed,True
+spherex:ross128:r1 eligibility unchanged,True
+spherex:ross128:r2 sorted times,True
+spherex:ross128:r2 truth indexed,True
+spherex:ross128:r2 eligibility unchanged,True
+spherex:ross128:r3 sorted times,True
+spherex:ross128:r3 truth indexed,True
+spherex:ross128:r3 eligibility unchanged,True
+spherex:ross128:r4 sorted times,True
+spherex:ross128:r4 truth indexed,True
+spherex:ross128:r4 eligibility unchanged,True
+spherex:ross128:r5 sorted times,True
+spherex:ross128:r5 truth indexed,True
+spherex:ross128:r5 eligibility unchanged,True
+spherex:rw-aurigae:r0 sorted times,True
+spherex:rw-aurigae:r0 truth indexed,True
+spherex:rw-aurigae:r0 eligibility unchanged,True
+spherex:rw-aurigae:r1 sorted times,True
+spherex:rw-aurigae:r1 truth indexed,True
+spherex:rw-aurigae:r1 eligibility unchanged,True
+spherex:rw-aurigae:r2 sorted times,True
+spherex:rw-aurigae:r2 truth indexed,True
+spherex:rw-aurigae:r2 eligibility unchanged,True
+spherex:rw-aurigae:r3 sorted times,True
+spherex:rw-aurigae:r3 truth indexed,True
+spherex:rw-aurigae:r3 eligibility unchanged,True
+spherex:rw-aurigae:r4 sorted times,True
+spherex:rw-aurigae:r4 truth indexed,True
+spherex:rw-aurigae:r4 eligibility unchanged,True
+spherex:rw-aurigae:r5 sorted times,True
+spherex:rw-aurigae:r5 truth indexed,True
+spherex:rw-aurigae:r5 eligibility unchanged,True
+spherex:teegarden:r0 sorted times,True
+spherex:teegarden:r0 truth indexed,True
+spherex:teegarden:r0 eligibility unchanged,True
+spherex:teegarden:r1 sorted times,True
+spherex:teegarden:r1 truth indexed,True
+spherex:teegarden:r1 eligibility unchanged,True
+spherex:teegarden:r2 sorted times,True
+spherex:teegarden:r2 truth indexed,True
+spherex:teegarden:r2 eligibility unchanged,True
+spherex:teegarden:r3 sorted times,True
+spherex:teegarden:r3 truth indexed,True
+spherex:teegarden:r3 eligibility unchanged,True
+spherex:teegarden:r4 sorted times,True
+spherex:teegarden:r4 truth indexed,True
+spherex:teegarden:r4 eligibility unchanged,True
+spherex:teegarden:r5 sorted times,True
+spherex:teegarden:r5 truth indexed,True
+spherex:teegarden:r5 eligibility unchanged,True
+spherex:wise0855:r0 sorted times,True
+spherex:wise0855:r0 truth indexed,True
+spherex:wise0855:r0 eligibility unchanged,True
+spherex:wise0855:r1 sorted times,True
+spherex:wise0855:r1 truth indexed,True
+spherex:wise0855:r1 eligibility unchanged,True
+spherex:wise0855:r2 sorted times,True
+spherex:wise0855:r2 truth indexed,True
+spherex:wise0855:r2 eligibility unchanged,True
+spherex:wise0855:r3 sorted times,True
+spherex:wise0855:r3 truth indexed,True
+spherex:wise0855:r3 eligibility unchanged,True
+spherex:wise0855:r4 sorted times,True
+spherex:wise0855:r4 truth indexed,True
+spherex:wise0855:r4 eligibility unchanged,True
+spherex:wise0855:r5 sorted times,True
+spherex:wise0855:r5 truth indexed,True
+spherex:wise0855:r5 eligibility unchanged,True
+wise:61cyg_a:r0 sorted times,True
+wise:61cyg_a:r0 truth indexed,True
+wise:61cyg_a:r0 eligibility unchanged,True
+wise:61cyg_a:r1 sorted times,True
+wise:61cyg_a:r1 truth indexed,True
+wise:61cyg_a:r1 eligibility unchanged,True
+wise:61cyg_a:r2 sorted times,True
+wise:61cyg_a:r2 truth indexed,True
+wise:61cyg_a:r2 eligibility unchanged,True
+wise:61cyg_a:r3 sorted times,True
+wise:61cyg_a:r3 truth indexed,True
+wise:61cyg_a:r3 eligibility unchanged,True
+wise:barnard:r0 sorted times,True
+wise:barnard:r0 truth indexed,True
+wise:barnard:r0 eligibility unchanged,True
+wise:barnard:r1 sorted times,True
+wise:barnard:r1 truth indexed,True
+wise:barnard:r1 eligibility unchanged,True
+wise:barnard:r2 sorted times,True
+wise:barnard:r2 truth indexed,True
+wise:barnard:r2 eligibility unchanged,True
+wise:barnard:r3 sorted times,True
+wise:barnard:r3 truth indexed,True
+wise:barnard:r3 eligibility unchanged,True
+wise:barnard_control:r0 sorted times,True
+wise:barnard_control:r0 truth indexed,True
+wise:barnard_control:r0 eligibility unchanged,True
+wise:barnard_control:r1 sorted times,True
+wise:barnard_control:r1 truth indexed,True
+wise:barnard_control:r1 eligibility unchanged,True
+wise:barnard_control:r2 sorted times,True
+wise:barnard_control:r2 truth indexed,True
+wise:barnard_control:r2 eligibility unchanged,True
+wise:barnard_control:r3 sorted times,True
+wise:barnard_control:r3 truth indexed,True
+wise:barnard_control:r3 eligibility unchanged,True
+wise:epsilon_indi_b:r0 sorted times,True
+wise:epsilon_indi_b:r0 truth indexed,True
+wise:epsilon_indi_b:r0 eligibility unchanged,True
+wise:epsilon_indi_b:r1 sorted times,True
+wise:epsilon_indi_b:r1 truth indexed,True
+wise:epsilon_indi_b:r1 eligibility unchanged,True
+wise:epsilon_indi_b:r2 sorted times,True
+wise:epsilon_indi_b:r2 truth indexed,True
+wise:epsilon_indi_b:r2 eligibility unchanged,True
+wise:epsilon_indi_b:r3 sorted times,True
+wise:epsilon_indi_b:r3 truth indexed,True
+wise:epsilon_indi_b:r3 eligibility unchanged,True
+wise:lalande21185:r0 sorted times,True
+wise:lalande21185:r0 truth indexed,True
+wise:lalande21185:r0 eligibility unchanged,True
+wise:lalande21185:r1 sorted times,True
+wise:lalande21185:r1 truth indexed,True
+wise:lalande21185:r1 eligibility unchanged,True
+wise:lalande21185:r2 sorted times,True
+wise:lalande21185:r2 truth indexed,True
+wise:lalande21185:r2 eligibility unchanged,True
+wise:lalande21185:r3 sorted times,True
+wise:lalande21185:r3 truth indexed,True
+wise:lalande21185:r3 eligibility unchanged,True
+wise:luhman16:r0 sorted times,True
+wise:luhman16:r0 truth indexed,True
+wise:luhman16:r0 eligibility unchanged,True
+wise:luhman16:r1 sorted times,True
+wise:luhman16:r1 truth indexed,True
+wise:luhman16:r1 eligibility unchanged,True
+wise:luhman16:r2 sorted times,True
+wise:luhman16:r2 truth indexed,True
+wise:luhman16:r2 eligibility unchanged,True
+wise:luhman16:r3 sorted times,True
+wise:luhman16:r3 truth indexed,True
+wise:luhman16:r3 eligibility unchanged,True
+wise:teegarden:r0 sorted times,True
+wise:teegarden:r0 truth indexed,True
+wise:teegarden:r0 eligibility unchanged,True
+wise:teegarden:r1 sorted times,True
+wise:teegarden:r1 truth indexed,True
+wise:teegarden:r1 eligibility unchanged,True
+wise:teegarden:r2 sorted times,True
+wise:teegarden:r2 truth indexed,True
+wise:teegarden:r2 eligibility unchanged,True
+wise:teegarden:r3 sorted times,True
+wise:teegarden:r3 truth indexed,True
+wise:teegarden:r3 eligibility unchanged,True
+wise:wise0855:r0 sorted times,True
+wise:wise0855:r0 truth indexed,True
+wise:wise0855:r0 eligibility unchanged,True
+wise:wise0855:r1 sorted times,True
+wise:wise0855:r1 truth indexed,True
+wise:wise0855:r1 eligibility unchanged,True
+wise:wise0855:r2 sorted times,True
+wise:wise0855:r2 truth indexed,True
+wise:wise0855:r2 eligibility unchanged,True
+wise:wise0855:r3 sorted times,True
+wise:wise0855:r3 truth indexed,True
+wise:wise0855:r3 eligibility unchanged,True
+wise:wise0855_control:r0 sorted times,True
+wise:wise0855_control:r0 truth indexed,True
+wise:wise0855_control:r0 eligibility unchanged,True
+wise:wise0855_control:r1 sorted times,True
+wise:wise0855_control:r1 truth indexed,True
+wise:wise0855_control:r1 eligibility unchanged,True
+wise:wise0855_control:r2 sorted times,True
+wise:wise0855_control:r2 truth indexed,True
+wise:wise0855_control:r2 eligibility unchanged,True
+wise:wise0855_control:r3 sorted times,True
+wise:wise0855_control:r3 truth indexed,True
+wise:wise0855_control:r3 eligibility unchanged,True
+wise:wolf359:r0 sorted times,True
+wise:wolf359:r0 truth indexed,True
+wise:wolf359:r0 eligibility unchanged,True
+wise:wolf359:r1 sorted times,True
+wise:wolf359:r1 truth indexed,True
+wise:wolf359:r1 eligibility unchanged,True
+wise:wolf359:r2 sorted times,True
+wise:wolf359:r2 truth indexed,True
+wise:wolf359:r2 eligibility unchanged,True
+wise:wolf359:r3 sorted times,True
+wise:wolf359:r3 truth indexed,True
+wise:wolf359:r3 eligibility unchanged,True
+wise seeded augmentation deterministic,True
+wise augmentation truth indexed,True
+wise test augmentation guard,True
+spherex seeded augmentation deterministic,True
+spherex augmentation truth indexed,True
+spherex test augmentation guard,True

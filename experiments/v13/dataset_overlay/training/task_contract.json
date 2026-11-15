@@ -1,0 +1,16 @@
+{
+  "task": "temporal point-source motion and change detection",
+  "coordinate_system": "zero-based pixel x=column,y=row",
+  "image_axes": [
+    "time",
+    "height",
+    "width"
+  ],
+  "time_unit": "days",
+  "label_completeness": "catalogue-limited",
+  "unlabelled_is_background": false,
+  "original_split_preserved": true,
+  "original_targets_preserved": true,
+  "normalization": "not applied; fit model-specific transforms on training data only",
+  "synthetic_real_source_quality": "pre-injection; not remeasured"
+}
