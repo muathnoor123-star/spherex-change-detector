@@ -4,7 +4,7 @@ Planet X v1.3.0 is available with the complete dataset, EDA and trained models. 
 
 for a real time demo you may use this link
 
-https://github.com/muathnoor123-star/spherex-change-detector
+https://calm-dune-00323041e.4.azurestaticapps.net/?ra=133.786245&dec=-7.244372&fov=0.0500
 
 ## Original v1.2 detector
 
