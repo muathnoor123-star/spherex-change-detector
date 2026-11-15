@@ -1,0 +1,187 @@
+{
+ "mission": "spherex",
+ "detector": "dataset/tools/baseline.py (median-reference difference imaging, 5 sigma)",
+ "real": {
+  "frames": 1856,
+  "detections": 19131,
+  "known_sso_visible": 0,
+  "known_sso_recovered": 0,
+  "known_mover_visible": 78,
+  "known_mover_recovered": 33,
+  "unexplained_per_frame": 3.7235991379310347,
+  "unexplained_coincident_per_frame": 0.8103448275862069
+ },
+ "injected": {
+  "realizations": 198,
+  "object_frames_scored": 65352,
+  "new_false_detections_per_frame": 0.274066091954023,
+  "completeness_by_snr": [
+   {
+    "snr_bin": "[0.0, 3.0)",
+    "completeness": 0.05731958762886598,
+    "n": 2425
+   },
+   {
+    "snr_bin": "[3.0, 5.0)",
+    "completeness": 0.14446318156267565,
+    "n": 1779
+   },
+   {
+    "snr_bin": "[5.0, 10.0)",
+    "completeness": 0.37094682230869,
+    "n": 3084
+   },
+   {
+    "snr_bin": "[10.0, 20.0)",
+    "completeness": 0.541370486209838,
+    "n": 3517
+   },
+   {
+    "snr_bin": "[20.0, 50.0)",
+    "completeness": 0.6523605150214592,
+    "n": 4660
+   },
+   {
+    "snr_bin": "[50.0, 1000000000.0)",
+    "completeness": 0.7513321492007105,
+    "n": 16890
+   }
+  ],
+  "completeness_snr_ge_10_by_class": [
+   {
+    "class": "distant_planet",
+    "completeness_snr10": 0.9576168143130103,
+    "n": 5757
+   },
+   {
+    "class": "fast_mover",
+    "completeness_snr10": 0.8944085027726433,
+    "n": 8656
+   },
+   {
+    "class": "pm_star",
+    "completeness_snr10": 0.6791546589817483,
+    "n": 1041
+   },
+   {
+    "class": "transient",
+    "completeness_snr10": 0.9503916449086162,
+    "n": 383
+   },
+   {
+    "class": "variable",
+    "completeness_snr10": 0.3583965330444204,
+    "n": 9230
+   }
+  ],
+  "static_sources_flagged_snr_ge_10": [
+   {
+    "class": "fast_mover",
+    "flagged_rate_snr10": 0.9047619047619048,
+    "n": 84
+   },
+   {
+    "class": "pm_star",
+    "flagged_rate_snr10": 0.3181009630129424,
+    "n": 16303
+   },
+   {
+    "class": "static",
+    "flagged_rate_snr10": 0.12061310782241015,
+    "n": 9460
+   }
+  ]
+ },
+ "test_fold": {
+  "stacks": [
+   "spherex:gaia-1057879895596316416",
+   "spherex:gaia-3195919528989223040",
+   "spherex:gaia-3864972938605115520",
+   "spherex:gaia-4847957293278177024",
+   "spherex:gaia-6553614253923452800",
+   "spherex:m31",
+   "spherex:r-draconis",
+   "spherex:wise0855"
+  ],
+  "completeness_by_snr": [
+   {
+    "snr_bin": "[0.0, 3.0)",
+    "completeness": 0.004819277108433735,
+    "n": 415
+   },
+   {
+    "snr_bin": "[3.0, 5.0)",
+    "completeness": 0.04501607717041801,
+    "n": 311
+   },
+   {
+    "snr_bin": "[5.0, 10.0)",
+    "completeness": 0.25932504440497334,
+    "n": 563
+   },
+   {
+    "snr_bin": "[10.0, 20.0)",
+    "completeness": 0.4076163610719323,
+    "n": 709
+   },
+   {
+    "snr_bin": "[20.0, 50.0)",
+    "completeness": 0.5132947976878612,
+    "n": 865
+   },
+   {
+    "snr_bin": "[50.0, 1000000000.0)",
+    "completeness": 0.711081081081081,
+    "n": 3700
+   }
+  ],
+  "completeness_snr_ge_10_by_class": [
+   {
+    "class": "distant_planet",
+    "completeness_snr10": 0.9451038575667656,
+    "n": 1348
+   },
+   {
+    "class": "fast_mover",
+    "completeness_snr10": 0.7832699619771863,
+    "n": 1578
+   },
+   {
+    "class": "pm_star",
+    "completeness_snr10": 0.575107296137339,
+    "n": 233
+   },
+   {
+    "class": "transient",
+    "completeness_snr10": 0.8977272727272727,
+    "n": 88
+   },
+   {
+    "class": "variable",
+    "completeness_snr10": 0.31623088307844105,
+    "n": 2027
+   }
+  ],
+  "static_sources_flagged_snr_ge_10": [
+   {
+    "class": "fast_mover",
+    "flagged_rate_snr10": 0.9333333333333333,
+    "n": 30
+   },
+   {
+    "class": "pm_star",
+    "flagged_rate_snr10": 0.22693817468105987,
+    "n": 4076
+   },
+   {
+    "class": "static",
+    "flagged_rate_snr10": 0.09230769230769231,
+    "n": 2275
+   }
+  ],
+  "new_false_detections_per_frame": 0.30536130536130535,
+  "real_known_mover_visible": 32,
+  "real_known_mover_recovered": 0,
+  "real_unexplained_per_frame": 4.03030303030303
+ }
+}

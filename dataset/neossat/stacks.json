@@ -1,0 +1,1796 @@
+{
+ "neossat:comet_12P-c00": {
+  "field": "comet_12P-c00",
+  "group": "neossat_12P",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    267.2974521700483,
+    41.02510564898918
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_12P-c01": {
+  "field": "comet_12P-c01",
+  "group": "neossat_12P",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    107.39457818673557,
+    -31.027670151309728
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_12P-c02": {
+  "field": "comet_12P-c02",
+  "group": "neossat_12P",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    107.6135289208769,
+    -31.137591172955805
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_12P-c03": {
+  "field": "comet_12P-c03",
+  "group": "neossat_12P",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    107.69094849137937,
+    -31.175811081136846
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_12P-c04": {
+  "field": "comet_12P-c04",
+  "group": "neossat_12P",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    109.71341481387768,
+    -32.15386314095781
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 13,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c00": {
+  "field": "comet_2021S3-c00",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    163.58446301092818,
+    -35.56077579897957
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 15,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c01": {
+  "field": "comet_2021S3-c01",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    163.67717096388373,
+    -35.58130222397018
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 15,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c02": {
+  "field": "comet_2021S3-c02",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    175.67385240891554,
+    -37.924708732980314
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 15,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c03": {
+  "field": "comet_2021S3-c03",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    199.0361077731027,
+    -40.017035887010714
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 18,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c04": {
+  "field": "comet_2021S3-c04",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    309.1493312860205,
+    56.3072181280564
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 5,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c05": {
+  "field": "comet_2021S3-c05",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    309.14654051300516,
+    56.352897638010305
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 5,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c06": {
+  "field": "comet_2021S3-c06",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    306.1727466749754,
+    61.313702492016915
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c07": {
+  "field": "comet_2021S3-c07",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    306.154710832997,
+    61.32494491100336
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:comet_2021S3-c08": {
+  "field": "comet_2021S3-c08",
+  "group": "neossat_2021S3",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    306.1369659160393,
+    61.335921304958255
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c00": {
+  "field": "control_TCrB-c00",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87777343042052,
+    25.91069561484975
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 12,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c01": {
+  "field": "control_TCrB-c01",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87769101042375,
+    25.910802384847067
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 12,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c02": {
+  "field": "control_TCrB-c02",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.88019710376102,
+    25.9172992076412
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 24,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c03": {
+  "field": "control_TCrB-c03",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87982613037536,
+    25.917956673813322
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 12,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c04": {
+  "field": "control_TCrB-c04",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87986396365608,
+    25.91797047026771
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 12,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c05": {
+  "field": "control_TCrB-c05",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.88344537988465,
+    25.916519534973805
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c06": {
+  "field": "control_TCrB-c06",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87645807827676,
+    25.9194332837952
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 14,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c07": {
+  "field": "control_TCrB-c07",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87659677350996,
+    25.919499958793608
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 8,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c08": {
+  "field": "control_TCrB-c08",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87635569641964,
+    25.91920892379722
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c09": {
+  "field": "control_TCrB-c09",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    236.5998417166014,
+    22.491770475266048
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c10": {
+  "field": "control_TCrB-c10",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87313663941117,
+    25.91882485306785
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 17,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c11": {
+  "field": "control_TCrB-c11",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87214683129545,
+    25.917716638222455
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c12": {
+  "field": "control_TCrB-c12",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87210036767308,
+    25.917800438232646
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 3,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c13": {
+  "field": "control_TCrB-c13",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87169135291566,
+    25.91775097178094
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c14": {
+  "field": "control_TCrB-c14",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87201385418433,
+    25.917628346779125
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c15": {
+  "field": "control_TCrB-c15",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87192863485805,
+    25.917543146781416
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c16": {
+  "field": "control_TCrB-c16",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87198933799834,
+    25.9178289717791
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 4,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c17": {
+  "field": "control_TCrB-c17",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87120107820704,
+    25.9180258367815
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c18": {
+  "field": "control_TCrB-c18",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.8716160275516,
+    25.91754398678864
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 3,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c19": {
+  "field": "control_TCrB-c19",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.8721250743801,
+    25.917717556793345
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 7,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c20": {
+  "field": "control_TCrB-c20",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87202400962946,
+    25.917771163928073
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 3,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c21": {
+  "field": "control_TCrB-c21",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87188863044526,
+    25.91773042394389
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c22": {
+  "field": "control_TCrB-c22",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87187265211668,
+    25.91767511893432
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c23": {
+  "field": "control_TCrB-c23",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87205850711067,
+    25.917580398930227
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 10,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:control_TCrB-c24": {
+  "field": "control_TCrB-c24",
+  "group": "neossat_TCrB",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    239.87182029002128,
+    25.91765724391971
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 7,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:neowise-c00": {
+  "field": "neowise-c00",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    91.28501781672308,
+    -8.641825841422472
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 1
+ },
+ "neossat:neowise-c01": {
+  "field": "neowise-c01",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    157.8327514299346,
+    44.42131557761385
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 4,
+  "n_frames_qc_pass": 3
+ },
+ "neossat:neowise-c02": {
+  "field": "neowise-c02",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    157.9231588675116,
+    44.398913384605336
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 1
+ },
+ "neossat:neowise-c03": {
+  "field": "neowise-c03",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    158.11478433733222,
+    44.33684026260145
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 3,
+  "n_frames_qc_pass": 2
+ },
+ "neossat:neowise-c04": {
+  "field": "neowise-c04",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    158.53989192422972,
+    44.207423171442734
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 4,
+  "n_frames_qc_pass": 4
+ },
+ "neossat:neowise-c05": {
+  "field": "neowise-c05",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    159.19605106609347,
+    44.00093263671412
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 4,
+  "n_frames_qc_pass": 4
+ },
+ "neossat:neowise-c06": {
+  "field": "neowise-c06",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    159.2830281028168,
+    43.978034246048544
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:neowise-c07": {
+  "field": "neowise-c07",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    159.47262490487944,
+    43.91184476041523
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "neossat:neowise-c08": {
+  "field": "neowise-c08",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    159.83252253045154,
+    43.79484904286844
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 4,
+  "n_frames_qc_pass": 4
+ },
+ "neossat:neowise-c09": {
+  "field": "neowise-c09",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    159.9146256246982,
+    43.77196333280482
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 1
+ },
+ "neossat:neowise-c10": {
+  "field": "neowise-c10",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    174.75777656669624,
+    37.190102266809525
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 6,
+  "n_frames_qc_pass": 5
+ },
+ "neossat:neowise-c11": {
+  "field": "neowise-c11",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    175.00097333620494,
+    37.05063624749739
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 6,
+  "n_frames_qc_pass": 6
+ },
+ "neossat:neowise-c12": {
+  "field": "neowise-c12",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    175.4868067015744,
+    36.768511422267665
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 6,
+  "n_frames_qc_pass": 1
+ },
+ "neossat:neowise-c13": {
+  "field": "neowise-c13",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    175.72519040986663,
+    36.6284639490837
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 6,
+  "n_frames_qc_pass": 5
+ },
+ "neossat:neowise-c14": {
+  "field": "neowise-c14",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    196.01582309948856,
+    20.19401379550262
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 24,
+  "n_frames_qc_pass": 1
+ },
+ "neossat:neowise-c15": {
+  "field": "neowise-c15",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    210.88545160103672,
+    2.9996323659649877
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 18,
+  "n_frames_qc_pass": 17
+ },
+ "neossat:neowise-c16": {
+  "field": "neowise-c16",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    213.27029736006534,
+    0.1887520109274323
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 10,
+  "n_frames_qc_pass": 10
+ },
+ "neossat:neowise-c17": {
+  "field": "neowise-c17",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    213.37518902782557,
+    0.06720991620553268
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 10,
+  "n_frames_qc_pass": 10
+ },
+ "neossat:neowise-c18": {
+  "field": "neowise-c18",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    217.45960363313148,
+    -4.462114714103534
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 5,
+  "n_frames_qc_pass": 5
+ },
+ "neossat:neowise-c19": {
+  "field": "neowise-c19",
+  "group": "neossat_neowise",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    226.48990414606854,
+    -12.500301641029909
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 23,
+  "n_frames_qc_pass": 10
+ },
+ "neossat:phaethon-c00": {
+  "field": "phaethon-c00",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    139.40863358986212,
+    19.299452163084197
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 20,
+  "n_frames_qc_pass": 17
+ },
+ "neossat:phaethon-c01": {
+  "field": "phaethon-c01",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    139.7567399950696,
+    19.15207538796849
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 3,
+  "n_frames_qc_pass": 3
+ },
+ "neossat:phaethon-c02": {
+  "field": "phaethon-c02",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    139.77818356839452,
+    19.140232133754694
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 25,
+  "n_frames_qc_pass": 15
+ },
+ "neossat:phaethon-c03": {
+  "field": "phaethon-c03",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    150.82846410029683,
+    13.905716944847027
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 0
+ },
+ "neossat:phaethon-c04": {
+  "field": "phaethon-c04",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    152.4714894109954,
+    13.056439265374026
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 24,
+  "n_frames_qc_pass": 7
+ },
+ "neossat:phaethon-c05": {
+  "field": "phaethon-c05",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    156.33273603029915,
+    10.996934300472923
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 24,
+  "n_frames_qc_pass": 23
+ },
+ "neossat:phaethon-c06": {
+  "field": "phaethon-c06",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    163.86790458313124,
+    6.769463351912739
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 24,
+  "n_frames_qc_pass": 24
+ },
+ "neossat:phaethon-c07": {
+  "field": "phaethon-c07",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    185.72838213984394,
+    -5.987088749186623
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 12,
+  "n_frames_qc_pass": 12
+ },
+ "neossat:phaethon-c08": {
+  "field": "phaethon-c08",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    185.876210253,
+    -6.066946211
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 12,
+  "n_frames_qc_pass": 12
+ },
+ "neossat:phaethon-c09": {
+  "field": "phaethon-c09",
+  "group": "neossat_phaethon",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    194.86044644353152,
+    -10.953603030327798
+   ],
+   "crpix_1based": [
+    128.5,
+    128.5
+   ],
+   "cdelt_deg": [
+    -0.0008333333333333334,
+    0.0008333333333333334
+   ],
+   "npix": 256
+  },
+  "n_frames": 24,
+  "n_frames_qc_pass": 23
+ }
+}

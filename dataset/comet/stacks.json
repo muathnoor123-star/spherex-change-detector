@@ -1,0 +1,366 @@
+{
+ "comet:3iatlas-t00": {
+  "field": "3iatlas-t00",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    252.66374396899997,
+    -17.490422423
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t01": {
+  "field": "3iatlas-t01",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    252.43078218091503,
+    -17.465868872990278
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t02": {
+  "field": "3iatlas-t02",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    248.5993820320914,
+    -17.027550825022452
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t03": {
+  "field": "3iatlas-t03",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    247.57675086404998,
+    -16.900214082006222
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t04": {
+  "field": "3iatlas-t04",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    245.94863255302883,
+    -16.687216259510816
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t05": {
+  "field": "3iatlas-t05",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    245.3429077810199,
+    -16.60458192800271
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t06": {
+  "field": "3iatlas-t06",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    244.18946998804947,
+    -16.443771512006897
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 1
+ },
+ "comet:3iatlas-t07": {
+  "field": "3iatlas-t07",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    173.80745104607047,
+    2.8213227429807155
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t08": {
+  "field": "3iatlas-t08",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    173.3306741370147,
+    2.9909971569947653
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t09": {
+  "field": "3iatlas-t09",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    172.28553580509677,
+    3.3610381919657404
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t10": {
+  "field": "3iatlas-t10",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    166.97254112710127,
+    5.227465098964425
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 1
+ },
+ "comet:3iatlas-t11": {
+  "field": "3iatlas-t11",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    166.5972171707486,
+    5.35816437308934
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 0
+ },
+ "comet:3iatlas-t12": {
+  "field": "3iatlas-t12",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    166.5266204965325,
+    5.383249509995
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 2,
+  "n_frames_qc_pass": 2
+ },
+ "comet:3iatlas-t13": {
+  "field": "3iatlas-t13",
+  "group": "3iatlas",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    166.374853694,
+    5.435907939
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 1,
+  "n_frames_qc_pass": 1
+ }
+}

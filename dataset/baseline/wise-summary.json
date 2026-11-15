@@ -1,0 +1,172 @@
+{
+ "mission": "wise",
+ "detector": "dataset/tools/baseline.py (median-reference difference imaging, 5 sigma)",
+ "real": {
+  "frames": 733,
+  "detections": 6029,
+  "known_sso_visible": 0,
+  "known_sso_recovered": 0,
+  "known_mover_visible": 51,
+  "known_mover_recovered": 50,
+  "unexplained_per_frame": 6.874488403819918,
+  "unexplained_coincident_per_frame": 4.115961800818554
+ },
+ "injected": {
+  "realizations": 40,
+  "object_frames_scored": 15629,
+  "new_false_detections_per_frame": 0.9832878581173261,
+  "completeness_by_snr": [
+   {
+    "snr_bin": "[0.0, 3.0)",
+    "completeness": 0.022172949002217297,
+    "n": 451
+   },
+   {
+    "snr_bin": "[3.0, 5.0)",
+    "completeness": 0.11208406304728546,
+    "n": 571
+   },
+   {
+    "snr_bin": "[5.0, 10.0)",
+    "completeness": 0.4039955604883463,
+    "n": 901
+   },
+   {
+    "snr_bin": "[10.0, 20.0)",
+    "completeness": 0.5483383685800605,
+    "n": 1324
+   },
+   {
+    "snr_bin": "[20.0, 50.0)",
+    "completeness": 0.5844988344988346,
+    "n": 1716
+   },
+   {
+    "snr_bin": "[50.0, 1000000000.0)",
+    "completeness": 0.8098591549295775,
+    "n": 5538
+   }
+  ],
+  "completeness_snr_ge_10_by_class": [
+   {
+    "class": "distant_planet",
+    "completeness_snr10": 0.9646596858638743,
+    "n": 764
+   },
+   {
+    "class": "fast_mover",
+    "completeness_snr10": 0.9718526100307062,
+    "n": 1954
+   },
+   {
+    "class": "pm_star",
+    "completeness_snr10": 0.763134193935755,
+    "n": 3331
+   },
+   {
+    "class": "transient",
+    "completeness_snr10": 0.954954954954955,
+    "n": 111
+   },
+   {
+    "class": "variable",
+    "completeness_snr10": 0.38461538461538464,
+    "n": 2418
+   }
+  ],
+  "static_sources_flagged_snr_ge_10": [
+   {
+    "class": "pm_star",
+    "flagged_rate_snr10": 0.41985353946297804,
+    "n": 1229
+   },
+   {
+    "class": "static",
+    "flagged_rate_snr10": 0.0039249890972525075,
+    "n": 2293
+   }
+  ]
+ },
+ "test_fold": {
+  "stacks": [
+   "wise:wise0855",
+   "wise:wise0855_control",
+   "wise:wolf359"
+  ],
+  "completeness_by_snr": [
+   {
+    "snr_bin": "[0.0, 3.0)",
+    "completeness": 0.025210084033613446,
+    "n": 238
+   },
+   {
+    "snr_bin": "[3.0, 5.0)",
+    "completeness": 0.10849056603773585,
+    "n": 212
+   },
+   {
+    "snr_bin": "[5.0, 10.0)",
+    "completeness": 0.41064638783269963,
+    "n": 263
+   },
+   {
+    "snr_bin": "[10.0, 20.0)",
+    "completeness": 0.6691312384473198,
+    "n": 541
+   },
+   {
+    "snr_bin": "[20.0, 50.0)",
+    "completeness": 0.5691699604743083,
+    "n": 506
+   },
+   {
+    "snr_bin": "[50.0, 1000000000.0)",
+    "completeness": 0.8560097620500305,
+    "n": 1639
+   }
+  ],
+  "completeness_snr_ge_10_by_class": [
+   {
+    "class": "distant_planet",
+    "completeness_snr10": 0.9767441860465116,
+    "n": 258
+   },
+   {
+    "class": "fast_mover",
+    "completeness_snr10": 0.9709302325581395,
+    "n": 688
+   },
+   {
+    "class": "pm_star",
+    "completeness_snr10": 0.8784648187633263,
+    "n": 938
+   },
+   {
+    "class": "transient",
+    "completeness_snr10": 1.0,
+    "n": 43
+   },
+   {
+    "class": "variable",
+    "completeness_snr10": 0.35046113306982873,
+    "n": 759
+   }
+  ],
+  "static_sources_flagged_snr_ge_10": [
+   {
+    "class": "pm_star",
+    "flagged_rate_snr10": 0.5903614457831325,
+    "n": 498
+   },
+   {
+    "class": "static",
+    "flagged_rate_snr10": 0.0032679738562091504,
+    "n": 612
+   }
+  ],
+  "new_false_detections_per_frame": 0.6430084745762712,
+  "real_known_mover_visible": 9,
+  "real_known_mover_recovered": 8,
+  "real_unexplained_per_frame": 4.470338983050848
+ }
+}

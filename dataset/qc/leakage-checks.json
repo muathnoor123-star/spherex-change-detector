@@ -1,0 +1,18 @@
+{
+ "overlapping_footprints_different_groups": [],
+ "near_pairs_within_1deg_different_groups": [
+  {
+   "a": "spherex:gaia-3864972938605115520",
+   "b": "neossat:phaethon-c06",
+   "sep_deg": 0.3176490989147148,
+   "sum_half_diagonals_deg": 0.30547012947258856
+  },
+  {
+   "a": "wise:wolf359",
+   "b": "neossat:phaethon-c06",
+   "sep_deg": 0.32569177069236327,
+   "sum_half_diagonals_deg": 0.2199887763691481
+  }
+ ],
+ "shared_source_files_across_groups": []
+}

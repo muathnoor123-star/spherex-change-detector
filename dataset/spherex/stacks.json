@@ -1,0 +1,860 @@
+{
+ "spherex:barnards-star": {
+  "field": "barnards-star",
+  "group": "barnard",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    269.44637593139487,
+    4.768697610084602
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 58
+ },
+ "spherex:epsilon-indi-b": {
+  "field": "epsilon-indi-b",
+  "group": "epsilon_indi_b",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    331.0965274145424,
+    -56.80063458363469
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 59
+ },
+ "spherex:gaia-1057879895596316416": {
+  "field": "gaia-1057879895596316416",
+  "group": "gaia_1057879895596316416",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    175.0895074913266,
+    67.23608320000227
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 59
+ },
+ "spherex:gaia-1711005951573009792": {
+  "field": "gaia-1711005951573009792",
+  "group": "gaia_1711005951573009792",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    267.3765317726367,
+    82.79777434926656
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:gaia-1872046609345556480": {
+  "field": "gaia-1872046609345556480",
+  "group": "61cyg_a",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    316.7627371948602,
+    38.772609049092516
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:gaia-2306965202564744064": {
+  "field": "gaia-2306965202564744064",
+  "group": "gaia_2306965202564744064",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    1.4023535846845945,
+    -37.37404505734414
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 58
+ },
+ "spherex:gaia-3098328182579892096": {
+  "field": "gaia-3098328182579892096",
+  "group": "gaia_3098328182579892096",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    122.99770529425136,
+    8.736175004539145
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:gaia-3139847906307949696": {
+  "field": "gaia-3139847906307949696",
+  "group": "gaia_3139847906307949696",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    111.85622911312932,
+    5.19909119300724
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 58
+ },
+ "spherex:gaia-3195919528989223040": {
+  "field": "gaia-3195919528989223040",
+  "group": "gaia_3195919528989223040",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    63.80175869349433,
+    -7.677493684350191
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 58
+ },
+ "spherex:gaia-3713594960831605760": {
+  "field": "gaia-3713594960831605760",
+  "group": "gaia_3713594960831605760",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    204.10593473958693,
+    3.671461089740974
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 58
+ },
+ "spherex:gaia-3864972938605115520": {
+  "field": "gaia-3864972938605115520",
+  "group": "wolf359",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    164.0927218394913,
+    6.995481079477372
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 46
+ },
+ "spherex:gaia-4034171629042489088": {
+  "field": "gaia-4034171629042489088",
+  "group": "gaia_4034171629042489088",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    178.2809115957259,
+    37.67720252396499
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 45
+ },
+ "spherex:gaia-411413822074322432": {
+  "field": "gaia-411413822074322432",
+  "group": "gaia_411413822074322432",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    17.11116256485942,
+    54.908970574244975
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:gaia-4810594479418041856": {
+  "field": "gaia-4810594479418041856",
+  "group": "gaia_4810594479418041856",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    77.9851791913215,
+    -45.05952588894859
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 54
+ },
+ "spherex:gaia-4847957293278177024": {
+  "field": "gaia-4847957293278177024",
+  "group": "gaia_4847957293278177024",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    50.011665642780734,
+    -43.06460785692001
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 53
+ },
+ "spherex:gaia-5115463180914712448": {
+  "field": "gaia-5115463180914712448",
+  "group": "gaia_5115463180914712448",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    54.57609121737816,
+    -11.506441081740643
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 49
+ },
+ "spherex:gaia-5140693571158739840": {
+  "field": "gaia-5140693571158739840",
+  "group": "gaia_5140693571158739840",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    24.781224968486665,
+    -17.946861312254853
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:gaia-6281432246412503424": {
+  "field": "gaia-6281432246412503424",
+  "group": "gaia_6281432246412503424",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    221.06249410772938,
+    -20.337805542165622
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 59
+ },
+ "spherex:gaia-6307374845312759552": {
+  "field": "gaia-6307374845312759552",
+  "group": "gaia_6307374845312759552",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    227.54706322985527,
+    -16.404829458200496
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:gaia-6553614253923452800": {
+  "field": "gaia-6553614253923452800",
+  "group": "gaia_6553614253923452800",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    346.52625859373205,
+    -35.84363743986675
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 51
+ },
+ "spherex:gaia-6583272171336048640": {
+  "field": "gaia-6583272171336048640",
+  "group": "gaia_6583272171336048640",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    319.283476474406,
+    -38.87561224450694
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 53
+ },
+ "spherex:gaia-762815470562110464": {
+  "field": "gaia-762815470562110464",
+  "group": "lalande21185",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    165.82910362272736,
+    35.935434696961266
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 59
+ },
+ "spherex:gaia-778947814402602752": {
+  "field": "gaia-778947814402602752",
+  "group": "gaia_778947814402602752",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    166.32554215157234,
+    43.53347096490899
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 55
+ },
+ "spherex:luhman16": {
+  "field": "luhman16",
+  "group": "luhman16",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    162.29499167366842,
+    -53.31688765842065
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 58
+ },
+ "spherex:m101": {
+  "field": "m101",
+  "group": "m101",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    210.8024292,
+    54.34875
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 57
+ },
+ "spherex:m31": {
+  "field": "m31",
+  "group": "m31",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    10.6847083,
+    41.26875
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 46
+ },
+ "spherex:m51": {
+  "field": "m51",
+  "group": "m51",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    202.469575,
+    47.1952583
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 56
+ },
+ "spherex:proxima": {
+  "field": "proxima",
+  "group": "proxima",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    217.3696507628667,
+    -62.67397392399402
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ },
+ "spherex:r-draconis": {
+  "field": "r-draconis",
+  "group": "r_draconis",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    248.16723281055434,
+    66.75502374582722
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 56
+ },
+ "spherex:ross128": {
+  "field": "ross128",
+  "group": "ross128",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    176.93942999212692,
+    0.795722796422468
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 53
+ },
+ "spherex:rw-aurigae": {
+  "field": "rw-aurigae",
+  "group": "rw_aurigae",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    76.95658209442357,
+    30.401290143078064
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 59
+ },
+ "spherex:teegarden": {
+  "field": "teegarden",
+  "group": "teegarden",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    43.2796289796594,
+    16.853669590172327
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 59
+ },
+ "spherex:wise0855": {
+  "field": "wise0855",
+  "group": "wise0855",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    133.7598861376665,
+    -7.242219378626845
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0017083333333333334,
+    0.0017083333333333334
+   ],
+   "npix": 128
+  },
+  "n_frames": 60,
+  "n_frames_qc_pass": 60
+ }
+}

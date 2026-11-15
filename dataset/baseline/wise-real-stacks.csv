@@ -1,0 +1,11 @@
+stack_id,n_frames,n_detections,sso_visible,sso_recovered,mover_visible,mover_recovered,unexplained,unexplained_coincident
+wise:61cyg_a,75,1366,0,0,0,0,984,635
+wise:barnard,73,563,0,0,0,0,373,235
+wise:barnard_control,82,1013,0,0,0,0,828,692
+wise:epsilon_indi_b,76,540,0,0,22,22,508,207
+wise:lalande21185,76,1002,0,0,0,0,982,662
+wise:luhman16,45,276,0,0,14,14,196,122
+wise:teegarden,70,156,0,0,6,6,113,63
+wise:wise0855,80,449,0,0,9,8,424,102
+wise:wise0855_control,84,395,0,0,0,0,379,91
+wise:wolf359,72,269,0,0,0,0,252,208

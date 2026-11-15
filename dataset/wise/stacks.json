@@ -1,0 +1,262 @@
+{
+ "wise:61cyg_a": {
+  "field": "61cyg_a",
+  "group": "61cyg_a",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    316.7535960983783,
+    38.76694432228793
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 75
+ },
+ "wise:barnard": {
+  "field": "barnard",
+  "group": "barnard",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    269.44793911707717,
+    4.748508793178836
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 82,
+  "n_frames_qc_pass": 73
+ },
+ "wise:barnard_control": {
+  "field": "barnard_control",
+  "group": "barnard",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    269.8479389571521,
+    4.748612970442602
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 82
+ },
+ "wise:epsilon_indi_b": {
+  "field": "epsilon_indi_b",
+  "group": "epsilon_indi_b",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    331.0832548682268,
+    -56.79603457892409
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 76
+ },
+ "wise:lalande21185": {
+  "field": "lalande21185",
+  "group": "lalande21185",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    165.83017359799564,
+    35.94424058087388
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 76
+ },
+ "wise:luhman16": {
+  "field": "luhman16",
+  "group": "luhman16",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    162.30425529031527,
+    -53.31743971445244
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 48,
+  "n_frames_qc_pass": 45
+ },
+ "wise:teegarden": {
+  "field": "teegarden",
+  "group": "teegarden",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    43.27263002628335,
+    16.861103383552766
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 70
+ },
+ "wise:wise0855": {
+  "field": "wise0855",
+  "group": "wise0855",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    133.7748327277641,
+    -7.2434090389434305
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 80
+ },
+ "wise:wise0855_control": {
+  "field": "wise0855_control",
+  "group": "wise0855",
+  "is_control": true,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    134.1748304063649,
+    -7.243408552078175
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 84
+ },
+ "wise:wolf359": {
+  "field": "wolf359",
+  "group": "wolf359",
+  "is_control": false,
+  "grid": {
+   "ctype": [
+    "RA---TAN",
+    "DEC--TAN"
+   ],
+   "crval": [
+    164.0994096148032,
+    7.000224636362202
+   ],
+   "crpix_1based": [
+    64.5,
+    64.5
+   ],
+   "cdelt_deg": [
+    -0.0007638888888888889,
+    0.0007638888888888889
+   ],
+   "npix": 128
+  },
+  "n_frames": 84,
+  "n_frames_qc_pass": 72
+ }
+}

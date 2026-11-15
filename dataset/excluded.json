@@ -1,0 +1,42 @@
+[
+ {
+  "item": "wise/images/ (44 IRSA server cutouts of Epsilon Indi B)",
+  "reason": "Same exposures as the full NEOWISE frames used here; the full frames carry the uncertainty and mask planes."
+ },
+ {
+  "item": "gaia/*-dr3-context.csv (10 bounded tables)",
+  "reason": "Four were cut at 5,000 rows. Replaced by complete Gaia DR3 queries (no row limit) with DSC and variability classes."
+ },
+ {
+  "item": "gaia/extras/ (XP and RVS spectra, epoch photometry, AP tables)",
+  "reason": "Not needed for motion labels; class probabilities come from the new Gaia query. Kept in the source folder for spectral work."
+ },
+ {
+  "item": "wise/unwise/ (unWISE neo7 time-domain catalogues)",
+  "reason": "Detection catalogues, not images. Suitable for a separate tabular track-linking task; not used here."
+ },
+ {
+  "item": "spherex/spectral-context/ (12 DR1 HEALPix cubes)",
+  "reason": "About 14 arcsec per pixel against 6.15 arcsec in the frames, and built from the same exposures, so not a valid independent subtraction template."
+ },
+ {
+  "item": "spherex/calibration/ (87 products)",
+  "reason": "Already applied in the Level-2 frames."
+ },
+ {
+  "item": "spherex-context/ (SPLICES, spectral calibration tar, M101 cube)",
+  "reason": "Selection-biased ice-candidate catalogue and laboratory calibration; no motion information."
+ },
+ {
+  "item": "neossat frames without a celestial WCS (214: all 192 of 1999 KW4, all 22 of the Tabby field)",
+  "reason": "Cannot be placed on the sky without plate solving; listed in neossat/excluded-frames.csv."
+ },
+ {
+  "item": "asteroid positions from IMCCE SkyBoT (used in v1.0)",
+  "reason": "Not a NASA or listed partner source and its reuse terms were not confirmed; removed in v1.1."
+ },
+ {
+  "item": "frames failing QC",
+  "reason": "Kept in the stack arrays with qc_pass = False and the reason in qc_reasons; the loader drops them by default."
+ }
+]

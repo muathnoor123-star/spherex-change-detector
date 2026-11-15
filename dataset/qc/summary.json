@@ -1,0 +1,260 @@
+{
+ "dataset_version": "1.2.0",
+ "missions": {
+  "spherex": {
+   "stacks": 33,
+   "frames": 1980,
+   "frames_qc_pass": 1856,
+   "qc_rejections": {
+    "registration_insufficient_stars": 78,
+    "target_region_not_covered": 32,
+    "low_coverage": 24,
+    "registration_uncertain": 16,
+    "noisy": 2
+   },
+   "registration_shift_err_px_median": 0.012047866888024308,
+   "registration_star_scatter_px_median": 0.04830722240146697,
+   "source_rows": 69412,
+   "classes": {
+    "star": 49320,
+    "ir_only_point": 11706,
+    "unknown_point": 4703,
+    "extended_ir": 2609,
+    "galaxy": 508,
+    "variable_star": 352,
+    "quasar": 211,
+    "brown_dwarf": 3
+   },
+   "real_movers_detectable": 4,
+   "sso_in_grid": 0,
+   "sso_detected_snr5": 0,
+   "psf_source": {
+    "frame": 777,
+    "stack_band": 743,
+    "mission_band": 460
+   },
+   "psf_fwhm_px_median": 1.8227340554900804,
+   "injected_realizations": 198,
+   "injected_objects": {
+    "pm_star": 498,
+    "transient": 368,
+    "distant_planet": 317,
+    "static": 275,
+    "variable": 269,
+    "fast_mover": 253
+   }
+  },
+  "wise": {
+   "stacks": 10,
+   "frames": 802,
+   "frames_qc_pass": 733,
+   "qc_rejections": {
+    "low_coverage": 51,
+    "target_region_not_covered": 50,
+    "registration_insufficient_stars": 18,
+    "noisy": 3,
+    "registration_uncertain": 1
+   },
+   "registration_shift_err_px_median": 0.01245961873284448,
+   "registration_star_scatter_px_median": 0.060921016993592134,
+   "source_rows": 4734,
+   "classes": {
+    "star": 3974,
+    "ir_only_point": 557,
+    "unknown_point": 148,
+    "extended_ir": 26,
+    "variable_star": 20,
+    "galaxy": 4,
+    "brown_dwarf": 3,
+    "quasar": 2
+   },
+   "real_movers_detectable": 9,
+   "sso_in_grid": 0,
+   "sso_detected_snr5": 0,
+   "psf_source": {
+    "mission_band": 461,
+    "stack_band": 327,
+    "frame": 14
+   },
+   "psf_fwhm_px_median": 2.799710868514077,
+   "injected_realizations": 40,
+   "injected_objects": {
+    "pm_star": 90,
+    "transient": 81,
+    "distant_planet": 75,
+    "fast_mover": 58,
+    "static": 54,
+    "variable": 42
+   }
+  },
+  "comet": {
+   "stacks": 14,
+   "frames": 24,
+   "frames_qc_pass": 23,
+   "qc_rejections": {
+    "registration_insufficient_stars": 1
+   },
+   "registration_shift_err_px_median": 0.007668607154698099,
+   "registration_star_scatter_px_median": 0.04254453185656491,
+   "source_rows": 19716,
+   "classes": {
+    "star": 14475,
+    "ir_only_point": 4728,
+    "unknown_point": 374,
+    "variable_star": 65,
+    "galaxy": 38,
+    "extended_ir": 13,
+    "comet": 13,
+    "quasar": 10
+   },
+   "real_movers_detectable": 0,
+   "sso_in_grid": 13,
+   "sso_detected_snr5": 9
+  },
+  "neossat": {
+   "stacks": 69,
+   "frames": 614,
+   "frames_qc_pass": 228,
+   "qc_rejections": {
+    "registration_uncertain": 242,
+    "registration_insufficient_stars": 144,
+    "low_coverage": 12,
+    "noisy": 11,
+    "target_region_not_covered": 2
+   },
+   "registration_shift_err_px_median": 0.10521730359513326,
+   "registration_star_scatter_px_median": 0.31588293484598784,
+   "source_rows": 19352,
+   "classes": {
+    "ir_only_point": 13824,
+    "star": 5096,
+    "unknown_point": 130,
+    "galaxy": 110,
+    "variable_star": 71,
+    "quasar": 63,
+    "extended_ir": 30,
+    "comet": 19,
+    "asteroid": 9
+   },
+   "real_movers_detectable": 7,
+   "sso_in_grid": 28,
+   "sso_detected_snr5": 12
+  }
+ },
+ "samples_by_split": [
+  {
+   "split": "test",
+   "mission": "neossat",
+   "sample_type": "real_stack",
+   "n": 20
+  },
+  {
+   "split": "test",
+   "mission": "spherex",
+   "sample_type": "injected",
+   "n": 48
+  },
+  {
+   "split": "test",
+   "mission": "spherex",
+   "sample_type": "real_stack",
+   "n": 8
+  },
+  {
+   "split": "test",
+   "mission": "wise",
+   "sample_type": "epoch_coadd",
+   "n": 3
+  },
+  {
+   "split": "test",
+   "mission": "wise",
+   "sample_type": "injected",
+   "n": 12
+  },
+  {
+   "split": "test",
+   "mission": "wise",
+   "sample_type": "real_stack",
+   "n": 3
+  },
+  {
+   "split": "train",
+   "mission": "comet",
+   "sample_type": "real_stack",
+   "n": 14
+  },
+  {
+   "split": "train",
+   "mission": "neossat",
+   "sample_type": "real_stack",
+   "n": 39
+  },
+  {
+   "split": "train",
+   "mission": "spherex",
+   "sample_type": "injected",
+   "n": 102
+  },
+  {
+   "split": "train",
+   "mission": "spherex",
+   "sample_type": "real_stack",
+   "n": 17
+  },
+  {
+   "split": "train",
+   "mission": "wise",
+   "sample_type": "epoch_coadd",
+   "n": 5
+  },
+  {
+   "split": "train",
+   "mission": "wise",
+   "sample_type": "injected",
+   "n": 20
+  },
+  {
+   "split": "train",
+   "mission": "wise",
+   "sample_type": "real_stack",
+   "n": 5
+  },
+  {
+   "split": "val",
+   "mission": "neossat",
+   "sample_type": "real_stack",
+   "n": 10
+  },
+  {
+   "split": "val",
+   "mission": "spherex",
+   "sample_type": "injected",
+   "n": 48
+  },
+  {
+   "split": "val",
+   "mission": "spherex",
+   "sample_type": "real_stack",
+   "n": 8
+  },
+  {
+   "split": "val",
+   "mission": "wise",
+   "sample_type": "epoch_coadd",
+   "n": 2
+  },
+  {
+   "split": "val",
+   "mission": "wise",
+   "sample_type": "injected",
+   "n": 8
+  },
+  {
+   "split": "val",
+   "mission": "wise",
+   "sample_type": "real_stack",
+   "n": 2
+  }
+ ]
+}

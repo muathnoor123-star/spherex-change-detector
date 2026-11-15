@@ -1,0 +1,112 @@
+{
+ "folds": {
+  "0": [
+   "wise0855",
+   "r_draconis",
+   "m31",
+   "wolf359",
+   "neossat_neowise",
+   "gaia_1057879895596316416",
+   "gaia_3195919528989223040",
+   "gaia_4847957293278177024",
+   "gaia_6553614253923452800"
+  ],
+  "1": [
+   "epsilon_indi_b",
+   "rw_aurigae",
+   "m101",
+   "lalande21185",
+   "neossat_phaethon",
+   "gaia_1711005951573009792",
+   "gaia_3713594960831605760",
+   "gaia_5115463180914712448",
+   "gaia_6583272171336048640"
+  ],
+  "2": [
+   "luhman16",
+   "m51",
+   "61cyg_a",
+   "neossat_2021S3",
+   "neossat_tabby",
+   "gaia_2306965202564744064",
+   "gaia_4034171629042489088",
+   "gaia_5140693571158739840",
+   "gaia_778947814402602752"
+  ],
+  "3": [
+   "barnard",
+   "proxima",
+   "neossat_TCrB",
+   "neossat_1999KW4",
+   "gaia_3098328182579892096",
+   "gaia_411413822074322432",
+   "gaia_6281432246412503424"
+  ],
+  "4": [
+   "teegarden",
+   "ross128",
+   "3iatlas",
+   "neossat_12P",
+   "gaia_3139847906307949696",
+   "gaia_4810594479418041856",
+   "gaia_6307374845312759552"
+  ]
+ },
+ "default_split": {
+  "test": [
+   0
+  ],
+  "val": [
+   1
+  ],
+  "train": [
+   2,
+   3,
+   4
+  ]
+ },
+ "group_to_fold": {
+  "wise0855": 0,
+  "r_draconis": 0,
+  "m31": 0,
+  "wolf359": 0,
+  "neossat_neowise": 0,
+  "gaia_1057879895596316416": 0,
+  "gaia_3195919528989223040": 0,
+  "gaia_4847957293278177024": 0,
+  "gaia_6553614253923452800": 0,
+  "epsilon_indi_b": 1,
+  "rw_aurigae": 1,
+  "m101": 1,
+  "lalande21185": 1,
+  "neossat_phaethon": 1,
+  "gaia_1711005951573009792": 1,
+  "gaia_3713594960831605760": 1,
+  "gaia_5115463180914712448": 1,
+  "gaia_6583272171336048640": 1,
+  "luhman16": 2,
+  "m51": 2,
+  "61cyg_a": 2,
+  "neossat_2021S3": 2,
+  "neossat_tabby": 2,
+  "gaia_2306965202564744064": 2,
+  "gaia_4034171629042489088": 2,
+  "gaia_5140693571158739840": 2,
+  "gaia_778947814402602752": 2,
+  "barnard": 3,
+  "proxima": 3,
+  "neossat_TCrB": 3,
+  "neossat_1999KW4": 3,
+  "gaia_3098328182579892096": 3,
+  "gaia_411413822074322432": 3,
+  "gaia_6281432246412503424": 3,
+  "teegarden": 4,
+  "ross128": 4,
+  "3iatlas": 4,
+  "neossat_12P": 4,
+  "gaia_3139847906307949696": 4,
+  "gaia_4810594479418041856": 4,
+  "gaia_6307374845312759552": 4
+ },
+ "rule": "All products of one physical group (every mission, its offset control field, every derived and injected sample) share one fold. Use the folds for 5-fold cross-validation or the default split (test fold 0, validation fold 1)."
+}
