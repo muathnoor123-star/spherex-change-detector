@@ -1,0 +1,72 @@
+{
+  "validation": {
+    "spatial_temporal": {
+      "accuracy": 0.9771036696768806,
+      "average_precision": 0.7973799432352563,
+      "precision": 0.7825401827923101,
+      "recall": 0.6999295278365045,
+      "f1": 0.738933115095603,
+      "alerts": 6346
+    },
+    "with_neighbors": {
+      "accuracy": 0.9795570809625724,
+      "average_precision": 0.8321346100357092,
+      "precision": 0.8122635561160151,
+      "recall": 0.7262861169837914,
+      "f1": 0.766872535158866,
+      "alerts": 6344
+    }
+  },
+  "selected": "with_neighbors",
+  "threshold": 0.46742615420600675,
+  "test": {
+    "accuracy": 0.9776957352005092,
+    "average_precision": 0.7708428769476393,
+    "precision": 0.7764285714285715,
+    "recall": 0.6587878787878788,
+    "f1": 0.7127868852459016,
+    "alerts": 4200
+  },
+  "candidates": 117825,
+  "fields": 8,
+  "positives": 4950,
+  "multiclass": {
+    "background": {
+      "precision": 0.9851353135313531,
+      "recall": 0.9916810631229236,
+      "f1-score": 0.9883973509933774,
+      "support": 112875.0
+    },
+    "motion": {
+      "precision": 0.7443422913719944,
+      "recall": 0.6901639344262295,
+      "f1-score": 0.7162300102075536,
+      "support": 3050.0
+    },
+    "transient": {
+      "precision": 0.2631578947368421,
+      "recall": 0.10752688172043011,
+      "f1-score": 0.15267175572519084,
+      "support": 93.0
+    },
+    "variable": {
+      "precision": 0.7053973013493253,
+      "recall": 0.5207526286662977,
+      "f1-score": 0.5991722381407195,
+      "support": 1807.0
+    },
+    "accuracy": 0.9759558667515383,
+    "macro avg": {
+      "precision": 0.6745082002473788,
+      "recall": 0.5775311269839701,
+      "f1-score": 0.6141178387667103,
+      "support": 117825.0
+    },
+    "weighted avg": {
+      "precision": 0.9740421736582627,
+      "recall": 0.9759558667515383,
+      "f1-score": 0.9747231507075174,
+      "support": 117825.0
+    }
+  }
+}
